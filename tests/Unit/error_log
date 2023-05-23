@@ -1,0 +1,56 @@
+[30-Aug-2022 14:49:19 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Tests\TestCase' not found in /home/knoprotec/public_html/tests/Unit/ExampleTest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/tests/Unit/ExampleTest.php on line 8
+[30-Aug-2022 20:13:12 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Tests\TestCase' not found in /home/knoprotec/public_html/tests/Unit/ExampleTest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/tests/Unit/ExampleTest.php on line 8
+[02-Sep-2022 17:27:25 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Tests\TestCase' not found in /home/knoprotec/public_html/tests/Unit/ExampleTest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/tests/Unit/ExampleTest.php on line 8
+[04-Sep-2022 17:38:38 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Tests\TestCase' not found in /home/knoprotec/public_html/tests/Unit/ExampleTest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/tests/Unit/ExampleTest.php on line 8
+[11-Sep-2022 19:36:43 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Tests\TestCase' not found in /home/knoprotec/public_html/tests/Unit/ExampleTest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/tests/Unit/ExampleTest.php on line 8
+[13-Sep-2022 03:53:03 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Tests\TestCase' not found in /home/knoprotec/public_html/tests/Unit/ExampleTest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/tests/Unit/ExampleTest.php on line 8
+[15-Sep-2022 09:43:14 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Tests\TestCase' not found in /home/knoprotec/public_html/tests/Unit/ExampleTest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/tests/Unit/ExampleTest.php on line 8
+[11-Oct-2022 08:30:19 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Tests\TestCase' not found in /home/knoprotec/public_html/tests/Unit/ExampleTest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/tests/Unit/ExampleTest.php on line 8
+[11-Oct-2022 18:03:16 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Tests\TestCase' not found in /home/knoprotec/public_html/tests/Unit/ExampleTest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/tests/Unit/ExampleTest.php on line 8
+[13-Oct-2022 09:06:16 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Tests\TestCase' not found in /home/knoprotec/public_html/tests/Unit/ExampleTest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/tests/Unit/ExampleTest.php on line 8
+[18-Oct-2022 15:47:27 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Tests\TestCase' not found in /home/knoprotec/public_html/tests/Unit/ExampleTest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/tests/Unit/ExampleTest.php on line 8
+[25-Oct-2022 07:19:36 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Tests\TestCase' not found in /home/knoprotec/public_html/tests/Unit/ExampleTest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/tests/Unit/ExampleTest.php on line 8
+[31-Oct-2022 11:45:38 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Tests\TestCase' not found in /home/knoprotec/public_html/tests/Unit/ExampleTest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/tests/Unit/ExampleTest.php on line 8
+[31-Mar-2023 15:54:39 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Tests\TestCase' not found in /home/knoprotec/public_html/tests/Unit/ExampleTest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/tests/Unit/ExampleTest.php on line 8

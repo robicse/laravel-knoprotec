@@ -1,0 +1,176 @@
+[01-Sep-2022 05:05:11 America/New_York] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/knoprotec/public_html/app/Http/Controllers/API/CategoriesController.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Http/Controllers/API/CategoriesController.php on line 23
+[01-Sep-2022 05:05:13 America/New_York] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/knoprotec/public_html/app/Http/Controllers/API/PublicSslCommerzPaymentController.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Http/Controllers/API/PublicSslCommerzPaymentController.php on line 17
+[01-Sep-2022 05:05:19 America/New_York] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/knoprotec/public_html/app/Http/Controllers/API/UserController.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Http/Controllers/API/UserController.php on line 23
+[04-Sep-2022 07:40:59 America/New_York] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/knoprotec/public_html/app/Http/Controllers/API/CategoriesController.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Http/Controllers/API/CategoriesController.php on line 23
+[04-Sep-2022 07:49:49 America/New_York] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/knoprotec/public_html/app/Http/Controllers/API/PublicSslCommerzPaymentController.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Http/Controllers/API/PublicSslCommerzPaymentController.php on line 17
+[04-Sep-2022 08:07:25 America/New_York] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/knoprotec/public_html/app/Http/Controllers/API/UserController.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Http/Controllers/API/UserController.php on line 23
+[13-Sep-2022 22:31:08 America/New_York] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/knoprotec/public_html/app/Http/Controllers/API/UserController.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Http/Controllers/API/UserController.php on line 23
+[13-Sep-2022 22:44:48 America/New_York] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/knoprotec/public_html/app/Http/Controllers/API/PublicSslCommerzPaymentController.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Http/Controllers/API/PublicSslCommerzPaymentController.php on line 17
+[13-Sep-2022 22:44:54 America/New_York] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/knoprotec/public_html/app/Http/Controllers/API/CategoriesController.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Http/Controllers/API/CategoriesController.php on line 23
+[15-Sep-2022 23:04:11 America/New_York] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/knoprotec/public_html/app/Http/Controllers/API/PublicSslCommerzPaymentController.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Http/Controllers/API/PublicSslCommerzPaymentController.php on line 17
+[17-Sep-2022 21:10:43 America/New_York] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/knoprotec/public_html/app/Http/Controllers/API/CategoriesController.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Http/Controllers/API/CategoriesController.php on line 23
+[18-Sep-2022 11:04:39 America/New_York] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/knoprotec/public_html/app/Http/Controllers/API/UserController.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Http/Controllers/API/UserController.php on line 23
+[21-Sep-2022 11:44:34 America/New_York] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/knoprotec/public_html/app/Http/Controllers/API/CategoriesController.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Http/Controllers/API/CategoriesController.php on line 23
+[26-Sep-2022 14:14:10 America/New_York] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/knoprotec/public_html/app/Http/Controllers/API/CategoriesController.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Http/Controllers/API/CategoriesController.php on line 23
+[26-Sep-2022 14:14:12 America/New_York] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/knoprotec/public_html/app/Http/Controllers/API/PublicSslCommerzPaymentController.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Http/Controllers/API/PublicSslCommerzPaymentController.php on line 17
+[26-Sep-2022 14:14:21 America/New_York] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/knoprotec/public_html/app/Http/Controllers/API/UserController.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Http/Controllers/API/UserController.php on line 23
+[28-Sep-2022 02:11:47 America/New_York] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/knoprotec/public_html/app/Http/Controllers/API/CategoriesController.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Http/Controllers/API/CategoriesController.php on line 23
+[28-Sep-2022 02:11:48 America/New_York] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/knoprotec/public_html/app/Http/Controllers/API/PublicSslCommerzPaymentController.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Http/Controllers/API/PublicSslCommerzPaymentController.php on line 17
+[28-Sep-2022 02:11:56 America/New_York] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/knoprotec/public_html/app/Http/Controllers/API/UserController.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Http/Controllers/API/UserController.php on line 23
+[30-Sep-2022 19:32:06 America/New_York] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/knoprotec/public_html/app/Http/Controllers/API/CategoriesController.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Http/Controllers/API/CategoriesController.php on line 23
+[30-Sep-2022 19:32:08 America/New_York] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/knoprotec/public_html/app/Http/Controllers/API/PublicSslCommerzPaymentController.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Http/Controllers/API/PublicSslCommerzPaymentController.php on line 17
+[30-Sep-2022 19:32:11 America/New_York] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/knoprotec/public_html/app/Http/Controllers/API/UserController.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Http/Controllers/API/UserController.php on line 23
+[12-Oct-2022 01:05:05 America/New_York] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/knoprotec/public_html/app/Http/Controllers/API/CategoriesController.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Http/Controllers/API/CategoriesController.php on line 23
+[12-Oct-2022 01:08:06 America/New_York] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/knoprotec/public_html/app/Http/Controllers/API/UserController.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Http/Controllers/API/UserController.php on line 23
+[12-Oct-2022 01:11:11 America/New_York] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/knoprotec/public_html/app/Http/Controllers/API/PublicSslCommerzPaymentController.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Http/Controllers/API/PublicSslCommerzPaymentController.php on line 17
+[18-Oct-2022 14:10:03 America/New_York] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/knoprotec/public_html/app/Http/Controllers/API/CategoriesController.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Http/Controllers/API/CategoriesController.php on line 23
+[18-Oct-2022 14:10:07 America/New_York] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/knoprotec/public_html/app/Http/Controllers/API/PublicSslCommerzPaymentController.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Http/Controllers/API/PublicSslCommerzPaymentController.php on line 17
+[18-Oct-2022 14:10:15 America/New_York] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/knoprotec/public_html/app/Http/Controllers/API/UserController.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Http/Controllers/API/UserController.php on line 23
+[20-Oct-2022 13:50:55 America/New_York] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/knoprotec/public_html/app/Http/Controllers/API/CategoriesController.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Http/Controllers/API/CategoriesController.php on line 23
+[20-Oct-2022 13:50:59 America/New_York] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/knoprotec/public_html/app/Http/Controllers/API/PublicSslCommerzPaymentController.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Http/Controllers/API/PublicSslCommerzPaymentController.php on line 17
+[20-Oct-2022 13:51:02 America/New_York] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/knoprotec/public_html/app/Http/Controllers/API/UserController.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Http/Controllers/API/UserController.php on line 23
+[24-Oct-2022 23:58:29 America/New_York] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/knoprotec/public_html/app/Http/Controllers/API/CategoriesController.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Http/Controllers/API/CategoriesController.php on line 23
+[24-Oct-2022 23:58:32 America/New_York] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/knoprotec/public_html/app/Http/Controllers/API/PublicSslCommerzPaymentController.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Http/Controllers/API/PublicSslCommerzPaymentController.php on line 17
+[24-Oct-2022 23:58:39 America/New_York] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/knoprotec/public_html/app/Http/Controllers/API/UserController.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Http/Controllers/API/UserController.php on line 23
+[25-Oct-2022 12:56:12 America/New_York] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/knoprotec/public_html/app/Http/Controllers/API/UserController.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Http/Controllers/API/UserController.php on line 23
+[25-Oct-2022 12:57:15 America/New_York] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/knoprotec/public_html/app/Http/Controllers/API/CategoriesController.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Http/Controllers/API/CategoriesController.php on line 23
+[25-Oct-2022 13:03:08 America/New_York] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/knoprotec/public_html/app/Http/Controllers/API/PublicSslCommerzPaymentController.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Http/Controllers/API/PublicSslCommerzPaymentController.php on line 17
+[27-Oct-2022 15:49:42 America/New_York] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/knoprotec/public_html/app/Http/Controllers/API/CategoriesController.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Http/Controllers/API/CategoriesController.php on line 23
+[27-Oct-2022 15:49:55 America/New_York] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/knoprotec/public_html/app/Http/Controllers/API/PublicSslCommerzPaymentController.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Http/Controllers/API/PublicSslCommerzPaymentController.php on line 17
+[27-Oct-2022 15:50:10 America/New_York] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/knoprotec/public_html/app/Http/Controllers/API/UserController.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Http/Controllers/API/UserController.php on line 23
+[28-Oct-2022 20:54:07 America/New_York] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/knoprotec/public_html/app/Http/Controllers/API/CategoriesController.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Http/Controllers/API/CategoriesController.php on line 23
+[28-Oct-2022 20:54:11 America/New_York] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/knoprotec/public_html/app/Http/Controllers/API/PublicSslCommerzPaymentController.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Http/Controllers/API/PublicSslCommerzPaymentController.php on line 17
+[28-Oct-2022 20:54:14 America/New_York] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/knoprotec/public_html/app/Http/Controllers/API/UserController.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Http/Controllers/API/UserController.php on line 23
+[08-Jan-2023 08:10:46 America/New_York] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/knoprotec/public_html/app/Http/Controllers/API/CategoriesController.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Http/Controllers/API/CategoriesController.php on line 23

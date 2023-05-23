@@ -1,0 +1,112 @@
+[06-Sep-2022 09:56:40 America/New_York] PHP Notice:  Undefined variable: result in /home/knoprotec/public_html/resources/views/web/common/scripts/shop_page_load_products.blade.php on line 52
+[06-Sep-2022 09:56:40 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/web/common/scripts/shop_page_load_products.blade.php on line 52
+[06-Sep-2022 09:56:40 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/web/common/scripts/shop_page_load_products.blade.php on line 52
+[06-Sep-2022 09:56:40 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/knoprotec/public_html/resources/views/web/common/scripts/shop_page_load_products.blade.php on line 52
+[06-Sep-2022 09:56:40 America/New_York] PHP Notice:  Undefined variable: result in /home/knoprotec/public_html/resources/views/web/common/scripts/shop_page_load_products.blade.php on line 83
+[06-Sep-2022 09:56:40 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/web/common/scripts/shop_page_load_products.blade.php on line 83
+[06-Sep-2022 09:56:40 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/web/common/scripts/shop_page_load_products.blade.php on line 83
+[06-Sep-2022 09:56:40 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/knoprotec/public_html/resources/views/web/common/scripts/shop_page_load_products.blade.php on line 83
+[06-Sep-2022 09:56:41 America/New_York] PHP Notice:  Undefined variable: result in /home/knoprotec/public_html/resources/views/web/common/scripts/slider.blade.php on line 17
+[06-Sep-2022 09:56:41 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/web/common/scripts/slider.blade.php on line 17
+[06-Sep-2022 09:56:41 America/New_York] PHP Notice:  Undefined variable: result in /home/knoprotec/public_html/resources/views/web/common/scripts/slider.blade.php on line 18
+[06-Sep-2022 09:56:41 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/web/common/scripts/slider.blade.php on line 18
+[06-Sep-2022 09:56:41 America/New_York] PHP Notice:  Undefined variable: result in /home/knoprotec/public_html/resources/views/web/common/scripts/slider.blade.php on line 18
+[06-Sep-2022 09:56:41 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/web/common/scripts/slider.blade.php on line 18
+[06-Sep-2022 09:56:41 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/web/common/scripts/slider.blade.php on line 18
+[09-Sep-2022 05:58:03 America/New_York] PHP Notice:  Undefined variable: result in /home/knoprotec/public_html/resources/views/web/common/scripts/shop_page_load_products.blade.php on line 52
+[09-Sep-2022 05:58:03 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/web/common/scripts/shop_page_load_products.blade.php on line 52
+[09-Sep-2022 05:58:03 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/web/common/scripts/shop_page_load_products.blade.php on line 52
+[09-Sep-2022 05:58:03 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/knoprotec/public_html/resources/views/web/common/scripts/shop_page_load_products.blade.php on line 52
+[09-Sep-2022 05:58:03 America/New_York] PHP Notice:  Undefined variable: result in /home/knoprotec/public_html/resources/views/web/common/scripts/shop_page_load_products.blade.php on line 83
+[09-Sep-2022 05:58:03 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/web/common/scripts/shop_page_load_products.blade.php on line 83
+[09-Sep-2022 05:58:03 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/web/common/scripts/shop_page_load_products.blade.php on line 83
+[09-Sep-2022 05:58:03 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/knoprotec/public_html/resources/views/web/common/scripts/shop_page_load_products.blade.php on line 83
+[09-Sep-2022 14:28:34 America/New_York] PHP Notice:  Undefined variable: result in /home/knoprotec/public_html/resources/views/web/common/scripts/slider.blade.php on line 17
+[09-Sep-2022 14:28:34 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/web/common/scripts/slider.blade.php on line 17
+[09-Sep-2022 14:28:34 America/New_York] PHP Notice:  Undefined variable: result in /home/knoprotec/public_html/resources/views/web/common/scripts/slider.blade.php on line 18
+[09-Sep-2022 14:28:34 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/web/common/scripts/slider.blade.php on line 18
+[09-Sep-2022 14:28:34 America/New_York] PHP Notice:  Undefined variable: result in /home/knoprotec/public_html/resources/views/web/common/scripts/slider.blade.php on line 18
+[09-Sep-2022 14:28:34 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/web/common/scripts/slider.blade.php on line 18
+[09-Sep-2022 14:28:34 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/web/common/scripts/slider.blade.php on line 18
+[11-Sep-2022 04:11:47 America/New_York] PHP Notice:  Undefined variable: result in /home/knoprotec/public_html/resources/views/web/common/scripts/shop_page_load_products.blade.php on line 52
+[11-Sep-2022 04:11:47 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/web/common/scripts/shop_page_load_products.blade.php on line 52
+[11-Sep-2022 04:11:47 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/web/common/scripts/shop_page_load_products.blade.php on line 52
+[11-Sep-2022 04:11:47 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/knoprotec/public_html/resources/views/web/common/scripts/shop_page_load_products.blade.php on line 52
+[11-Sep-2022 04:11:47 America/New_York] PHP Notice:  Undefined variable: result in /home/knoprotec/public_html/resources/views/web/common/scripts/shop_page_load_products.blade.php on line 83
+[11-Sep-2022 04:11:47 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/web/common/scripts/shop_page_load_products.blade.php on line 83
+[11-Sep-2022 04:11:47 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/web/common/scripts/shop_page_load_products.blade.php on line 83
+[11-Sep-2022 04:11:47 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/knoprotec/public_html/resources/views/web/common/scripts/shop_page_load_products.blade.php on line 83
+[11-Sep-2022 04:11:49 America/New_York] PHP Notice:  Undefined variable: result in /home/knoprotec/public_html/resources/views/web/common/scripts/slider.blade.php on line 17
+[11-Sep-2022 04:11:49 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/web/common/scripts/slider.blade.php on line 17
+[11-Sep-2022 04:11:49 America/New_York] PHP Notice:  Undefined variable: result in /home/knoprotec/public_html/resources/views/web/common/scripts/slider.blade.php on line 18
+[11-Sep-2022 04:11:49 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/web/common/scripts/slider.blade.php on line 18
+[11-Sep-2022 04:11:49 America/New_York] PHP Notice:  Undefined variable: result in /home/knoprotec/public_html/resources/views/web/common/scripts/slider.blade.php on line 18
+[11-Sep-2022 04:11:49 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/web/common/scripts/slider.blade.php on line 18
+[11-Sep-2022 04:11:49 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/web/common/scripts/slider.blade.php on line 18
+[24-Sep-2022 01:16:05 America/New_York] PHP Notice:  Undefined variable: result in /home/knoprotec/public_html/resources/views/web/common/scripts/slider.blade.php on line 17
+[24-Sep-2022 01:16:05 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/web/common/scripts/slider.blade.php on line 17
+[24-Sep-2022 01:16:05 America/New_York] PHP Notice:  Undefined variable: result in /home/knoprotec/public_html/resources/views/web/common/scripts/slider.blade.php on line 18
+[24-Sep-2022 01:16:05 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/web/common/scripts/slider.blade.php on line 18
+[24-Sep-2022 01:16:05 America/New_York] PHP Notice:  Undefined variable: result in /home/knoprotec/public_html/resources/views/web/common/scripts/slider.blade.php on line 18
+[24-Sep-2022 01:16:05 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/web/common/scripts/slider.blade.php on line 18
+[24-Sep-2022 01:16:05 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/web/common/scripts/slider.blade.php on line 18
+[27-Sep-2022 16:49:38 America/New_York] PHP Notice:  Undefined variable: result in /home/knoprotec/public_html/resources/views/web/common/scripts/slider.blade.php on line 17
+[27-Sep-2022 16:49:38 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/web/common/scripts/slider.blade.php on line 17
+[27-Sep-2022 16:49:38 America/New_York] PHP Notice:  Undefined variable: result in /home/knoprotec/public_html/resources/views/web/common/scripts/slider.blade.php on line 18
+[27-Sep-2022 16:49:38 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/web/common/scripts/slider.blade.php on line 18
+[27-Sep-2022 16:49:38 America/New_York] PHP Notice:  Undefined variable: result in /home/knoprotec/public_html/resources/views/web/common/scripts/slider.blade.php on line 18
+[27-Sep-2022 16:49:38 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/web/common/scripts/slider.blade.php on line 18
+[27-Sep-2022 16:49:38 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/web/common/scripts/slider.blade.php on line 18
+[28-Sep-2022 23:02:03 America/New_York] PHP Notice:  Undefined variable: result in /home/knoprotec/public_html/resources/views/web/common/scripts/shop_page_load_products.blade.php on line 52
+[28-Sep-2022 23:02:03 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/web/common/scripts/shop_page_load_products.blade.php on line 52
+[28-Sep-2022 23:02:03 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/web/common/scripts/shop_page_load_products.blade.php on line 52
+[28-Sep-2022 23:02:03 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/knoprotec/public_html/resources/views/web/common/scripts/shop_page_load_products.blade.php on line 52
+[28-Sep-2022 23:02:03 America/New_York] PHP Notice:  Undefined variable: result in /home/knoprotec/public_html/resources/views/web/common/scripts/shop_page_load_products.blade.php on line 83
+[28-Sep-2022 23:02:03 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/web/common/scripts/shop_page_load_products.blade.php on line 83
+[28-Sep-2022 23:02:03 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/web/common/scripts/shop_page_load_products.blade.php on line 83
+[28-Sep-2022 23:02:03 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/knoprotec/public_html/resources/views/web/common/scripts/shop_page_load_products.blade.php on line 83
+[05-Oct-2022 05:15:29 America/New_York] PHP Notice:  Undefined variable: result in /home/knoprotec/public_html/resources/views/web/common/scripts/shop_page_load_products.blade.php on line 52
+[05-Oct-2022 05:15:29 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/web/common/scripts/shop_page_load_products.blade.php on line 52
+[05-Oct-2022 05:15:29 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/web/common/scripts/shop_page_load_products.blade.php on line 52
+[05-Oct-2022 05:15:29 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/knoprotec/public_html/resources/views/web/common/scripts/shop_page_load_products.blade.php on line 52
+[05-Oct-2022 05:15:29 America/New_York] PHP Notice:  Undefined variable: result in /home/knoprotec/public_html/resources/views/web/common/scripts/shop_page_load_products.blade.php on line 83
+[05-Oct-2022 05:15:29 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/web/common/scripts/shop_page_load_products.blade.php on line 83
+[05-Oct-2022 05:15:29 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/web/common/scripts/shop_page_load_products.blade.php on line 83
+[05-Oct-2022 05:15:29 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/knoprotec/public_html/resources/views/web/common/scripts/shop_page_load_products.blade.php on line 83
+[05-Oct-2022 09:43:05 America/New_York] PHP Notice:  Undefined variable: result in /home/knoprotec/public_html/resources/views/web/common/scripts/slider.blade.php on line 17
+[05-Oct-2022 09:43:05 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/web/common/scripts/slider.blade.php on line 17
+[05-Oct-2022 09:43:05 America/New_York] PHP Notice:  Undefined variable: result in /home/knoprotec/public_html/resources/views/web/common/scripts/slider.blade.php on line 18
+[05-Oct-2022 09:43:05 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/web/common/scripts/slider.blade.php on line 18
+[05-Oct-2022 09:43:05 America/New_York] PHP Notice:  Undefined variable: result in /home/knoprotec/public_html/resources/views/web/common/scripts/slider.blade.php on line 18
+[05-Oct-2022 09:43:05 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/web/common/scripts/slider.blade.php on line 18
+[05-Oct-2022 09:43:05 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/web/common/scripts/slider.blade.php on line 18
+[07-Oct-2022 17:07:54 America/New_York] PHP Notice:  Undefined variable: result in /home/knoprotec/public_html/resources/views/web/common/scripts/shop_page_load_products.blade.php on line 52
+[07-Oct-2022 17:07:54 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/web/common/scripts/shop_page_load_products.blade.php on line 52
+[07-Oct-2022 17:07:54 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/web/common/scripts/shop_page_load_products.blade.php on line 52
+[07-Oct-2022 17:07:54 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/knoprotec/public_html/resources/views/web/common/scripts/shop_page_load_products.blade.php on line 52
+[07-Oct-2022 17:07:54 America/New_York] PHP Notice:  Undefined variable: result in /home/knoprotec/public_html/resources/views/web/common/scripts/shop_page_load_products.blade.php on line 83
+[07-Oct-2022 17:07:54 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/web/common/scripts/shop_page_load_products.blade.php on line 83
+[07-Oct-2022 17:07:54 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/web/common/scripts/shop_page_load_products.blade.php on line 83
+[07-Oct-2022 17:07:54 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/knoprotec/public_html/resources/views/web/common/scripts/shop_page_load_products.blade.php on line 83
+[07-Oct-2022 18:19:37 America/New_York] PHP Notice:  Undefined variable: result in /home/knoprotec/public_html/resources/views/web/common/scripts/slider.blade.php on line 17
+[07-Oct-2022 18:19:37 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/web/common/scripts/slider.blade.php on line 17
+[07-Oct-2022 18:19:37 America/New_York] PHP Notice:  Undefined variable: result in /home/knoprotec/public_html/resources/views/web/common/scripts/slider.blade.php on line 18
+[07-Oct-2022 18:19:37 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/web/common/scripts/slider.blade.php on line 18
+[07-Oct-2022 18:19:37 America/New_York] PHP Notice:  Undefined variable: result in /home/knoprotec/public_html/resources/views/web/common/scripts/slider.blade.php on line 18
+[07-Oct-2022 18:19:37 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/web/common/scripts/slider.blade.php on line 18
+[07-Oct-2022 18:19:37 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/web/common/scripts/slider.blade.php on line 18
+[25-Oct-2022 14:18:37 America/New_York] PHP Notice:  Undefined variable: result in /home/knoprotec/public_html/resources/views/web/common/scripts/shop_page_load_products.blade.php on line 52
+[25-Oct-2022 14:18:37 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/web/common/scripts/shop_page_load_products.blade.php on line 52
+[25-Oct-2022 14:18:37 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/web/common/scripts/shop_page_load_products.blade.php on line 52
+[25-Oct-2022 14:18:37 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/knoprotec/public_html/resources/views/web/common/scripts/shop_page_load_products.blade.php on line 52
+[25-Oct-2022 14:18:37 America/New_York] PHP Notice:  Undefined variable: result in /home/knoprotec/public_html/resources/views/web/common/scripts/shop_page_load_products.blade.php on line 83
+[25-Oct-2022 14:18:37 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/web/common/scripts/shop_page_load_products.blade.php on line 83
+[25-Oct-2022 14:18:37 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/web/common/scripts/shop_page_load_products.blade.php on line 83
+[25-Oct-2022 14:18:37 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/knoprotec/public_html/resources/views/web/common/scripts/shop_page_load_products.blade.php on line 83
+[25-Oct-2022 16:21:00 America/New_York] PHP Notice:  Undefined variable: result in /home/knoprotec/public_html/resources/views/web/common/scripts/slider.blade.php on line 17
+[25-Oct-2022 16:21:00 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/web/common/scripts/slider.blade.php on line 17
+[25-Oct-2022 16:21:00 America/New_York] PHP Notice:  Undefined variable: result in /home/knoprotec/public_html/resources/views/web/common/scripts/slider.blade.php on line 18
+[25-Oct-2022 16:21:00 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/web/common/scripts/slider.blade.php on line 18
+[25-Oct-2022 16:21:00 America/New_York] PHP Notice:  Undefined variable: result in /home/knoprotec/public_html/resources/views/web/common/scripts/slider.blade.php on line 18
+[25-Oct-2022 16:21:00 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/web/common/scripts/slider.blade.php on line 18
+[25-Oct-2022 16:21:00 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/web/common/scripts/slider.blade.php on line 18

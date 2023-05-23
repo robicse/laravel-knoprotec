@@ -1,0 +1,80 @@
+[05-Sep-2022 04:30:59 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Facebook\FacebookRequest' not found in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/FacebookBatchRequest.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/FacebookBatchRequest.php on line 37
+[05-Sep-2022 04:31:01 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Facebook\FacebookResponse' not found in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/FacebookBatchResponse.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/FacebookBatchResponse.php on line 35
+[21-Sep-2022 05:14:27 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Facebook\FacebookResponse' not found in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/FacebookBatchResponse.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/FacebookBatchResponse.php on line 35
+[21-Sep-2022 05:14:27 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Facebook\FacebookResponse' not found in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/FacebookBatchResponse.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/FacebookBatchResponse.php on line 35
+[21-Sep-2022 05:16:04 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Facebook\FacebookRequest' not found in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/FacebookBatchRequest.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/FacebookBatchRequest.php on line 37
+[21-Sep-2022 05:16:05 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Facebook\FacebookRequest' not found in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/FacebookBatchRequest.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/FacebookBatchRequest.php on line 37
+[30-Sep-2022 19:43:08 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Facebook\FacebookRequest' not found in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/FacebookBatchRequest.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/FacebookBatchRequest.php on line 37
+[30-Sep-2022 19:43:11 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Facebook\FacebookResponse' not found in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/FacebookBatchResponse.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/FacebookBatchResponse.php on line 35
+[01-Oct-2022 23:47:36 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Facebook\FacebookRequest' not found in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/FacebookBatchRequest.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/FacebookBatchRequest.php on line 37
+[01-Oct-2022 23:47:43 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Facebook\FacebookResponse' not found in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/FacebookBatchResponse.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/FacebookBatchResponse.php on line 35
+[03-Oct-2022 01:42:59 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Facebook\FacebookRequest' not found in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/FacebookBatchRequest.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/FacebookBatchRequest.php on line 37
+[03-Oct-2022 01:43:05 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Facebook\FacebookResponse' not found in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/FacebookBatchResponse.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/FacebookBatchResponse.php on line 35
+[04-Oct-2022 10:14:21 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Facebook\FacebookResponse' not found in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/FacebookBatchResponse.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/FacebookBatchResponse.php on line 35
+[08-Oct-2022 23:36:51 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Facebook\FacebookRequest' not found in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/FacebookBatchRequest.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/FacebookBatchRequest.php on line 37
+[28-Oct-2022 21:07:32 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Facebook\FacebookRequest' not found in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/FacebookBatchRequest.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/FacebookBatchRequest.php on line 37
+[28-Oct-2022 21:07:35 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Facebook\FacebookResponse' not found in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/FacebookBatchResponse.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/FacebookBatchResponse.php on line 35
+[30-Oct-2022 00:03:57 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Facebook\FacebookRequest' not found in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/FacebookBatchRequest.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/FacebookBatchRequest.php on line 37
+[30-Oct-2022 00:04:00 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Facebook\FacebookResponse' not found in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/FacebookBatchResponse.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/FacebookBatchResponse.php on line 35
+[31-Oct-2022 01:21:07 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Facebook\FacebookRequest' not found in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/FacebookBatchRequest.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/FacebookBatchRequest.php on line 37
+[31-Oct-2022 01:21:10 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Facebook\FacebookResponse' not found in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/FacebookBatchResponse.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/FacebookBatchResponse.php on line 35

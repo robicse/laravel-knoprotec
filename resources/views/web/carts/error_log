@@ -1,0 +1,220 @@
+[04-Sep-2022 17:44:59 America/New_York] PHP Notice:  Undefined variable: products in /home/knoprotec/public_html/resources/views/web/carts/cart1.blade.php on line 48
+[04-Sep-2022 17:44:59 America/New_York] PHP Notice:  Trying to get property 'final_price' of non-object in /home/knoprotec/public_html/resources/views/web/carts/cart1.blade.php on line 48
+[04-Sep-2022 17:44:59 America/New_York] PHP Notice:  Undefined variable: products in /home/knoprotec/public_html/resources/views/web/carts/cart1.blade.php on line 48
+[04-Sep-2022 17:44:59 America/New_York] PHP Notice:  Trying to get property 'customers_basket_quantity' of non-object in /home/knoprotec/public_html/resources/views/web/carts/cart1.blade.php on line 48
+[04-Sep-2022 17:44:59 America/New_York] PHP Notice:  Undefined variable: products in /home/knoprotec/public_html/resources/views/web/carts/cart1.blade.php on line 97
+[04-Sep-2022 17:44:59 America/New_York] PHP Notice:  Trying to get property 'price' of non-object in /home/knoprotec/public_html/resources/views/web/carts/cart1.blade.php on line 97
+[04-Sep-2022 17:44:59 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function session() in /home/knoprotec/public_html/resources/views/web/carts/cart1.blade.php:97
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/resources/views/web/carts/cart1.blade.php on line 97
+[04-Sep-2022 17:45:00 America/New_York] PHP Notice:  Undefined variable: products in /home/knoprotec/public_html/resources/views/web/carts/cart2.blade.php on line 46
+[04-Sep-2022 17:45:00 America/New_York] PHP Notice:  Trying to get property 'final_price' of non-object in /home/knoprotec/public_html/resources/views/web/carts/cart2.blade.php on line 46
+[04-Sep-2022 17:45:00 America/New_York] PHP Notice:  Undefined variable: products in /home/knoprotec/public_html/resources/views/web/carts/cart2.blade.php on line 46
+[04-Sep-2022 17:45:00 America/New_York] PHP Notice:  Trying to get property 'customers_basket_quantity' of non-object in /home/knoprotec/public_html/resources/views/web/carts/cart2.blade.php on line 46
+[04-Sep-2022 17:45:00 America/New_York] PHP Notice:  Undefined variable: products in /home/knoprotec/public_html/resources/views/web/carts/cart2.blade.php on line 97
+[04-Sep-2022 17:45:00 America/New_York] PHP Notice:  Trying to get property 'price' of non-object in /home/knoprotec/public_html/resources/views/web/carts/cart2.blade.php on line 97
+[04-Sep-2022 17:45:00 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function session() in /home/knoprotec/public_html/resources/views/web/carts/cart2.blade.php:97
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/resources/views/web/carts/cart2.blade.php on line 97
+[06-Sep-2022 21:26:46 America/New_York] PHP Notice:  Undefined variable: products in /home/knoprotec/public_html/resources/views/web/carts/cart1.blade.php on line 48
+[06-Sep-2022 21:26:46 America/New_York] PHP Notice:  Trying to get property 'final_price' of non-object in /home/knoprotec/public_html/resources/views/web/carts/cart1.blade.php on line 48
+[06-Sep-2022 21:26:46 America/New_York] PHP Notice:  Undefined variable: products in /home/knoprotec/public_html/resources/views/web/carts/cart1.blade.php on line 48
+[06-Sep-2022 21:26:46 America/New_York] PHP Notice:  Trying to get property 'customers_basket_quantity' of non-object in /home/knoprotec/public_html/resources/views/web/carts/cart1.blade.php on line 48
+[06-Sep-2022 21:26:46 America/New_York] PHP Notice:  Undefined variable: products in /home/knoprotec/public_html/resources/views/web/carts/cart1.blade.php on line 97
+[06-Sep-2022 21:26:46 America/New_York] PHP Notice:  Trying to get property 'price' of non-object in /home/knoprotec/public_html/resources/views/web/carts/cart1.blade.php on line 97
+[06-Sep-2022 21:26:46 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function session() in /home/knoprotec/public_html/resources/views/web/carts/cart1.blade.php:97
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/resources/views/web/carts/cart1.blade.php on line 97
+[07-Sep-2022 00:12:42 America/New_York] PHP Notice:  Undefined variable: products in /home/knoprotec/public_html/resources/views/web/carts/cart2.blade.php on line 46
+[07-Sep-2022 00:12:42 America/New_York] PHP Notice:  Trying to get property 'final_price' of non-object in /home/knoprotec/public_html/resources/views/web/carts/cart2.blade.php on line 46
+[07-Sep-2022 00:12:42 America/New_York] PHP Notice:  Undefined variable: products in /home/knoprotec/public_html/resources/views/web/carts/cart2.blade.php on line 46
+[07-Sep-2022 00:12:42 America/New_York] PHP Notice:  Trying to get property 'customers_basket_quantity' of non-object in /home/knoprotec/public_html/resources/views/web/carts/cart2.blade.php on line 46
+[07-Sep-2022 00:12:42 America/New_York] PHP Notice:  Undefined variable: products in /home/knoprotec/public_html/resources/views/web/carts/cart2.blade.php on line 97
+[07-Sep-2022 00:12:42 America/New_York] PHP Notice:  Trying to get property 'price' of non-object in /home/knoprotec/public_html/resources/views/web/carts/cart2.blade.php on line 97
+[07-Sep-2022 00:12:42 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function session() in /home/knoprotec/public_html/resources/views/web/carts/cart2.blade.php:97
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/resources/views/web/carts/cart2.blade.php on line 97
+[10-Sep-2022 07:54:15 America/New_York] PHP Notice:  Undefined variable: products in /home/knoprotec/public_html/resources/views/web/carts/cart1.blade.php on line 48
+[10-Sep-2022 07:54:15 America/New_York] PHP Notice:  Trying to get property 'final_price' of non-object in /home/knoprotec/public_html/resources/views/web/carts/cart1.blade.php on line 48
+[10-Sep-2022 07:54:15 America/New_York] PHP Notice:  Undefined variable: products in /home/knoprotec/public_html/resources/views/web/carts/cart1.blade.php on line 48
+[10-Sep-2022 07:54:15 America/New_York] PHP Notice:  Trying to get property 'customers_basket_quantity' of non-object in /home/knoprotec/public_html/resources/views/web/carts/cart1.blade.php on line 48
+[10-Sep-2022 07:54:15 America/New_York] PHP Notice:  Undefined variable: products in /home/knoprotec/public_html/resources/views/web/carts/cart1.blade.php on line 97
+[10-Sep-2022 07:54:15 America/New_York] PHP Notice:  Trying to get property 'price' of non-object in /home/knoprotec/public_html/resources/views/web/carts/cart1.blade.php on line 97
+[10-Sep-2022 07:54:15 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function session() in /home/knoprotec/public_html/resources/views/web/carts/cart1.blade.php:97
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/resources/views/web/carts/cart1.blade.php on line 97
+[10-Sep-2022 07:54:17 America/New_York] PHP Notice:  Undefined variable: products in /home/knoprotec/public_html/resources/views/web/carts/cart2.blade.php on line 46
+[10-Sep-2022 07:54:17 America/New_York] PHP Notice:  Trying to get property 'final_price' of non-object in /home/knoprotec/public_html/resources/views/web/carts/cart2.blade.php on line 46
+[10-Sep-2022 07:54:17 America/New_York] PHP Notice:  Undefined variable: products in /home/knoprotec/public_html/resources/views/web/carts/cart2.blade.php on line 46
+[10-Sep-2022 07:54:17 America/New_York] PHP Notice:  Trying to get property 'customers_basket_quantity' of non-object in /home/knoprotec/public_html/resources/views/web/carts/cart2.blade.php on line 46
+[10-Sep-2022 07:54:17 America/New_York] PHP Notice:  Undefined variable: products in /home/knoprotec/public_html/resources/views/web/carts/cart2.blade.php on line 97
+[10-Sep-2022 07:54:17 America/New_York] PHP Notice:  Trying to get property 'price' of non-object in /home/knoprotec/public_html/resources/views/web/carts/cart2.blade.php on line 97
+[10-Sep-2022 07:54:17 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function session() in /home/knoprotec/public_html/resources/views/web/carts/cart2.blade.php:97
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/resources/views/web/carts/cart2.blade.php on line 97
+[13-Sep-2022 12:27:27 America/New_York] PHP Notice:  Undefined variable: products in /home/knoprotec/public_html/resources/views/web/carts/cart2.blade.php on line 46
+[13-Sep-2022 12:27:27 America/New_York] PHP Notice:  Trying to get property 'final_price' of non-object in /home/knoprotec/public_html/resources/views/web/carts/cart2.blade.php on line 46
+[13-Sep-2022 12:27:27 America/New_York] PHP Notice:  Undefined variable: products in /home/knoprotec/public_html/resources/views/web/carts/cart2.blade.php on line 46
+[13-Sep-2022 12:27:27 America/New_York] PHP Notice:  Trying to get property 'customers_basket_quantity' of non-object in /home/knoprotec/public_html/resources/views/web/carts/cart2.blade.php on line 46
+[13-Sep-2022 12:27:27 America/New_York] PHP Notice:  Undefined variable: products in /home/knoprotec/public_html/resources/views/web/carts/cart2.blade.php on line 97
+[13-Sep-2022 12:27:27 America/New_York] PHP Notice:  Trying to get property 'price' of non-object in /home/knoprotec/public_html/resources/views/web/carts/cart2.blade.php on line 97
+[13-Sep-2022 12:27:27 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function session() in /home/knoprotec/public_html/resources/views/web/carts/cart2.blade.php:97
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/resources/views/web/carts/cart2.blade.php on line 97
+[13-Sep-2022 22:02:58 America/New_York] PHP Notice:  Undefined variable: products in /home/knoprotec/public_html/resources/views/web/carts/cart1.blade.php on line 48
+[13-Sep-2022 22:02:58 America/New_York] PHP Notice:  Trying to get property 'final_price' of non-object in /home/knoprotec/public_html/resources/views/web/carts/cart1.blade.php on line 48
+[13-Sep-2022 22:02:58 America/New_York] PHP Notice:  Undefined variable: products in /home/knoprotec/public_html/resources/views/web/carts/cart1.blade.php on line 48
+[13-Sep-2022 22:02:58 America/New_York] PHP Notice:  Trying to get property 'customers_basket_quantity' of non-object in /home/knoprotec/public_html/resources/views/web/carts/cart1.blade.php on line 48
+[13-Sep-2022 22:02:58 America/New_York] PHP Notice:  Undefined variable: products in /home/knoprotec/public_html/resources/views/web/carts/cart1.blade.php on line 97
+[13-Sep-2022 22:02:58 America/New_York] PHP Notice:  Trying to get property 'price' of non-object in /home/knoprotec/public_html/resources/views/web/carts/cart1.blade.php on line 97
+[13-Sep-2022 22:02:58 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function session() in /home/knoprotec/public_html/resources/views/web/carts/cart1.blade.php:97
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/resources/views/web/carts/cart1.blade.php on line 97
+[13-Sep-2022 22:09:48 America/New_York] PHP Notice:  Undefined variable: products in /home/knoprotec/public_html/resources/views/web/carts/cart2.blade.php on line 46
+[13-Sep-2022 22:09:48 America/New_York] PHP Notice:  Trying to get property 'final_price' of non-object in /home/knoprotec/public_html/resources/views/web/carts/cart2.blade.php on line 46
+[13-Sep-2022 22:09:48 America/New_York] PHP Notice:  Undefined variable: products in /home/knoprotec/public_html/resources/views/web/carts/cart2.blade.php on line 46
+[13-Sep-2022 22:09:48 America/New_York] PHP Notice:  Trying to get property 'customers_basket_quantity' of non-object in /home/knoprotec/public_html/resources/views/web/carts/cart2.blade.php on line 46
+[13-Sep-2022 22:09:48 America/New_York] PHP Notice:  Undefined variable: products in /home/knoprotec/public_html/resources/views/web/carts/cart2.blade.php on line 97
+[13-Sep-2022 22:09:48 America/New_York] PHP Notice:  Trying to get property 'price' of non-object in /home/knoprotec/public_html/resources/views/web/carts/cart2.blade.php on line 97
+[13-Sep-2022 22:09:48 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function session() in /home/knoprotec/public_html/resources/views/web/carts/cart2.blade.php:97
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/resources/views/web/carts/cart2.blade.php on line 97
+[14-Sep-2022 13:39:13 America/New_York] PHP Notice:  Undefined variable: products in /home/knoprotec/public_html/resources/views/web/carts/cart1.blade.php on line 48
+[14-Sep-2022 13:39:13 America/New_York] PHP Notice:  Trying to get property 'final_price' of non-object in /home/knoprotec/public_html/resources/views/web/carts/cart1.blade.php on line 48
+[14-Sep-2022 13:39:13 America/New_York] PHP Notice:  Undefined variable: products in /home/knoprotec/public_html/resources/views/web/carts/cart1.blade.php on line 48
+[14-Sep-2022 13:39:13 America/New_York] PHP Notice:  Trying to get property 'customers_basket_quantity' of non-object in /home/knoprotec/public_html/resources/views/web/carts/cart1.blade.php on line 48
+[14-Sep-2022 13:39:13 America/New_York] PHP Notice:  Undefined variable: products in /home/knoprotec/public_html/resources/views/web/carts/cart1.blade.php on line 97
+[14-Sep-2022 13:39:13 America/New_York] PHP Notice:  Trying to get property 'price' of non-object in /home/knoprotec/public_html/resources/views/web/carts/cart1.blade.php on line 97
+[14-Sep-2022 13:39:13 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function session() in /home/knoprotec/public_html/resources/views/web/carts/cart1.blade.php:97
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/resources/views/web/carts/cart1.blade.php on line 97
+[22-Sep-2022 04:07:50 America/New_York] PHP Notice:  Undefined variable: products in /home/knoprotec/public_html/resources/views/web/carts/cart1.blade.php on line 48
+[22-Sep-2022 04:07:50 America/New_York] PHP Notice:  Trying to get property 'final_price' of non-object in /home/knoprotec/public_html/resources/views/web/carts/cart1.blade.php on line 48
+[22-Sep-2022 04:07:50 America/New_York] PHP Notice:  Undefined variable: products in /home/knoprotec/public_html/resources/views/web/carts/cart1.blade.php on line 48
+[22-Sep-2022 04:07:50 America/New_York] PHP Notice:  Trying to get property 'customers_basket_quantity' of non-object in /home/knoprotec/public_html/resources/views/web/carts/cart1.blade.php on line 48
+[22-Sep-2022 04:07:50 America/New_York] PHP Notice:  Undefined variable: products in /home/knoprotec/public_html/resources/views/web/carts/cart1.blade.php on line 97
+[22-Sep-2022 04:07:50 America/New_York] PHP Notice:  Trying to get property 'price' of non-object in /home/knoprotec/public_html/resources/views/web/carts/cart1.blade.php on line 97
+[22-Sep-2022 04:07:50 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function session() in /home/knoprotec/public_html/resources/views/web/carts/cart1.blade.php:97
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/resources/views/web/carts/cart1.blade.php on line 97
+[22-Sep-2022 04:07:58 America/New_York] PHP Notice:  Undefined variable: products in /home/knoprotec/public_html/resources/views/web/carts/cart2.blade.php on line 46
+[22-Sep-2022 04:07:58 America/New_York] PHP Notice:  Trying to get property 'final_price' of non-object in /home/knoprotec/public_html/resources/views/web/carts/cart2.blade.php on line 46
+[22-Sep-2022 04:07:58 America/New_York] PHP Notice:  Undefined variable: products in /home/knoprotec/public_html/resources/views/web/carts/cart2.blade.php on line 46
+[22-Sep-2022 04:07:58 America/New_York] PHP Notice:  Trying to get property 'customers_basket_quantity' of non-object in /home/knoprotec/public_html/resources/views/web/carts/cart2.blade.php on line 46
+[22-Sep-2022 04:07:58 America/New_York] PHP Notice:  Undefined variable: products in /home/knoprotec/public_html/resources/views/web/carts/cart2.blade.php on line 97
+[22-Sep-2022 04:07:58 America/New_York] PHP Notice:  Trying to get property 'price' of non-object in /home/knoprotec/public_html/resources/views/web/carts/cart2.blade.php on line 97
+[22-Sep-2022 04:07:58 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function session() in /home/knoprotec/public_html/resources/views/web/carts/cart2.blade.php:97
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/resources/views/web/carts/cart2.blade.php on line 97
+[06-Oct-2022 02:20:27 America/New_York] PHP Notice:  Undefined variable: products in /home/knoprotec/public_html/resources/views/web/carts/cart1.blade.php on line 48
+[06-Oct-2022 02:20:27 America/New_York] PHP Notice:  Trying to get property 'final_price' of non-object in /home/knoprotec/public_html/resources/views/web/carts/cart1.blade.php on line 48
+[06-Oct-2022 02:20:27 America/New_York] PHP Notice:  Undefined variable: products in /home/knoprotec/public_html/resources/views/web/carts/cart1.blade.php on line 48
+[06-Oct-2022 02:20:27 America/New_York] PHP Notice:  Trying to get property 'customers_basket_quantity' of non-object in /home/knoprotec/public_html/resources/views/web/carts/cart1.blade.php on line 48
+[06-Oct-2022 02:20:27 America/New_York] PHP Notice:  Undefined variable: products in /home/knoprotec/public_html/resources/views/web/carts/cart1.blade.php on line 97
+[06-Oct-2022 02:20:27 America/New_York] PHP Notice:  Trying to get property 'price' of non-object in /home/knoprotec/public_html/resources/views/web/carts/cart1.blade.php on line 97
+[06-Oct-2022 02:20:27 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function session() in /home/knoprotec/public_html/resources/views/web/carts/cart1.blade.php:97
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/resources/views/web/carts/cart1.blade.php on line 97
+[06-Oct-2022 02:20:37 America/New_York] PHP Notice:  Undefined variable: products in /home/knoprotec/public_html/resources/views/web/carts/cart2.blade.php on line 46
+[06-Oct-2022 02:20:37 America/New_York] PHP Notice:  Trying to get property 'final_price' of non-object in /home/knoprotec/public_html/resources/views/web/carts/cart2.blade.php on line 46
+[06-Oct-2022 02:20:37 America/New_York] PHP Notice:  Undefined variable: products in /home/knoprotec/public_html/resources/views/web/carts/cart2.blade.php on line 46
+[06-Oct-2022 02:20:37 America/New_York] PHP Notice:  Trying to get property 'customers_basket_quantity' of non-object in /home/knoprotec/public_html/resources/views/web/carts/cart2.blade.php on line 46
+[06-Oct-2022 02:20:37 America/New_York] PHP Notice:  Undefined variable: products in /home/knoprotec/public_html/resources/views/web/carts/cart2.blade.php on line 97
+[06-Oct-2022 02:20:37 America/New_York] PHP Notice:  Trying to get property 'price' of non-object in /home/knoprotec/public_html/resources/views/web/carts/cart2.blade.php on line 97
+[06-Oct-2022 02:20:37 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function session() in /home/knoprotec/public_html/resources/views/web/carts/cart2.blade.php:97
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/resources/views/web/carts/cart2.blade.php on line 97
+[08-Oct-2022 14:26:32 America/New_York] PHP Notice:  Undefined variable: products in /home/knoprotec/public_html/resources/views/web/carts/cart1.blade.php on line 48
+[08-Oct-2022 14:26:32 America/New_York] PHP Notice:  Trying to get property 'final_price' of non-object in /home/knoprotec/public_html/resources/views/web/carts/cart1.blade.php on line 48
+[08-Oct-2022 14:26:32 America/New_York] PHP Notice:  Undefined variable: products in /home/knoprotec/public_html/resources/views/web/carts/cart1.blade.php on line 48
+[08-Oct-2022 14:26:32 America/New_York] PHP Notice:  Trying to get property 'customers_basket_quantity' of non-object in /home/knoprotec/public_html/resources/views/web/carts/cart1.blade.php on line 48
+[08-Oct-2022 14:26:32 America/New_York] PHP Notice:  Undefined variable: products in /home/knoprotec/public_html/resources/views/web/carts/cart1.blade.php on line 97
+[08-Oct-2022 14:26:32 America/New_York] PHP Notice:  Trying to get property 'price' of non-object in /home/knoprotec/public_html/resources/views/web/carts/cart1.blade.php on line 97
+[08-Oct-2022 14:26:32 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function session() in /home/knoprotec/public_html/resources/views/web/carts/cart1.blade.php:97
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/resources/views/web/carts/cart1.blade.php on line 97
+[08-Oct-2022 14:26:40 America/New_York] PHP Notice:  Undefined variable: products in /home/knoprotec/public_html/resources/views/web/carts/cart2.blade.php on line 46
+[08-Oct-2022 14:26:40 America/New_York] PHP Notice:  Trying to get property 'final_price' of non-object in /home/knoprotec/public_html/resources/views/web/carts/cart2.blade.php on line 46
+[08-Oct-2022 14:26:40 America/New_York] PHP Notice:  Undefined variable: products in /home/knoprotec/public_html/resources/views/web/carts/cart2.blade.php on line 46
+[08-Oct-2022 14:26:40 America/New_York] PHP Notice:  Trying to get property 'customers_basket_quantity' of non-object in /home/knoprotec/public_html/resources/views/web/carts/cart2.blade.php on line 46
+[08-Oct-2022 14:26:40 America/New_York] PHP Notice:  Undefined variable: products in /home/knoprotec/public_html/resources/views/web/carts/cart2.blade.php on line 97
+[08-Oct-2022 14:26:40 America/New_York] PHP Notice:  Trying to get property 'price' of non-object in /home/knoprotec/public_html/resources/views/web/carts/cart2.blade.php on line 97
+[08-Oct-2022 14:26:40 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function session() in /home/knoprotec/public_html/resources/views/web/carts/cart2.blade.php:97
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/resources/views/web/carts/cart2.blade.php on line 97
+[12-Oct-2022 00:25:59 America/New_York] PHP Notice:  Undefined variable: products in /home/knoprotec/public_html/resources/views/web/carts/cart1.blade.php on line 48
+[12-Oct-2022 00:25:59 America/New_York] PHP Notice:  Trying to get property 'final_price' of non-object in /home/knoprotec/public_html/resources/views/web/carts/cart1.blade.php on line 48
+[12-Oct-2022 00:25:59 America/New_York] PHP Notice:  Undefined variable: products in /home/knoprotec/public_html/resources/views/web/carts/cart1.blade.php on line 48
+[12-Oct-2022 00:25:59 America/New_York] PHP Notice:  Trying to get property 'customers_basket_quantity' of non-object in /home/knoprotec/public_html/resources/views/web/carts/cart1.blade.php on line 48
+[12-Oct-2022 00:25:59 America/New_York] PHP Notice:  Undefined variable: products in /home/knoprotec/public_html/resources/views/web/carts/cart1.blade.php on line 97
+[12-Oct-2022 00:25:59 America/New_York] PHP Notice:  Trying to get property 'price' of non-object in /home/knoprotec/public_html/resources/views/web/carts/cart1.blade.php on line 97
+[12-Oct-2022 00:25:59 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function session() in /home/knoprotec/public_html/resources/views/web/carts/cart1.blade.php:97
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/resources/views/web/carts/cart1.blade.php on line 97
+[12-Oct-2022 00:28:33 America/New_York] PHP Notice:  Undefined variable: products in /home/knoprotec/public_html/resources/views/web/carts/cart2.blade.php on line 46
+[12-Oct-2022 00:28:33 America/New_York] PHP Notice:  Trying to get property 'final_price' of non-object in /home/knoprotec/public_html/resources/views/web/carts/cart2.blade.php on line 46
+[12-Oct-2022 00:28:33 America/New_York] PHP Notice:  Undefined variable: products in /home/knoprotec/public_html/resources/views/web/carts/cart2.blade.php on line 46
+[12-Oct-2022 00:28:33 America/New_York] PHP Notice:  Trying to get property 'customers_basket_quantity' of non-object in /home/knoprotec/public_html/resources/views/web/carts/cart2.blade.php on line 46
+[12-Oct-2022 00:28:33 America/New_York] PHP Notice:  Undefined variable: products in /home/knoprotec/public_html/resources/views/web/carts/cart2.blade.php on line 97
+[12-Oct-2022 00:28:33 America/New_York] PHP Notice:  Trying to get property 'price' of non-object in /home/knoprotec/public_html/resources/views/web/carts/cart2.blade.php on line 97
+[12-Oct-2022 00:28:33 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function session() in /home/knoprotec/public_html/resources/views/web/carts/cart2.blade.php:97
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/resources/views/web/carts/cart2.blade.php on line 97
+[22-Oct-2022 10:40:09 America/New_York] PHP Notice:  Undefined variable: products in /home/knoprotec/public_html/resources/views/web/carts/cart1.blade.php on line 48
+[22-Oct-2022 10:40:09 America/New_York] PHP Notice:  Trying to get property 'final_price' of non-object in /home/knoprotec/public_html/resources/views/web/carts/cart1.blade.php on line 48
+[22-Oct-2022 10:40:09 America/New_York] PHP Notice:  Undefined variable: products in /home/knoprotec/public_html/resources/views/web/carts/cart1.blade.php on line 48
+[22-Oct-2022 10:40:09 America/New_York] PHP Notice:  Trying to get property 'customers_basket_quantity' of non-object in /home/knoprotec/public_html/resources/views/web/carts/cart1.blade.php on line 48
+[22-Oct-2022 10:40:09 America/New_York] PHP Notice:  Undefined variable: products in /home/knoprotec/public_html/resources/views/web/carts/cart1.blade.php on line 97
+[22-Oct-2022 10:40:09 America/New_York] PHP Notice:  Trying to get property 'price' of non-object in /home/knoprotec/public_html/resources/views/web/carts/cart1.blade.php on line 97
+[22-Oct-2022 10:40:09 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function session() in /home/knoprotec/public_html/resources/views/web/carts/cart1.blade.php:97
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/resources/views/web/carts/cart1.blade.php on line 97
+[22-Oct-2022 10:40:13 America/New_York] PHP Notice:  Undefined variable: products in /home/knoprotec/public_html/resources/views/web/carts/cart2.blade.php on line 46
+[22-Oct-2022 10:40:13 America/New_York] PHP Notice:  Trying to get property 'final_price' of non-object in /home/knoprotec/public_html/resources/views/web/carts/cart2.blade.php on line 46
+[22-Oct-2022 10:40:13 America/New_York] PHP Notice:  Undefined variable: products in /home/knoprotec/public_html/resources/views/web/carts/cart2.blade.php on line 46
+[22-Oct-2022 10:40:13 America/New_York] PHP Notice:  Trying to get property 'customers_basket_quantity' of non-object in /home/knoprotec/public_html/resources/views/web/carts/cart2.blade.php on line 46
+[22-Oct-2022 10:40:13 America/New_York] PHP Notice:  Undefined variable: products in /home/knoprotec/public_html/resources/views/web/carts/cart2.blade.php on line 97
+[22-Oct-2022 10:40:13 America/New_York] PHP Notice:  Trying to get property 'price' of non-object in /home/knoprotec/public_html/resources/views/web/carts/cart2.blade.php on line 97
+[22-Oct-2022 10:40:13 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function session() in /home/knoprotec/public_html/resources/views/web/carts/cart2.blade.php:97
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/resources/views/web/carts/cart2.blade.php on line 97
+[25-Oct-2022 13:29:53 America/New_York] PHP Notice:  Undefined variable: products in /home/knoprotec/public_html/resources/views/web/carts/cart1.blade.php on line 48
+[25-Oct-2022 13:29:53 America/New_York] PHP Notice:  Trying to get property 'final_price' of non-object in /home/knoprotec/public_html/resources/views/web/carts/cart1.blade.php on line 48
+[25-Oct-2022 13:29:53 America/New_York] PHP Notice:  Undefined variable: products in /home/knoprotec/public_html/resources/views/web/carts/cart1.blade.php on line 48
+[25-Oct-2022 13:29:53 America/New_York] PHP Notice:  Trying to get property 'customers_basket_quantity' of non-object in /home/knoprotec/public_html/resources/views/web/carts/cart1.blade.php on line 48
+[25-Oct-2022 13:29:53 America/New_York] PHP Notice:  Undefined variable: products in /home/knoprotec/public_html/resources/views/web/carts/cart1.blade.php on line 97
+[25-Oct-2022 13:29:53 America/New_York] PHP Notice:  Trying to get property 'price' of non-object in /home/knoprotec/public_html/resources/views/web/carts/cart1.blade.php on line 97
+[25-Oct-2022 13:29:53 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function session() in /home/knoprotec/public_html/resources/views/web/carts/cart1.blade.php:97
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/resources/views/web/carts/cart1.blade.php on line 97
+[25-Oct-2022 13:33:29 America/New_York] PHP Notice:  Undefined variable: products in /home/knoprotec/public_html/resources/views/web/carts/cart2.blade.php on line 46
+[25-Oct-2022 13:33:29 America/New_York] PHP Notice:  Trying to get property 'final_price' of non-object in /home/knoprotec/public_html/resources/views/web/carts/cart2.blade.php on line 46
+[25-Oct-2022 13:33:29 America/New_York] PHP Notice:  Undefined variable: products in /home/knoprotec/public_html/resources/views/web/carts/cart2.blade.php on line 46
+[25-Oct-2022 13:33:29 America/New_York] PHP Notice:  Trying to get property 'customers_basket_quantity' of non-object in /home/knoprotec/public_html/resources/views/web/carts/cart2.blade.php on line 46
+[25-Oct-2022 13:33:29 America/New_York] PHP Notice:  Undefined variable: products in /home/knoprotec/public_html/resources/views/web/carts/cart2.blade.php on line 97
+[25-Oct-2022 13:33:29 America/New_York] PHP Notice:  Trying to get property 'price' of non-object in /home/knoprotec/public_html/resources/views/web/carts/cart2.blade.php on line 97
+[25-Oct-2022 13:33:29 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function session() in /home/knoprotec/public_html/resources/views/web/carts/cart2.blade.php:97
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/resources/views/web/carts/cart2.blade.php on line 97

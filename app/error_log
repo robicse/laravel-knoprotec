@@ -1,0 +1,384 @@
+[29-Aug-2022 13:25:53 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home/knoprotec/public_html/app/Admin.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Admin.php on line 7
+[29-Aug-2022 13:26:58 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home/knoprotec/public_html/app/Customer.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Customer.php on line 7
+[29-Aug-2022 13:32:46 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home/knoprotec/public_html/app/User.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/User.php on line 9
+[30-Aug-2022 12:52:14 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home/knoprotec/public_html/app/Admin.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Admin.php on line 7
+[30-Aug-2022 12:52:19 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home/knoprotec/public_html/app/Customer.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Customer.php on line 7
+[30-Aug-2022 12:56:05 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home/knoprotec/public_html/app/User.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/User.php on line 9
+[01-Sep-2022 05:03:53 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home/knoprotec/public_html/app/Admin.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Admin.php on line 7
+[01-Sep-2022 05:12:40 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home/knoprotec/public_html/app/User.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/User.php on line 9
+[03-Sep-2022 18:35:39 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home/knoprotec/public_html/app/Admin.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Admin.php on line 7
+[03-Sep-2022 18:37:24 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home/knoprotec/public_html/app/Customer.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Customer.php on line 7
+[04-Sep-2022 16:19:31 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home/knoprotec/public_html/app/User.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/User.php on line 9
+[05-Sep-2022 08:48:30 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home/knoprotec/public_html/app/User.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/User.php on line 9
+[05-Sep-2022 14:44:35 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home/knoprotec/public_html/app/Customer.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Customer.php on line 7
+[06-Sep-2022 05:53:13 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home/knoprotec/public_html/app/Admin.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Admin.php on line 7
+[06-Sep-2022 11:12:33 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home/knoprotec/public_html/app/Admin.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Admin.php on line 7
+[06-Sep-2022 11:12:37 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home/knoprotec/public_html/app/Customer.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Customer.php on line 7
+[06-Sep-2022 11:12:55 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home/knoprotec/public_html/app/User.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/User.php on line 9
+[10-Sep-2022 16:43:35 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home/knoprotec/public_html/app/Admin.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Admin.php on line 7
+[10-Sep-2022 16:43:38 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home/knoprotec/public_html/app/Customer.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Customer.php on line 7
+[10-Sep-2022 16:51:17 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home/knoprotec/public_html/app/User.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/User.php on line 9
+[12-Sep-2022 20:00:00 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home/knoprotec/public_html/app/Admin.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Admin.php on line 7
+[12-Sep-2022 20:00:06 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home/knoprotec/public_html/app/Customer.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Customer.php on line 7
+[12-Sep-2022 20:15:43 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home/knoprotec/public_html/app/User.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/User.php on line 9
+[22-Sep-2022 01:39:33 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home/knoprotec/public_html/app/Admin.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Admin.php on line 7
+[22-Sep-2022 01:39:50 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home/knoprotec/public_html/app/Customer.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Customer.php on line 7
+[22-Sep-2022 01:40:47 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home/knoprotec/public_html/app/User.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/User.php on line 9
+[22-Sep-2022 06:07:02 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home/knoprotec/public_html/app/Customer.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Customer.php on line 7
+[22-Sep-2022 06:07:07 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home/knoprotec/public_html/app/Admin.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Admin.php on line 7
+[22-Sep-2022 19:59:47 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home/knoprotec/public_html/app/Admin.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Admin.php on line 7
+[22-Sep-2022 20:00:10 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home/knoprotec/public_html/app/Customer.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Customer.php on line 7
+[22-Sep-2022 20:01:54 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home/knoprotec/public_html/app/User.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/User.php on line 9
+[24-Sep-2022 02:53:42 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home/knoprotec/public_html/app/Admin.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Admin.php on line 7
+[24-Sep-2022 02:54:30 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home/knoprotec/public_html/app/Customer.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Customer.php on line 7
+[24-Sep-2022 03:06:05 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home/knoprotec/public_html/app/User.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/User.php on line 9
+[27-Sep-2022 16:38:44 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home/knoprotec/public_html/app/Admin.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Admin.php on line 7
+[27-Sep-2022 16:38:45 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home/knoprotec/public_html/app/Customer.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Customer.php on line 7
+[27-Sep-2022 16:38:46 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home/knoprotec/public_html/app/User.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/User.php on line 9
+[01-Oct-2022 14:19:49 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home/knoprotec/public_html/app/Admin.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Admin.php on line 7
+[01-Oct-2022 14:19:51 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home/knoprotec/public_html/app/Customer.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Customer.php on line 7
+[01-Oct-2022 14:27:23 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home/knoprotec/public_html/app/User.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/User.php on line 9
+[08-Oct-2022 20:01:12 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home/knoprotec/public_html/app/Admin.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Admin.php on line 7
+[08-Oct-2022 20:02:14 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home/knoprotec/public_html/app/Customer.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Customer.php on line 7
+[08-Oct-2022 20:04:48 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home/knoprotec/public_html/app/User.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/User.php on line 9
+[11-Oct-2022 05:54:10 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home/knoprotec/public_html/app/Admin.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Admin.php on line 7
+[11-Oct-2022 05:54:26 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home/knoprotec/public_html/app/Customer.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Customer.php on line 7
+[11-Oct-2022 05:55:47 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home/knoprotec/public_html/app/User.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/User.php on line 9
+[11-Oct-2022 16:22:34 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home/knoprotec/public_html/app/Admin.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Admin.php on line 7
+[11-Oct-2022 16:22:39 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home/knoprotec/public_html/app/Customer.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Customer.php on line 7
+[11-Oct-2022 16:24:07 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home/knoprotec/public_html/app/User.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/User.php on line 9
+[13-Oct-2022 05:04:52 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home/knoprotec/public_html/app/Admin.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Admin.php on line 7
+[13-Oct-2022 05:05:30 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home/knoprotec/public_html/app/Customer.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Customer.php on line 7
+[13-Oct-2022 05:12:43 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home/knoprotec/public_html/app/User.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/User.php on line 9
+[21-Oct-2022 11:09:30 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home/knoprotec/public_html/app/Admin.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Admin.php on line 7
+[21-Oct-2022 11:09:44 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home/knoprotec/public_html/app/Customer.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Customer.php on line 7
+[21-Oct-2022 11:10:08 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home/knoprotec/public_html/app/User.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/User.php on line 9
+[22-Oct-2022 03:27:50 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home/knoprotec/public_html/app/Admin.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Admin.php on line 7
+[22-Oct-2022 03:28:15 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home/knoprotec/public_html/app/Customer.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Customer.php on line 7
+[22-Oct-2022 03:30:05 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home/knoprotec/public_html/app/User.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/User.php on line 9
+[22-Oct-2022 11:18:13 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home/knoprotec/public_html/app/Customer.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Customer.php on line 7
+[23-Oct-2022 06:36:06 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home/knoprotec/public_html/app/Admin.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Admin.php on line 7
+[23-Oct-2022 06:37:12 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home/knoprotec/public_html/app/Customer.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Customer.php on line 7
+[23-Oct-2022 06:47:18 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home/knoprotec/public_html/app/User.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/User.php on line 9
+[23-Oct-2022 14:38:10 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home/knoprotec/public_html/app/Customer.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Customer.php on line 7
+[24-Oct-2022 23:56:41 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home/knoprotec/public_html/app/User.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/User.php on line 9
+[25-Oct-2022 05:15:53 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home/knoprotec/public_html/app/Customer.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Customer.php on line 7
+[25-Oct-2022 05:39:00 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home/knoprotec/public_html/app/Admin.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Admin.php on line 7
+[25-Oct-2022 05:54:33 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home/knoprotec/public_html/app/User.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/User.php on line 9
+[28-Oct-2022 02:03:28 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home/knoprotec/public_html/app/Admin.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Admin.php on line 7
+[29-Oct-2022 07:46:52 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home/knoprotec/public_html/app/Customer.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Customer.php on line 7
+[29-Oct-2022 09:30:33 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home/knoprotec/public_html/app/User.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/User.php on line 9
+[29-Oct-2022 11:18:26 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home/knoprotec/public_html/app/User.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/User.php on line 9
+[30-Oct-2022 13:03:20 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home/knoprotec/public_html/app/Admin.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Admin.php on line 7
+[30-Oct-2022 13:03:23 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home/knoprotec/public_html/app/Customer.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Customer.php on line 7
+[30-Oct-2022 13:12:31 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home/knoprotec/public_html/app/User.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/User.php on line 9
+[30-Oct-2022 21:54:04 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home/knoprotec/public_html/app/Admin.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Admin.php on line 7
+[02-Nov-2022 07:34:56 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home/knoprotec/public_html/app/User.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/User.php on line 9
+[02-Nov-2022 07:35:12 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home/knoprotec/public_html/app/Admin.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Admin.php on line 7
+[02-Nov-2022 22:47:02 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home/knoprotec/public_html/app/Customer.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Customer.php on line 7
+[06-Jan-2023 18:42:43 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home/knoprotec/public_html/app/Customer.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Customer.php on line 7
+[07-Jan-2023 00:03:02 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home/knoprotec/public_html/app/User.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/User.php on line 9
+[07-Feb-2023 21:47:26 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home/knoprotec/public_html/app/Customer.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Customer.php on line 7
+[22-Feb-2023 01:46:58 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home/knoprotec/public_html/app/User.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/User.php on line 9
+[11-Mar-2023 20:24:19 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home/knoprotec/public_html/app/Customer.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Customer.php on line 7
+[13-Mar-2023 08:47:20 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home/knoprotec/public_html/app/Admin.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Admin.php on line 7
+[17-Mar-2023 05:32:42 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home/knoprotec/public_html/app/Customer.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Customer.php on line 7
+[17-Mar-2023 16:38:32 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home/knoprotec/public_html/app/Customer.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Customer.php on line 7
+[17-Mar-2023 19:18:57 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home/knoprotec/public_html/app/Admin.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Admin.php on line 7
+[24-Mar-2023 07:28:21 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home/knoprotec/public_html/app/User.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/User.php on line 9
+[12-Apr-2023 18:27:52 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home/knoprotec/public_html/app/Customer.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Customer.php on line 7
+[12-Apr-2023 19:21:45 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home/knoprotec/public_html/app/Customer.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Customer.php on line 7
+[29-Apr-2023 19:55:04 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home/knoprotec/public_html/app/Customer.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Customer.php on line 7
+[30-Apr-2023 21:24:51 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home/knoprotec/public_html/app/Admin.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Admin.php on line 7
+[01-May-2023 05:10:17 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home/knoprotec/public_html/app/Admin.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Admin.php on line 7
+[01-May-2023 20:28:02 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home/knoprotec/public_html/app/Customer.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Customer.php on line 7
+[02-May-2023 09:11:33 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home/knoprotec/public_html/app/User.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/User.php on line 9
+[04-May-2023 03:50:52 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home/knoprotec/public_html/app/User.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/User.php on line 9

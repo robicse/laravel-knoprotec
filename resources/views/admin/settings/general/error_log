@@ -1,0 +1,28 @@
+[06-Sep-2022 14:59:32 America/New_York] PHP Notice:  Undefined variable: result in /home/knoprotec/public_html/resources/views/admin/settings/general/websetting.blade.php on line 73
+[06-Sep-2022 14:59:32 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/settings/general/websetting.blade.php on line 73
+[06-Sep-2022 14:59:32 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/settings/general/websetting.blade.php on line 73
+[06-Sep-2022 14:59:32 America/New_York] PHP Notice:  Trying to get property 'value' of non-object in /home/knoprotec/public_html/resources/views/admin/settings/general/websetting.blade.php on line 73
+[09-Sep-2022 10:15:57 America/New_York] PHP Notice:  Undefined variable: result in /home/knoprotec/public_html/resources/views/admin/settings/general/websetting.blade.php on line 73
+[09-Sep-2022 10:15:57 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/settings/general/websetting.blade.php on line 73
+[09-Sep-2022 10:15:57 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/settings/general/websetting.blade.php on line 73
+[09-Sep-2022 10:15:57 America/New_York] PHP Notice:  Trying to get property 'value' of non-object in /home/knoprotec/public_html/resources/views/admin/settings/general/websetting.blade.php on line 73
+[11-Sep-2022 04:07:59 America/New_York] PHP Notice:  Undefined variable: result in /home/knoprotec/public_html/resources/views/admin/settings/general/websetting.blade.php on line 73
+[11-Sep-2022 04:07:59 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/settings/general/websetting.blade.php on line 73
+[11-Sep-2022 04:07:59 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/settings/general/websetting.blade.php on line 73
+[11-Sep-2022 04:07:59 America/New_York] PHP Notice:  Trying to get property 'value' of non-object in /home/knoprotec/public_html/resources/views/admin/settings/general/websetting.blade.php on line 73
+[16-Sep-2022 20:44:20 America/New_York] PHP Notice:  Undefined variable: result in /home/knoprotec/public_html/resources/views/admin/settings/general/websetting.blade.php on line 73
+[16-Sep-2022 20:44:20 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/settings/general/websetting.blade.php on line 73
+[16-Sep-2022 20:44:20 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/settings/general/websetting.blade.php on line 73
+[16-Sep-2022 20:44:20 America/New_York] PHP Notice:  Trying to get property 'value' of non-object in /home/knoprotec/public_html/resources/views/admin/settings/general/websetting.blade.php on line 73
+[26-Sep-2022 00:33:18 America/New_York] PHP Notice:  Undefined variable: result in /home/knoprotec/public_html/resources/views/admin/settings/general/websetting.blade.php on line 73
+[26-Sep-2022 00:33:18 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/settings/general/websetting.blade.php on line 73
+[26-Sep-2022 00:33:18 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/settings/general/websetting.blade.php on line 73
+[26-Sep-2022 00:33:18 America/New_York] PHP Notice:  Trying to get property 'value' of non-object in /home/knoprotec/public_html/resources/views/admin/settings/general/websetting.blade.php on line 73
+[11-Oct-2022 21:43:41 America/New_York] PHP Notice:  Undefined variable: result in /home/knoprotec/public_html/resources/views/admin/settings/general/websetting.blade.php on line 73
+[11-Oct-2022 21:43:41 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/settings/general/websetting.blade.php on line 73
+[11-Oct-2022 21:43:41 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/settings/general/websetting.blade.php on line 73
+[11-Oct-2022 21:43:41 America/New_York] PHP Notice:  Trying to get property 'value' of non-object in /home/knoprotec/public_html/resources/views/admin/settings/general/websetting.blade.php on line 73
+[27-Oct-2022 22:04:29 America/New_York] PHP Notice:  Undefined variable: result in /home/knoprotec/public_html/resources/views/admin/settings/general/websetting.blade.php on line 73
+[27-Oct-2022 22:04:29 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/settings/general/websetting.blade.php on line 73
+[27-Oct-2022 22:04:29 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/settings/general/websetting.blade.php on line 73
+[27-Oct-2022 22:04:29 America/New_York] PHP Notice:  Trying to get property 'value' of non-object in /home/knoprotec/public_html/resources/views/admin/settings/general/websetting.blade.php on line 73

@@ -1,0 +1,84 @@
+[08-Sep-2022 01:08:03 America/New_York] PHP Notice:  Undefined variable: categories in /home/knoprotec/public_html/resources/views/admin/admins/roles/category/add.blade.php on line 74
+[08-Sep-2022 01:08:03 America/New_York] PHP Notice:  Trying to get property 'id' of non-object in /home/knoprotec/public_html/resources/views/admin/admins/roles/category/add.blade.php on line 74
+[08-Sep-2022 01:08:03 America/New_York] PHP Notice:  Undefined variable: categories in /home/knoprotec/public_html/resources/views/admin/admins/roles/category/add.blade.php on line 78
+[08-Sep-2022 01:08:03 America/New_York] PHP Notice:  Trying to get property 'id' of non-object in /home/knoprotec/public_html/resources/views/admin/admins/roles/category/add.blade.php on line 78
+[08-Sep-2022 01:08:03 America/New_York] PHP Notice:  Undefined variable: categories in /home/knoprotec/public_html/resources/views/admin/admins/roles/category/add.blade.php on line 78
+[08-Sep-2022 01:08:03 America/New_York] PHP Notice:  Trying to get property 'id' of non-object in /home/knoprotec/public_html/resources/views/admin/admins/roles/category/add.blade.php on line 78
+[08-Sep-2022 01:08:04 America/New_York] PHP Notice:  Undefined variable: categories in /home/knoprotec/public_html/resources/views/admin/admins/roles/category/edit.blade.php on line 78
+[08-Sep-2022 01:08:04 America/New_York] PHP Notice:  Trying to get property 'id' of non-object in /home/knoprotec/public_html/resources/views/admin/admins/roles/category/edit.blade.php on line 78
+[08-Sep-2022 01:08:04 America/New_York] PHP Notice:  Undefined variable: categories in /home/knoprotec/public_html/resources/views/admin/admins/roles/category/edit.blade.php on line 82
+[08-Sep-2022 01:08:04 America/New_York] PHP Notice:  Trying to get property 'id' of non-object in /home/knoprotec/public_html/resources/views/admin/admins/roles/category/edit.blade.php on line 82
+[08-Sep-2022 01:08:04 America/New_York] PHP Notice:  Undefined variable: categories in /home/knoprotec/public_html/resources/views/admin/admins/roles/category/edit.blade.php on line 82
+[08-Sep-2022 01:08:04 America/New_York] PHP Notice:  Trying to get property 'id' of non-object in /home/knoprotec/public_html/resources/views/admin/admins/roles/category/edit.blade.php on line 82
+[10-Sep-2022 12:37:29 America/New_York] PHP Notice:  Undefined variable: categories in /home/knoprotec/public_html/resources/views/admin/admins/roles/category/add.blade.php on line 74
+[10-Sep-2022 12:37:29 America/New_York] PHP Notice:  Trying to get property 'id' of non-object in /home/knoprotec/public_html/resources/views/admin/admins/roles/category/add.blade.php on line 74
+[10-Sep-2022 12:37:29 America/New_York] PHP Notice:  Undefined variable: categories in /home/knoprotec/public_html/resources/views/admin/admins/roles/category/add.blade.php on line 78
+[10-Sep-2022 12:37:29 America/New_York] PHP Notice:  Trying to get property 'id' of non-object in /home/knoprotec/public_html/resources/views/admin/admins/roles/category/add.blade.php on line 78
+[10-Sep-2022 12:37:29 America/New_York] PHP Notice:  Undefined variable: categories in /home/knoprotec/public_html/resources/views/admin/admins/roles/category/add.blade.php on line 78
+[10-Sep-2022 12:37:29 America/New_York] PHP Notice:  Trying to get property 'id' of non-object in /home/knoprotec/public_html/resources/views/admin/admins/roles/category/add.blade.php on line 78
+[10-Sep-2022 12:37:31 America/New_York] PHP Notice:  Undefined variable: categories in /home/knoprotec/public_html/resources/views/admin/admins/roles/category/edit.blade.php on line 78
+[10-Sep-2022 12:37:31 America/New_York] PHP Notice:  Trying to get property 'id' of non-object in /home/knoprotec/public_html/resources/views/admin/admins/roles/category/edit.blade.php on line 78
+[10-Sep-2022 12:37:31 America/New_York] PHP Notice:  Undefined variable: categories in /home/knoprotec/public_html/resources/views/admin/admins/roles/category/edit.blade.php on line 82
+[10-Sep-2022 12:37:31 America/New_York] PHP Notice:  Trying to get property 'id' of non-object in /home/knoprotec/public_html/resources/views/admin/admins/roles/category/edit.blade.php on line 82
+[10-Sep-2022 12:37:31 America/New_York] PHP Notice:  Undefined variable: categories in /home/knoprotec/public_html/resources/views/admin/admins/roles/category/edit.blade.php on line 82
+[10-Sep-2022 12:37:31 America/New_York] PHP Notice:  Trying to get property 'id' of non-object in /home/knoprotec/public_html/resources/views/admin/admins/roles/category/edit.blade.php on line 82
+[12-Sep-2022 12:07:36 America/New_York] PHP Notice:  Undefined variable: categories in /home/knoprotec/public_html/resources/views/admin/admins/roles/category/add.blade.php on line 74
+[12-Sep-2022 12:07:36 America/New_York] PHP Notice:  Trying to get property 'id' of non-object in /home/knoprotec/public_html/resources/views/admin/admins/roles/category/add.blade.php on line 74
+[12-Sep-2022 12:07:36 America/New_York] PHP Notice:  Undefined variable: categories in /home/knoprotec/public_html/resources/views/admin/admins/roles/category/add.blade.php on line 78
+[12-Sep-2022 12:07:36 America/New_York] PHP Notice:  Trying to get property 'id' of non-object in /home/knoprotec/public_html/resources/views/admin/admins/roles/category/add.blade.php on line 78
+[12-Sep-2022 12:07:36 America/New_York] PHP Notice:  Undefined variable: categories in /home/knoprotec/public_html/resources/views/admin/admins/roles/category/add.blade.php on line 78
+[12-Sep-2022 12:07:36 America/New_York] PHP Notice:  Trying to get property 'id' of non-object in /home/knoprotec/public_html/resources/views/admin/admins/roles/category/add.blade.php on line 78
+[12-Sep-2022 12:07:37 America/New_York] PHP Notice:  Undefined variable: categories in /home/knoprotec/public_html/resources/views/admin/admins/roles/category/edit.blade.php on line 78
+[12-Sep-2022 12:07:37 America/New_York] PHP Notice:  Trying to get property 'id' of non-object in /home/knoprotec/public_html/resources/views/admin/admins/roles/category/edit.blade.php on line 78
+[12-Sep-2022 12:07:37 America/New_York] PHP Notice:  Undefined variable: categories in /home/knoprotec/public_html/resources/views/admin/admins/roles/category/edit.blade.php on line 82
+[12-Sep-2022 12:07:37 America/New_York] PHP Notice:  Trying to get property 'id' of non-object in /home/knoprotec/public_html/resources/views/admin/admins/roles/category/edit.blade.php on line 82
+[12-Sep-2022 12:07:37 America/New_York] PHP Notice:  Undefined variable: categories in /home/knoprotec/public_html/resources/views/admin/admins/roles/category/edit.blade.php on line 82
+[12-Sep-2022 12:07:37 America/New_York] PHP Notice:  Trying to get property 'id' of non-object in /home/knoprotec/public_html/resources/views/admin/admins/roles/category/edit.blade.php on line 82
+[22-Sep-2022 11:53:59 America/New_York] PHP Notice:  Undefined variable: categories in /home/knoprotec/public_html/resources/views/admin/admins/roles/category/edit.blade.php on line 78
+[22-Sep-2022 11:53:59 America/New_York] PHP Notice:  Trying to get property 'id' of non-object in /home/knoprotec/public_html/resources/views/admin/admins/roles/category/edit.blade.php on line 78
+[22-Sep-2022 11:53:59 America/New_York] PHP Notice:  Undefined variable: categories in /home/knoprotec/public_html/resources/views/admin/admins/roles/category/edit.blade.php on line 82
+[22-Sep-2022 11:53:59 America/New_York] PHP Notice:  Trying to get property 'id' of non-object in /home/knoprotec/public_html/resources/views/admin/admins/roles/category/edit.blade.php on line 82
+[22-Sep-2022 11:53:59 America/New_York] PHP Notice:  Undefined variable: categories in /home/knoprotec/public_html/resources/views/admin/admins/roles/category/edit.blade.php on line 82
+[22-Sep-2022 11:53:59 America/New_York] PHP Notice:  Trying to get property 'id' of non-object in /home/knoprotec/public_html/resources/views/admin/admins/roles/category/edit.blade.php on line 82
+[23-Sep-2022 13:27:40 America/New_York] PHP Notice:  Undefined variable: categories in /home/knoprotec/public_html/resources/views/admin/admins/roles/category/add.blade.php on line 74
+[23-Sep-2022 13:27:40 America/New_York] PHP Notice:  Trying to get property 'id' of non-object in /home/knoprotec/public_html/resources/views/admin/admins/roles/category/add.blade.php on line 74
+[23-Sep-2022 13:27:40 America/New_York] PHP Notice:  Undefined variable: categories in /home/knoprotec/public_html/resources/views/admin/admins/roles/category/add.blade.php on line 78
+[23-Sep-2022 13:27:40 America/New_York] PHP Notice:  Trying to get property 'id' of non-object in /home/knoprotec/public_html/resources/views/admin/admins/roles/category/add.blade.php on line 78
+[23-Sep-2022 13:27:40 America/New_York] PHP Notice:  Undefined variable: categories in /home/knoprotec/public_html/resources/views/admin/admins/roles/category/add.blade.php on line 78
+[23-Sep-2022 13:27:40 America/New_York] PHP Notice:  Trying to get property 'id' of non-object in /home/knoprotec/public_html/resources/views/admin/admins/roles/category/add.blade.php on line 78
+[23-Sep-2022 13:27:46 America/New_York] PHP Notice:  Undefined variable: categories in /home/knoprotec/public_html/resources/views/admin/admins/roles/category/edit.blade.php on line 78
+[23-Sep-2022 13:27:46 America/New_York] PHP Notice:  Trying to get property 'id' of non-object in /home/knoprotec/public_html/resources/views/admin/admins/roles/category/edit.blade.php on line 78
+[23-Sep-2022 13:27:46 America/New_York] PHP Notice:  Undefined variable: categories in /home/knoprotec/public_html/resources/views/admin/admins/roles/category/edit.blade.php on line 82
+[23-Sep-2022 13:27:46 America/New_York] PHP Notice:  Trying to get property 'id' of non-object in /home/knoprotec/public_html/resources/views/admin/admins/roles/category/edit.blade.php on line 82
+[23-Sep-2022 13:27:46 America/New_York] PHP Notice:  Undefined variable: categories in /home/knoprotec/public_html/resources/views/admin/admins/roles/category/edit.blade.php on line 82
+[23-Sep-2022 13:27:46 America/New_York] PHP Notice:  Trying to get property 'id' of non-object in /home/knoprotec/public_html/resources/views/admin/admins/roles/category/edit.blade.php on line 82
+[25-Sep-2022 16:13:13 America/New_York] PHP Notice:  Undefined variable: categories in /home/knoprotec/public_html/resources/views/admin/admins/roles/category/add.blade.php on line 74
+[25-Sep-2022 16:13:13 America/New_York] PHP Notice:  Trying to get property 'id' of non-object in /home/knoprotec/public_html/resources/views/admin/admins/roles/category/add.blade.php on line 74
+[25-Sep-2022 16:13:13 America/New_York] PHP Notice:  Undefined variable: categories in /home/knoprotec/public_html/resources/views/admin/admins/roles/category/add.blade.php on line 78
+[25-Sep-2022 16:13:13 America/New_York] PHP Notice:  Trying to get property 'id' of non-object in /home/knoprotec/public_html/resources/views/admin/admins/roles/category/add.blade.php on line 78
+[25-Sep-2022 16:13:13 America/New_York] PHP Notice:  Undefined variable: categories in /home/knoprotec/public_html/resources/views/admin/admins/roles/category/add.blade.php on line 78
+[25-Sep-2022 16:13:13 America/New_York] PHP Notice:  Trying to get property 'id' of non-object in /home/knoprotec/public_html/resources/views/admin/admins/roles/category/add.blade.php on line 78
+[08-Oct-2022 17:38:58 America/New_York] PHP Notice:  Undefined variable: categories in /home/knoprotec/public_html/resources/views/admin/admins/roles/category/add.blade.php on line 74
+[08-Oct-2022 17:38:58 America/New_York] PHP Notice:  Trying to get property 'id' of non-object in /home/knoprotec/public_html/resources/views/admin/admins/roles/category/add.blade.php on line 74
+[08-Oct-2022 17:38:58 America/New_York] PHP Notice:  Undefined variable: categories in /home/knoprotec/public_html/resources/views/admin/admins/roles/category/add.blade.php on line 78
+[08-Oct-2022 17:38:58 America/New_York] PHP Notice:  Trying to get property 'id' of non-object in /home/knoprotec/public_html/resources/views/admin/admins/roles/category/add.blade.php on line 78
+[08-Oct-2022 17:38:58 America/New_York] PHP Notice:  Undefined variable: categories in /home/knoprotec/public_html/resources/views/admin/admins/roles/category/add.blade.php on line 78
+[08-Oct-2022 17:38:58 America/New_York] PHP Notice:  Trying to get property 'id' of non-object in /home/knoprotec/public_html/resources/views/admin/admins/roles/category/add.blade.php on line 78
+[08-Oct-2022 17:39:09 America/New_York] PHP Notice:  Undefined variable: categories in /home/knoprotec/public_html/resources/views/admin/admins/roles/category/edit.blade.php on line 78
+[08-Oct-2022 17:39:09 America/New_York] PHP Notice:  Trying to get property 'id' of non-object in /home/knoprotec/public_html/resources/views/admin/admins/roles/category/edit.blade.php on line 78
+[08-Oct-2022 17:39:09 America/New_York] PHP Notice:  Undefined variable: categories in /home/knoprotec/public_html/resources/views/admin/admins/roles/category/edit.blade.php on line 82
+[08-Oct-2022 17:39:09 America/New_York] PHP Notice:  Trying to get property 'id' of non-object in /home/knoprotec/public_html/resources/views/admin/admins/roles/category/edit.blade.php on line 82
+[08-Oct-2022 17:39:09 America/New_York] PHP Notice:  Undefined variable: categories in /home/knoprotec/public_html/resources/views/admin/admins/roles/category/edit.blade.php on line 82
+[08-Oct-2022 17:39:09 America/New_York] PHP Notice:  Trying to get property 'id' of non-object in /home/knoprotec/public_html/resources/views/admin/admins/roles/category/edit.blade.php on line 82
+[23-Oct-2022 09:59:37 America/New_York] PHP Notice:  Undefined variable: categories in /home/knoprotec/public_html/resources/views/admin/admins/roles/category/add.blade.php on line 74
+[23-Oct-2022 09:59:37 America/New_York] PHP Notice:  Trying to get property 'id' of non-object in /home/knoprotec/public_html/resources/views/admin/admins/roles/category/add.blade.php on line 74
+[23-Oct-2022 09:59:37 America/New_York] PHP Notice:  Undefined variable: categories in /home/knoprotec/public_html/resources/views/admin/admins/roles/category/add.blade.php on line 78
+[23-Oct-2022 09:59:37 America/New_York] PHP Notice:  Trying to get property 'id' of non-object in /home/knoprotec/public_html/resources/views/admin/admins/roles/category/add.blade.php on line 78
+[23-Oct-2022 09:59:37 America/New_York] PHP Notice:  Undefined variable: categories in /home/knoprotec/public_html/resources/views/admin/admins/roles/category/add.blade.php on line 78
+[23-Oct-2022 09:59:37 America/New_York] PHP Notice:  Trying to get property 'id' of non-object in /home/knoprotec/public_html/resources/views/admin/admins/roles/category/add.blade.php on line 78
+[23-Oct-2022 10:00:14 America/New_York] PHP Notice:  Undefined variable: categories in /home/knoprotec/public_html/resources/views/admin/admins/roles/category/edit.blade.php on line 78
+[23-Oct-2022 10:00:14 America/New_York] PHP Notice:  Trying to get property 'id' of non-object in /home/knoprotec/public_html/resources/views/admin/admins/roles/category/edit.blade.php on line 78
+[23-Oct-2022 10:00:14 America/New_York] PHP Notice:  Undefined variable: categories in /home/knoprotec/public_html/resources/views/admin/admins/roles/category/edit.blade.php on line 82
+[23-Oct-2022 10:00:14 America/New_York] PHP Notice:  Trying to get property 'id' of non-object in /home/knoprotec/public_html/resources/views/admin/admins/roles/category/edit.blade.php on line 82
+[23-Oct-2022 10:00:14 America/New_York] PHP Notice:  Undefined variable: categories in /home/knoprotec/public_html/resources/views/admin/admins/roles/category/edit.blade.php on line 82
+[23-Oct-2022 10:00:14 America/New_York] PHP Notice:  Trying to get property 'id' of non-object in /home/knoprotec/public_html/resources/views/admin/admins/roles/category/edit.blade.php on line 82

@@ -1,0 +1,120 @@
+[04-Sep-2022 17:40:55 America/New_York] PHP Notice:  Undefined variable: res in /home/knoprotec/public_html/resources/views/admin/paymentmethods/display.blade.php on line 97
+[04-Sep-2022 17:40:55 America/New_York] PHP Notice:  Trying to get property 'key' of non-object in /home/knoprotec/public_html/resources/views/admin/paymentmethods/display.blade.php on line 97
+[04-Sep-2022 17:40:55 America/New_York] PHP Notice:  Undefined variable: res in /home/knoprotec/public_html/resources/views/admin/paymentmethods/display.blade.php on line 113
+[04-Sep-2022 17:40:55 America/New_York] PHP Notice:  Trying to get property 'key' of non-object in /home/knoprotec/public_html/resources/views/admin/paymentmethods/display.blade.php on line 113
+[04-Sep-2022 17:40:55 America/New_York] PHP Notice:  Undefined variable: res in /home/knoprotec/public_html/resources/views/admin/paymentmethods/display.blade.php on line 117
+[04-Sep-2022 17:40:55 America/New_York] PHP Notice:  Trying to get property 'key' of non-object in /home/knoprotec/public_html/resources/views/admin/paymentmethods/display.blade.php on line 117
+[04-Sep-2022 17:40:55 America/New_York] PHP Notice:  Undefined variable: detail in /home/knoprotec/public_html/resources/views/admin/paymentmethods/display.blade.php on line 144
+[04-Sep-2022 17:40:55 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/paymentmethods/display.blade.php on line 144
+[04-Sep-2022 17:40:55 America/New_York] PHP Notice:  Undefined variable: detail in /home/knoprotec/public_html/resources/views/admin/paymentmethods/display.blade.php on line 162
+[04-Sep-2022 17:40:55 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/paymentmethods/display.blade.php on line 162
+[05-Sep-2022 07:26:38 America/New_York] PHP Notice:  Undefined variable: res in /home/knoprotec/public_html/resources/views/admin/paymentmethods/display.blade.php on line 97
+[05-Sep-2022 07:26:38 America/New_York] PHP Notice:  Trying to get property 'key' of non-object in /home/knoprotec/public_html/resources/views/admin/paymentmethods/display.blade.php on line 97
+[05-Sep-2022 07:26:38 America/New_York] PHP Notice:  Undefined variable: res in /home/knoprotec/public_html/resources/views/admin/paymentmethods/display.blade.php on line 113
+[05-Sep-2022 07:26:38 America/New_York] PHP Notice:  Trying to get property 'key' of non-object in /home/knoprotec/public_html/resources/views/admin/paymentmethods/display.blade.php on line 113
+[05-Sep-2022 07:26:38 America/New_York] PHP Notice:  Undefined variable: res in /home/knoprotec/public_html/resources/views/admin/paymentmethods/display.blade.php on line 117
+[05-Sep-2022 07:26:38 America/New_York] PHP Notice:  Trying to get property 'key' of non-object in /home/knoprotec/public_html/resources/views/admin/paymentmethods/display.blade.php on line 117
+[05-Sep-2022 07:26:38 America/New_York] PHP Notice:  Undefined variable: detail in /home/knoprotec/public_html/resources/views/admin/paymentmethods/display.blade.php on line 144
+[05-Sep-2022 07:26:38 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/paymentmethods/display.blade.php on line 144
+[05-Sep-2022 07:26:38 America/New_York] PHP Notice:  Undefined variable: detail in /home/knoprotec/public_html/resources/views/admin/paymentmethods/display.blade.php on line 162
+[05-Sep-2022 07:26:38 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/paymentmethods/display.blade.php on line 162
+[10-Sep-2022 07:52:02 America/New_York] PHP Notice:  Undefined variable: res in /home/knoprotec/public_html/resources/views/admin/paymentmethods/display.blade.php on line 97
+[10-Sep-2022 07:52:02 America/New_York] PHP Notice:  Trying to get property 'key' of non-object in /home/knoprotec/public_html/resources/views/admin/paymentmethods/display.blade.php on line 97
+[10-Sep-2022 07:52:02 America/New_York] PHP Notice:  Undefined variable: res in /home/knoprotec/public_html/resources/views/admin/paymentmethods/display.blade.php on line 113
+[10-Sep-2022 07:52:02 America/New_York] PHP Notice:  Trying to get property 'key' of non-object in /home/knoprotec/public_html/resources/views/admin/paymentmethods/display.blade.php on line 113
+[10-Sep-2022 07:52:02 America/New_York] PHP Notice:  Undefined variable: res in /home/knoprotec/public_html/resources/views/admin/paymentmethods/display.blade.php on line 117
+[10-Sep-2022 07:52:02 America/New_York] PHP Notice:  Trying to get property 'key' of non-object in /home/knoprotec/public_html/resources/views/admin/paymentmethods/display.blade.php on line 117
+[10-Sep-2022 07:52:02 America/New_York] PHP Notice:  Undefined variable: detail in /home/knoprotec/public_html/resources/views/admin/paymentmethods/display.blade.php on line 144
+[10-Sep-2022 07:52:02 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/paymentmethods/display.blade.php on line 144
+[10-Sep-2022 07:52:02 America/New_York] PHP Notice:  Undefined variable: detail in /home/knoprotec/public_html/resources/views/admin/paymentmethods/display.blade.php on line 162
+[10-Sep-2022 07:52:02 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/paymentmethods/display.blade.php on line 162
+[13-Sep-2022 22:03:51 America/New_York] PHP Notice:  Undefined variable: res in /home/knoprotec/public_html/resources/views/admin/paymentmethods/display.blade.php on line 97
+[13-Sep-2022 22:03:51 America/New_York] PHP Notice:  Trying to get property 'key' of non-object in /home/knoprotec/public_html/resources/views/admin/paymentmethods/display.blade.php on line 97
+[13-Sep-2022 22:03:51 America/New_York] PHP Notice:  Undefined variable: res in /home/knoprotec/public_html/resources/views/admin/paymentmethods/display.blade.php on line 113
+[13-Sep-2022 22:03:51 America/New_York] PHP Notice:  Trying to get property 'key' of non-object in /home/knoprotec/public_html/resources/views/admin/paymentmethods/display.blade.php on line 113
+[13-Sep-2022 22:03:51 America/New_York] PHP Notice:  Undefined variable: res in /home/knoprotec/public_html/resources/views/admin/paymentmethods/display.blade.php on line 117
+[13-Sep-2022 22:03:51 America/New_York] PHP Notice:  Trying to get property 'key' of non-object in /home/knoprotec/public_html/resources/views/admin/paymentmethods/display.blade.php on line 117
+[13-Sep-2022 22:03:51 America/New_York] PHP Notice:  Undefined variable: detail in /home/knoprotec/public_html/resources/views/admin/paymentmethods/display.blade.php on line 144
+[13-Sep-2022 22:03:51 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/paymentmethods/display.blade.php on line 144
+[13-Sep-2022 22:03:51 America/New_York] PHP Notice:  Undefined variable: detail in /home/knoprotec/public_html/resources/views/admin/paymentmethods/display.blade.php on line 162
+[13-Sep-2022 22:03:51 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/paymentmethods/display.blade.php on line 162
+[16-Sep-2022 04:26:34 America/New_York] PHP Notice:  Undefined variable: res in /home/knoprotec/public_html/resources/views/admin/paymentmethods/display.blade.php on line 97
+[16-Sep-2022 04:26:34 America/New_York] PHP Notice:  Trying to get property 'key' of non-object in /home/knoprotec/public_html/resources/views/admin/paymentmethods/display.blade.php on line 97
+[16-Sep-2022 04:26:34 America/New_York] PHP Notice:  Undefined variable: res in /home/knoprotec/public_html/resources/views/admin/paymentmethods/display.blade.php on line 113
+[16-Sep-2022 04:26:34 America/New_York] PHP Notice:  Trying to get property 'key' of non-object in /home/knoprotec/public_html/resources/views/admin/paymentmethods/display.blade.php on line 113
+[16-Sep-2022 04:26:34 America/New_York] PHP Notice:  Undefined variable: res in /home/knoprotec/public_html/resources/views/admin/paymentmethods/display.blade.php on line 117
+[16-Sep-2022 04:26:34 America/New_York] PHP Notice:  Trying to get property 'key' of non-object in /home/knoprotec/public_html/resources/views/admin/paymentmethods/display.blade.php on line 117
+[16-Sep-2022 04:26:34 America/New_York] PHP Notice:  Undefined variable: detail in /home/knoprotec/public_html/resources/views/admin/paymentmethods/display.blade.php on line 144
+[16-Sep-2022 04:26:34 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/paymentmethods/display.blade.php on line 144
+[16-Sep-2022 04:26:34 America/New_York] PHP Notice:  Undefined variable: detail in /home/knoprotec/public_html/resources/views/admin/paymentmethods/display.blade.php on line 162
+[16-Sep-2022 04:26:34 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/paymentmethods/display.blade.php on line 162
+[21-Sep-2022 02:09:10 America/New_York] PHP Notice:  Undefined variable: res in /home/knoprotec/public_html/resources/views/admin/paymentmethods/display.blade.php on line 97
+[21-Sep-2022 02:09:10 America/New_York] PHP Notice:  Trying to get property 'key' of non-object in /home/knoprotec/public_html/resources/views/admin/paymentmethods/display.blade.php on line 97
+[21-Sep-2022 02:09:10 America/New_York] PHP Notice:  Undefined variable: res in /home/knoprotec/public_html/resources/views/admin/paymentmethods/display.blade.php on line 113
+[21-Sep-2022 02:09:10 America/New_York] PHP Notice:  Trying to get property 'key' of non-object in /home/knoprotec/public_html/resources/views/admin/paymentmethods/display.blade.php on line 113
+[21-Sep-2022 02:09:10 America/New_York] PHP Notice:  Undefined variable: res in /home/knoprotec/public_html/resources/views/admin/paymentmethods/display.blade.php on line 117
+[21-Sep-2022 02:09:10 America/New_York] PHP Notice:  Trying to get property 'key' of non-object in /home/knoprotec/public_html/resources/views/admin/paymentmethods/display.blade.php on line 117
+[21-Sep-2022 02:09:10 America/New_York] PHP Notice:  Undefined variable: detail in /home/knoprotec/public_html/resources/views/admin/paymentmethods/display.blade.php on line 144
+[21-Sep-2022 02:09:10 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/paymentmethods/display.blade.php on line 144
+[21-Sep-2022 02:09:10 America/New_York] PHP Notice:  Undefined variable: detail in /home/knoprotec/public_html/resources/views/admin/paymentmethods/display.blade.php on line 162
+[21-Sep-2022 02:09:10 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/paymentmethods/display.blade.php on line 162
+[06-Oct-2022 01:05:40 America/New_York] PHP Notice:  Undefined variable: res in /home/knoprotec/public_html/resources/views/admin/paymentmethods/display.blade.php on line 97
+[06-Oct-2022 01:05:40 America/New_York] PHP Notice:  Trying to get property 'key' of non-object in /home/knoprotec/public_html/resources/views/admin/paymentmethods/display.blade.php on line 97
+[06-Oct-2022 01:05:40 America/New_York] PHP Notice:  Undefined variable: res in /home/knoprotec/public_html/resources/views/admin/paymentmethods/display.blade.php on line 113
+[06-Oct-2022 01:05:40 America/New_York] PHP Notice:  Trying to get property 'key' of non-object in /home/knoprotec/public_html/resources/views/admin/paymentmethods/display.blade.php on line 113
+[06-Oct-2022 01:05:40 America/New_York] PHP Notice:  Undefined variable: res in /home/knoprotec/public_html/resources/views/admin/paymentmethods/display.blade.php on line 117
+[06-Oct-2022 01:05:40 America/New_York] PHP Notice:  Trying to get property 'key' of non-object in /home/knoprotec/public_html/resources/views/admin/paymentmethods/display.blade.php on line 117
+[06-Oct-2022 01:05:40 America/New_York] PHP Notice:  Undefined variable: detail in /home/knoprotec/public_html/resources/views/admin/paymentmethods/display.blade.php on line 144
+[06-Oct-2022 01:05:40 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/paymentmethods/display.blade.php on line 144
+[06-Oct-2022 01:05:40 America/New_York] PHP Notice:  Undefined variable: detail in /home/knoprotec/public_html/resources/views/admin/paymentmethods/display.blade.php on line 162
+[06-Oct-2022 01:05:40 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/paymentmethods/display.blade.php on line 162
+[08-Oct-2022 08:16:57 America/New_York] PHP Notice:  Undefined variable: res in /home/knoprotec/public_html/resources/views/admin/paymentmethods/display.blade.php on line 97
+[08-Oct-2022 08:16:57 America/New_York] PHP Notice:  Trying to get property 'key' of non-object in /home/knoprotec/public_html/resources/views/admin/paymentmethods/display.blade.php on line 97
+[08-Oct-2022 08:16:57 America/New_York] PHP Notice:  Undefined variable: res in /home/knoprotec/public_html/resources/views/admin/paymentmethods/display.blade.php on line 113
+[08-Oct-2022 08:16:57 America/New_York] PHP Notice:  Trying to get property 'key' of non-object in /home/knoprotec/public_html/resources/views/admin/paymentmethods/display.blade.php on line 113
+[08-Oct-2022 08:16:57 America/New_York] PHP Notice:  Undefined variable: res in /home/knoprotec/public_html/resources/views/admin/paymentmethods/display.blade.php on line 117
+[08-Oct-2022 08:16:57 America/New_York] PHP Notice:  Trying to get property 'key' of non-object in /home/knoprotec/public_html/resources/views/admin/paymentmethods/display.blade.php on line 117
+[08-Oct-2022 08:16:57 America/New_York] PHP Notice:  Undefined variable: detail in /home/knoprotec/public_html/resources/views/admin/paymentmethods/display.blade.php on line 144
+[08-Oct-2022 08:16:57 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/paymentmethods/display.blade.php on line 144
+[08-Oct-2022 08:16:57 America/New_York] PHP Notice:  Undefined variable: detail in /home/knoprotec/public_html/resources/views/admin/paymentmethods/display.blade.php on line 162
+[08-Oct-2022 08:16:57 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/paymentmethods/display.blade.php on line 162
+[11-Oct-2022 23:53:21 America/New_York] PHP Notice:  Undefined variable: res in /home/knoprotec/public_html/resources/views/admin/paymentmethods/display.blade.php on line 97
+[11-Oct-2022 23:53:21 America/New_York] PHP Notice:  Trying to get property 'key' of non-object in /home/knoprotec/public_html/resources/views/admin/paymentmethods/display.blade.php on line 97
+[11-Oct-2022 23:53:21 America/New_York] PHP Notice:  Undefined variable: res in /home/knoprotec/public_html/resources/views/admin/paymentmethods/display.blade.php on line 113
+[11-Oct-2022 23:53:21 America/New_York] PHP Notice:  Trying to get property 'key' of non-object in /home/knoprotec/public_html/resources/views/admin/paymentmethods/display.blade.php on line 113
+[11-Oct-2022 23:53:21 America/New_York] PHP Notice:  Undefined variable: res in /home/knoprotec/public_html/resources/views/admin/paymentmethods/display.blade.php on line 117
+[11-Oct-2022 23:53:21 America/New_York] PHP Notice:  Trying to get property 'key' of non-object in /home/knoprotec/public_html/resources/views/admin/paymentmethods/display.blade.php on line 117
+[11-Oct-2022 23:53:21 America/New_York] PHP Notice:  Undefined variable: detail in /home/knoprotec/public_html/resources/views/admin/paymentmethods/display.blade.php on line 144
+[11-Oct-2022 23:53:21 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/paymentmethods/display.blade.php on line 144
+[11-Oct-2022 23:53:21 America/New_York] PHP Notice:  Undefined variable: detail in /home/knoprotec/public_html/resources/views/admin/paymentmethods/display.blade.php on line 162
+[11-Oct-2022 23:53:21 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/paymentmethods/display.blade.php on line 162
+[22-Oct-2022 10:56:14 America/New_York] PHP Notice:  Undefined variable: res in /home/knoprotec/public_html/resources/views/admin/paymentmethods/display.blade.php on line 97
+[22-Oct-2022 10:56:14 America/New_York] PHP Notice:  Trying to get property 'key' of non-object in /home/knoprotec/public_html/resources/views/admin/paymentmethods/display.blade.php on line 97
+[22-Oct-2022 10:56:14 America/New_York] PHP Notice:  Undefined variable: res in /home/knoprotec/public_html/resources/views/admin/paymentmethods/display.blade.php on line 113
+[22-Oct-2022 10:56:14 America/New_York] PHP Notice:  Trying to get property 'key' of non-object in /home/knoprotec/public_html/resources/views/admin/paymentmethods/display.blade.php on line 113
+[22-Oct-2022 10:56:14 America/New_York] PHP Notice:  Undefined variable: res in /home/knoprotec/public_html/resources/views/admin/paymentmethods/display.blade.php on line 117
+[22-Oct-2022 10:56:14 America/New_York] PHP Notice:  Trying to get property 'key' of non-object in /home/knoprotec/public_html/resources/views/admin/paymentmethods/display.blade.php on line 117
+[22-Oct-2022 10:56:14 America/New_York] PHP Notice:  Undefined variable: detail in /home/knoprotec/public_html/resources/views/admin/paymentmethods/display.blade.php on line 144
+[22-Oct-2022 10:56:14 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/paymentmethods/display.blade.php on line 144
+[22-Oct-2022 10:56:14 America/New_York] PHP Notice:  Undefined variable: detail in /home/knoprotec/public_html/resources/views/admin/paymentmethods/display.blade.php on line 162
+[22-Oct-2022 10:56:14 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/paymentmethods/display.blade.php on line 162
+[25-Oct-2022 13:14:10 America/New_York] PHP Notice:  Undefined variable: res in /home/knoprotec/public_html/resources/views/admin/paymentmethods/display.blade.php on line 97
+[25-Oct-2022 13:14:10 America/New_York] PHP Notice:  Trying to get property 'key' of non-object in /home/knoprotec/public_html/resources/views/admin/paymentmethods/display.blade.php on line 97
+[25-Oct-2022 13:14:10 America/New_York] PHP Notice:  Undefined variable: res in /home/knoprotec/public_html/resources/views/admin/paymentmethods/display.blade.php on line 113
+[25-Oct-2022 13:14:10 America/New_York] PHP Notice:  Trying to get property 'key' of non-object in /home/knoprotec/public_html/resources/views/admin/paymentmethods/display.blade.php on line 113
+[25-Oct-2022 13:14:10 America/New_York] PHP Notice:  Undefined variable: res in /home/knoprotec/public_html/resources/views/admin/paymentmethods/display.blade.php on line 117
+[25-Oct-2022 13:14:10 America/New_York] PHP Notice:  Trying to get property 'key' of non-object in /home/knoprotec/public_html/resources/views/admin/paymentmethods/display.blade.php on line 117
+[25-Oct-2022 13:14:10 America/New_York] PHP Notice:  Undefined variable: detail in /home/knoprotec/public_html/resources/views/admin/paymentmethods/display.blade.php on line 144
+[25-Oct-2022 13:14:10 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/paymentmethods/display.blade.php on line 144
+[25-Oct-2022 13:14:10 America/New_York] PHP Notice:  Undefined variable: detail in /home/knoprotec/public_html/resources/views/admin/paymentmethods/display.blade.php on line 162
+[25-Oct-2022 13:14:10 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/paymentmethods/display.blade.php on line 162
+[14-May-2023 16:26:28 America/New_York] PHP Notice:  Undefined variable: res in /home/knoprotec/public_html/resources/views/admin/paymentmethods/display.blade.php on line 97
+[14-May-2023 16:26:28 America/New_York] PHP Notice:  Trying to get property 'key' of non-object in /home/knoprotec/public_html/resources/views/admin/paymentmethods/display.blade.php on line 97
+[14-May-2023 16:26:28 America/New_York] PHP Notice:  Undefined variable: res in /home/knoprotec/public_html/resources/views/admin/paymentmethods/display.blade.php on line 113
+[14-May-2023 16:26:28 America/New_York] PHP Notice:  Trying to get property 'key' of non-object in /home/knoprotec/public_html/resources/views/admin/paymentmethods/display.blade.php on line 113
+[14-May-2023 16:26:28 America/New_York] PHP Notice:  Undefined variable: res in /home/knoprotec/public_html/resources/views/admin/paymentmethods/display.blade.php on line 117
+[14-May-2023 16:26:28 America/New_York] PHP Notice:  Trying to get property 'key' of non-object in /home/knoprotec/public_html/resources/views/admin/paymentmethods/display.blade.php on line 117
+[14-May-2023 16:26:28 America/New_York] PHP Notice:  Undefined variable: detail in /home/knoprotec/public_html/resources/views/admin/paymentmethods/display.blade.php on line 144
+[14-May-2023 16:26:28 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/paymentmethods/display.blade.php on line 144
+[14-May-2023 16:26:28 America/New_York] PHP Notice:  Undefined variable: detail in /home/knoprotec/public_html/resources/views/admin/paymentmethods/display.blade.php on line 162
+[14-May-2023 16:26:28 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/paymentmethods/display.blade.php on line 162

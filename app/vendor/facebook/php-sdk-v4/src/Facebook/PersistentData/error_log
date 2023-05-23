@@ -1,0 +1,84 @@
+[09-Sep-2022 14:33:40 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Facebook\PersistentData\PersistentDataInterface' not found in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/PersistentData/FacebookMemoryPersistentDataHandler.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/PersistentData/FacebookMemoryPersistentDataHandler.php on line 31
+[09-Sep-2022 18:25:48 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Facebook\PersistentData\PersistentDataInterface' not found in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/PersistentData/FacebookSessionPersistentDataHandler.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/PersistentData/FacebookSessionPersistentDataHandler.php on line 33
+[21-Sep-2022 05:14:30 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Facebook\PersistentData\PersistentDataInterface' not found in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/PersistentData/FacebookMemoryPersistentDataHandler.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/PersistentData/FacebookMemoryPersistentDataHandler.php on line 31
+[21-Sep-2022 05:14:30 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Facebook\PersistentData\PersistentDataInterface' not found in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/PersistentData/FacebookMemoryPersistentDataHandler.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/PersistentData/FacebookMemoryPersistentDataHandler.php on line 31
+[21-Sep-2022 05:18:41 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Facebook\PersistentData\PersistentDataInterface' not found in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/PersistentData/FacebookSessionPersistentDataHandler.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/PersistentData/FacebookSessionPersistentDataHandler.php on line 33
+[21-Sep-2022 05:18:41 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Facebook\PersistentData\PersistentDataInterface' not found in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/PersistentData/FacebookSessionPersistentDataHandler.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/PersistentData/FacebookSessionPersistentDataHandler.php on line 33
+[01-Oct-2022 23:35:13 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Facebook\PersistentData\PersistentDataInterface' not found in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/PersistentData/FacebookMemoryPersistentDataHandler.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/PersistentData/FacebookMemoryPersistentDataHandler.php on line 31
+[01-Oct-2022 23:35:16 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Facebook\PersistentData\PersistentDataInterface' not found in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/PersistentData/FacebookSessionPersistentDataHandler.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/PersistentData/FacebookSessionPersistentDataHandler.php on line 33
+[03-Oct-2022 01:46:21 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Facebook\PersistentData\PersistentDataInterface' not found in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/PersistentData/FacebookMemoryPersistentDataHandler.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/PersistentData/FacebookMemoryPersistentDataHandler.php on line 31
+[03-Oct-2022 01:46:25 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Facebook\PersistentData\PersistentDataInterface' not found in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/PersistentData/FacebookSessionPersistentDataHandler.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/PersistentData/FacebookSessionPersistentDataHandler.php on line 33
+[03-Oct-2022 07:31:15 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Facebook\PersistentData\PersistentDataInterface' not found in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/PersistentData/FacebookMemoryPersistentDataHandler.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/PersistentData/FacebookMemoryPersistentDataHandler.php on line 31
+[04-Oct-2022 02:57:29 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Facebook\PersistentData\PersistentDataInterface' not found in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/PersistentData/FacebookMemoryPersistentDataHandler.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/PersistentData/FacebookMemoryPersistentDataHandler.php on line 31
+[04-Oct-2022 02:57:34 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Facebook\PersistentData\PersistentDataInterface' not found in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/PersistentData/FacebookSessionPersistentDataHandler.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/PersistentData/FacebookSessionPersistentDataHandler.php on line 33
+[04-Oct-2022 19:55:20 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Facebook\PersistentData\PersistentDataInterface' not found in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/PersistentData/FacebookSessionPersistentDataHandler.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/PersistentData/FacebookSessionPersistentDataHandler.php on line 33
+[06-Oct-2022 23:50:52 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Facebook\PersistentData\PersistentDataInterface' not found in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/PersistentData/FacebookMemoryPersistentDataHandler.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/PersistentData/FacebookMemoryPersistentDataHandler.php on line 31
+[29-Oct-2022 23:55:41 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Facebook\PersistentData\PersistentDataInterface' not found in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/PersistentData/FacebookMemoryPersistentDataHandler.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/PersistentData/FacebookMemoryPersistentDataHandler.php on line 31
+[29-Oct-2022 23:55:46 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Facebook\PersistentData\PersistentDataInterface' not found in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/PersistentData/FacebookSessionPersistentDataHandler.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/PersistentData/FacebookSessionPersistentDataHandler.php on line 33
+[31-Oct-2022 01:24:06 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Facebook\PersistentData\PersistentDataInterface' not found in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/PersistentData/FacebookMemoryPersistentDataHandler.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/PersistentData/FacebookMemoryPersistentDataHandler.php on line 31
+[31-Oct-2022 01:24:08 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Facebook\PersistentData\PersistentDataInterface' not found in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/PersistentData/FacebookSessionPersistentDataHandler.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/PersistentData/FacebookSessionPersistentDataHandler.php on line 33
+[01-Nov-2022 02:03:38 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Facebook\PersistentData\PersistentDataInterface' not found in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/PersistentData/FacebookMemoryPersistentDataHandler.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/PersistentData/FacebookMemoryPersistentDataHandler.php on line 31
+[01-Nov-2022 02:03:41 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Facebook\PersistentData\PersistentDataInterface' not found in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/PersistentData/FacebookSessionPersistentDataHandler.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/PersistentData/FacebookSessionPersistentDataHandler.php on line 33

@@ -1,0 +1,202 @@
+[04-Sep-2022 17:42:22 America/New_York] PHP Notice:  Undefined variable: description_data in /home/knoprotec/public_html/resources/views/admin/shippingmethods/detail.blade.php on line 81
+[04-Sep-2022 17:42:22 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/shippingmethods/detail.blade.php on line 81
+[04-Sep-2022 17:42:23 America/New_York] PHP Notice:  Undefined variable: description_data in /home/knoprotec/public_html/resources/views/admin/shippingmethods/flateRate.blade.php on line 54
+[04-Sep-2022 17:42:23 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/shippingmethods/flateRate.blade.php on line 54
+[04-Sep-2022 17:42:28 America/New_York] PHP Notice:  Undefined variable: description_data in /home/knoprotec/public_html/resources/views/admin/shippingmethods/upsshipping.blade.php on line 91
+[04-Sep-2022 17:42:28 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/shippingmethods/upsshipping.blade.php on line 91
+[04-Sep-2022 17:42:28 America/New_York] PHP Notice:  Undefined variable: description_data in /home/knoprotec/public_html/resources/views/admin/shippingmethods/upsshipping.blade.php on line 100
+[04-Sep-2022 17:42:28 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/shippingmethods/upsshipping.blade.php on line 100
+[04-Sep-2022 17:42:28 America/New_York] PHP Notice:  Undefined variable: description_data in /home/knoprotec/public_html/resources/views/admin/shippingmethods/upsshipping.blade.php on line 109
+[04-Sep-2022 17:42:28 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/shippingmethods/upsshipping.blade.php on line 109
+[04-Sep-2022 17:42:28 America/New_York] PHP Notice:  Undefined variable: description_data in /home/knoprotec/public_html/resources/views/admin/shippingmethods/upsshipping.blade.php on line 117
+[04-Sep-2022 17:42:28 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/shippingmethods/upsshipping.blade.php on line 117
+[04-Sep-2022 17:42:28 America/New_York] PHP Notice:  Undefined variable: description_data in /home/knoprotec/public_html/resources/views/admin/shippingmethods/upsshipping.blade.php on line 125
+[04-Sep-2022 17:42:28 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/shippingmethods/upsshipping.blade.php on line 125
+[04-Sep-2022 17:42:28 America/New_York] PHP Notice:  Undefined variable: description_data in /home/knoprotec/public_html/resources/views/admin/shippingmethods/upsshipping.blade.php on line 133
+[04-Sep-2022 17:42:28 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/shippingmethods/upsshipping.blade.php on line 133
+[04-Sep-2022 17:42:28 America/New_York] PHP Notice:  Undefined variable: description_data in /home/knoprotec/public_html/resources/views/admin/shippingmethods/upsshipping.blade.php on line 141
+[04-Sep-2022 17:42:28 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/shippingmethods/upsshipping.blade.php on line 141
+[04-Sep-2022 17:42:28 America/New_York] PHP Notice:  Undefined variable: description_data in /home/knoprotec/public_html/resources/views/admin/shippingmethods/upsshipping.blade.php on line 150
+[04-Sep-2022 17:42:28 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/shippingmethods/upsshipping.blade.php on line 150
+[07-Sep-2022 19:58:57 America/New_York] PHP Notice:  Undefined variable: description_data in /home/knoprotec/public_html/resources/views/admin/shippingmethods/detail.blade.php on line 81
+[07-Sep-2022 19:58:57 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/shippingmethods/detail.blade.php on line 81
+[07-Sep-2022 19:58:58 America/New_York] PHP Notice:  Undefined variable: description_data in /home/knoprotec/public_html/resources/views/admin/shippingmethods/flateRate.blade.php on line 54
+[07-Sep-2022 19:58:58 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/shippingmethods/flateRate.blade.php on line 54
+[07-Sep-2022 19:59:00 America/New_York] PHP Notice:  Undefined variable: description_data in /home/knoprotec/public_html/resources/views/admin/shippingmethods/upsshipping.blade.php on line 91
+[07-Sep-2022 19:59:00 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/shippingmethods/upsshipping.blade.php on line 91
+[07-Sep-2022 19:59:00 America/New_York] PHP Notice:  Undefined variable: description_data in /home/knoprotec/public_html/resources/views/admin/shippingmethods/upsshipping.blade.php on line 100
+[07-Sep-2022 19:59:00 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/shippingmethods/upsshipping.blade.php on line 100
+[07-Sep-2022 19:59:00 America/New_York] PHP Notice:  Undefined variable: description_data in /home/knoprotec/public_html/resources/views/admin/shippingmethods/upsshipping.blade.php on line 109
+[07-Sep-2022 19:59:00 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/shippingmethods/upsshipping.blade.php on line 109
+[07-Sep-2022 19:59:00 America/New_York] PHP Notice:  Undefined variable: description_data in /home/knoprotec/public_html/resources/views/admin/shippingmethods/upsshipping.blade.php on line 117
+[07-Sep-2022 19:59:00 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/shippingmethods/upsshipping.blade.php on line 117
+[07-Sep-2022 19:59:00 America/New_York] PHP Notice:  Undefined variable: description_data in /home/knoprotec/public_html/resources/views/admin/shippingmethods/upsshipping.blade.php on line 125
+[07-Sep-2022 19:59:00 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/shippingmethods/upsshipping.blade.php on line 125
+[07-Sep-2022 19:59:00 America/New_York] PHP Notice:  Undefined variable: description_data in /home/knoprotec/public_html/resources/views/admin/shippingmethods/upsshipping.blade.php on line 133
+[07-Sep-2022 19:59:00 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/shippingmethods/upsshipping.blade.php on line 133
+[07-Sep-2022 19:59:00 America/New_York] PHP Notice:  Undefined variable: description_data in /home/knoprotec/public_html/resources/views/admin/shippingmethods/upsshipping.blade.php on line 141
+[07-Sep-2022 19:59:00 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/shippingmethods/upsshipping.blade.php on line 141
+[07-Sep-2022 19:59:00 America/New_York] PHP Notice:  Undefined variable: description_data in /home/knoprotec/public_html/resources/views/admin/shippingmethods/upsshipping.blade.php on line 150
+[07-Sep-2022 19:59:00 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/shippingmethods/upsshipping.blade.php on line 150
+[10-Sep-2022 21:28:41 America/New_York] PHP Notice:  Undefined variable: description_data in /home/knoprotec/public_html/resources/views/admin/shippingmethods/detail.blade.php on line 81
+[10-Sep-2022 21:28:41 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/shippingmethods/detail.blade.php on line 81
+[10-Sep-2022 21:28:43 America/New_York] PHP Notice:  Undefined variable: description_data in /home/knoprotec/public_html/resources/views/admin/shippingmethods/flateRate.blade.php on line 54
+[10-Sep-2022 21:28:43 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/shippingmethods/flateRate.blade.php on line 54
+[10-Sep-2022 21:28:47 America/New_York] PHP Notice:  Undefined variable: description_data in /home/knoprotec/public_html/resources/views/admin/shippingmethods/upsshipping.blade.php on line 91
+[10-Sep-2022 21:28:47 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/shippingmethods/upsshipping.blade.php on line 91
+[10-Sep-2022 21:28:47 America/New_York] PHP Notice:  Undefined variable: description_data in /home/knoprotec/public_html/resources/views/admin/shippingmethods/upsshipping.blade.php on line 100
+[10-Sep-2022 21:28:47 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/shippingmethods/upsshipping.blade.php on line 100
+[10-Sep-2022 21:28:47 America/New_York] PHP Notice:  Undefined variable: description_data in /home/knoprotec/public_html/resources/views/admin/shippingmethods/upsshipping.blade.php on line 109
+[10-Sep-2022 21:28:47 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/shippingmethods/upsshipping.blade.php on line 109
+[10-Sep-2022 21:28:47 America/New_York] PHP Notice:  Undefined variable: description_data in /home/knoprotec/public_html/resources/views/admin/shippingmethods/upsshipping.blade.php on line 117
+[10-Sep-2022 21:28:47 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/shippingmethods/upsshipping.blade.php on line 117
+[10-Sep-2022 21:28:47 America/New_York] PHP Notice:  Undefined variable: description_data in /home/knoprotec/public_html/resources/views/admin/shippingmethods/upsshipping.blade.php on line 125
+[10-Sep-2022 21:28:47 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/shippingmethods/upsshipping.blade.php on line 125
+[10-Sep-2022 21:28:47 America/New_York] PHP Notice:  Undefined variable: description_data in /home/knoprotec/public_html/resources/views/admin/shippingmethods/upsshipping.blade.php on line 133
+[10-Sep-2022 21:28:47 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/shippingmethods/upsshipping.blade.php on line 133
+[10-Sep-2022 21:28:47 America/New_York] PHP Notice:  Undefined variable: description_data in /home/knoprotec/public_html/resources/views/admin/shippingmethods/upsshipping.blade.php on line 141
+[10-Sep-2022 21:28:47 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/shippingmethods/upsshipping.blade.php on line 141
+[10-Sep-2022 21:28:47 America/New_York] PHP Notice:  Undefined variable: description_data in /home/knoprotec/public_html/resources/views/admin/shippingmethods/upsshipping.blade.php on line 150
+[10-Sep-2022 21:28:47 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/shippingmethods/upsshipping.blade.php on line 150
+[13-Sep-2022 21:40:00 America/New_York] PHP Notice:  Undefined variable: description_data in /home/knoprotec/public_html/resources/views/admin/shippingmethods/flateRate.blade.php on line 54
+[13-Sep-2022 21:40:00 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/shippingmethods/flateRate.blade.php on line 54
+[13-Sep-2022 21:44:56 America/New_York] PHP Notice:  Undefined variable: description_data in /home/knoprotec/public_html/resources/views/admin/shippingmethods/upsshipping.blade.php on line 91
+[13-Sep-2022 21:44:56 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/shippingmethods/upsshipping.blade.php on line 91
+[13-Sep-2022 21:44:56 America/New_York] PHP Notice:  Undefined variable: description_data in /home/knoprotec/public_html/resources/views/admin/shippingmethods/upsshipping.blade.php on line 100
+[13-Sep-2022 21:44:56 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/shippingmethods/upsshipping.blade.php on line 100
+[13-Sep-2022 21:44:56 America/New_York] PHP Notice:  Undefined variable: description_data in /home/knoprotec/public_html/resources/views/admin/shippingmethods/upsshipping.blade.php on line 109
+[13-Sep-2022 21:44:56 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/shippingmethods/upsshipping.blade.php on line 109
+[13-Sep-2022 21:44:56 America/New_York] PHP Notice:  Undefined variable: description_data in /home/knoprotec/public_html/resources/views/admin/shippingmethods/upsshipping.blade.php on line 117
+[13-Sep-2022 21:44:56 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/shippingmethods/upsshipping.blade.php on line 117
+[13-Sep-2022 21:44:56 America/New_York] PHP Notice:  Undefined variable: description_data in /home/knoprotec/public_html/resources/views/admin/shippingmethods/upsshipping.blade.php on line 125
+[13-Sep-2022 21:44:56 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/shippingmethods/upsshipping.blade.php on line 125
+[13-Sep-2022 21:44:56 America/New_York] PHP Notice:  Undefined variable: description_data in /home/knoprotec/public_html/resources/views/admin/shippingmethods/upsshipping.blade.php on line 133
+[13-Sep-2022 21:44:56 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/shippingmethods/upsshipping.blade.php on line 133
+[13-Sep-2022 21:44:56 America/New_York] PHP Notice:  Undefined variable: description_data in /home/knoprotec/public_html/resources/views/admin/shippingmethods/upsshipping.blade.php on line 141
+[13-Sep-2022 21:44:56 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/shippingmethods/upsshipping.blade.php on line 141
+[13-Sep-2022 21:44:56 America/New_York] PHP Notice:  Undefined variable: description_data in /home/knoprotec/public_html/resources/views/admin/shippingmethods/upsshipping.blade.php on line 150
+[13-Sep-2022 21:44:56 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/shippingmethods/upsshipping.blade.php on line 150
+[13-Sep-2022 21:53:29 America/New_York] PHP Notice:  Undefined variable: description_data in /home/knoprotec/public_html/resources/views/admin/shippingmethods/detail.blade.php on line 81
+[13-Sep-2022 21:53:29 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/shippingmethods/detail.blade.php on line 81
+[14-Sep-2022 21:00:11 America/New_York] PHP Notice:  Undefined variable: description_data in /home/knoprotec/public_html/resources/views/admin/shippingmethods/flateRate.blade.php on line 54
+[14-Sep-2022 21:00:11 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/shippingmethods/flateRate.blade.php on line 54
+[15-Sep-2022 08:59:38 America/New_York] PHP Notice:  Undefined variable: description_data in /home/knoprotec/public_html/resources/views/admin/shippingmethods/detail.blade.php on line 81
+[15-Sep-2022 08:59:38 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/shippingmethods/detail.blade.php on line 81
+[16-Sep-2022 04:26:36 America/New_York] PHP Notice:  Undefined variable: description_data in /home/knoprotec/public_html/resources/views/admin/shippingmethods/upsshipping.blade.php on line 91
+[16-Sep-2022 04:26:36 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/shippingmethods/upsshipping.blade.php on line 91
+[16-Sep-2022 04:26:36 America/New_York] PHP Notice:  Undefined variable: description_data in /home/knoprotec/public_html/resources/views/admin/shippingmethods/upsshipping.blade.php on line 100
+[16-Sep-2022 04:26:36 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/shippingmethods/upsshipping.blade.php on line 100
+[16-Sep-2022 04:26:36 America/New_York] PHP Notice:  Undefined variable: description_data in /home/knoprotec/public_html/resources/views/admin/shippingmethods/upsshipping.blade.php on line 109
+[16-Sep-2022 04:26:36 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/shippingmethods/upsshipping.blade.php on line 109
+[16-Sep-2022 04:26:36 America/New_York] PHP Notice:  Undefined variable: description_data in /home/knoprotec/public_html/resources/views/admin/shippingmethods/upsshipping.blade.php on line 117
+[16-Sep-2022 04:26:36 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/shippingmethods/upsshipping.blade.php on line 117
+[16-Sep-2022 04:26:36 America/New_York] PHP Notice:  Undefined variable: description_data in /home/knoprotec/public_html/resources/views/admin/shippingmethods/upsshipping.blade.php on line 125
+[16-Sep-2022 04:26:36 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/shippingmethods/upsshipping.blade.php on line 125
+[16-Sep-2022 04:26:36 America/New_York] PHP Notice:  Undefined variable: description_data in /home/knoprotec/public_html/resources/views/admin/shippingmethods/upsshipping.blade.php on line 133
+[16-Sep-2022 04:26:36 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/shippingmethods/upsshipping.blade.php on line 133
+[16-Sep-2022 04:26:36 America/New_York] PHP Notice:  Undefined variable: description_data in /home/knoprotec/public_html/resources/views/admin/shippingmethods/upsshipping.blade.php on line 141
+[16-Sep-2022 04:26:36 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/shippingmethods/upsshipping.blade.php on line 141
+[16-Sep-2022 04:26:36 America/New_York] PHP Notice:  Undefined variable: description_data in /home/knoprotec/public_html/resources/views/admin/shippingmethods/upsshipping.blade.php on line 150
+[16-Sep-2022 04:26:36 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/shippingmethods/upsshipping.blade.php on line 150
+[18-Sep-2022 11:54:41 America/New_York] PHP Notice:  Undefined variable: description_data in /home/knoprotec/public_html/resources/views/admin/shippingmethods/flateRate.blade.php on line 54
+[18-Sep-2022 11:54:41 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/shippingmethods/flateRate.blade.php on line 54
+[23-Sep-2022 01:39:55 America/New_York] PHP Notice:  Undefined variable: description_data in /home/knoprotec/public_html/resources/views/admin/shippingmethods/flateRate.blade.php on line 54
+[23-Sep-2022 01:39:55 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/shippingmethods/flateRate.blade.php on line 54
+[23-Sep-2022 01:47:05 America/New_York] PHP Notice:  Undefined variable: description_data in /home/knoprotec/public_html/resources/views/admin/shippingmethods/upsshipping.blade.php on line 91
+[23-Sep-2022 01:47:05 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/shippingmethods/upsshipping.blade.php on line 91
+[23-Sep-2022 01:47:05 America/New_York] PHP Notice:  Undefined variable: description_data in /home/knoprotec/public_html/resources/views/admin/shippingmethods/upsshipping.blade.php on line 100
+[23-Sep-2022 01:47:05 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/shippingmethods/upsshipping.blade.php on line 100
+[23-Sep-2022 01:47:05 America/New_York] PHP Notice:  Undefined variable: description_data in /home/knoprotec/public_html/resources/views/admin/shippingmethods/upsshipping.blade.php on line 109
+[23-Sep-2022 01:47:05 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/shippingmethods/upsshipping.blade.php on line 109
+[23-Sep-2022 01:47:05 America/New_York] PHP Notice:  Undefined variable: description_data in /home/knoprotec/public_html/resources/views/admin/shippingmethods/upsshipping.blade.php on line 117
+[23-Sep-2022 01:47:05 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/shippingmethods/upsshipping.blade.php on line 117
+[23-Sep-2022 01:47:05 America/New_York] PHP Notice:  Undefined variable: description_data in /home/knoprotec/public_html/resources/views/admin/shippingmethods/upsshipping.blade.php on line 125
+[23-Sep-2022 01:47:05 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/shippingmethods/upsshipping.blade.php on line 125
+[23-Sep-2022 01:47:05 America/New_York] PHP Notice:  Undefined variable: description_data in /home/knoprotec/public_html/resources/views/admin/shippingmethods/upsshipping.blade.php on line 133
+[23-Sep-2022 01:47:05 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/shippingmethods/upsshipping.blade.php on line 133
+[23-Sep-2022 01:47:05 America/New_York] PHP Notice:  Undefined variable: description_data in /home/knoprotec/public_html/resources/views/admin/shippingmethods/upsshipping.blade.php on line 141
+[23-Sep-2022 01:47:05 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/shippingmethods/upsshipping.blade.php on line 141
+[23-Sep-2022 01:47:05 America/New_York] PHP Notice:  Undefined variable: description_data in /home/knoprotec/public_html/resources/views/admin/shippingmethods/upsshipping.blade.php on line 150
+[23-Sep-2022 01:47:05 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/shippingmethods/upsshipping.blade.php on line 150
+[23-Sep-2022 06:13:54 America/New_York] PHP Notice:  Undefined variable: description_data in /home/knoprotec/public_html/resources/views/admin/shippingmethods/detail.blade.php on line 81
+[23-Sep-2022 06:13:54 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/shippingmethods/detail.blade.php on line 81
+[08-Oct-2022 18:34:51 America/New_York] PHP Notice:  Undefined variable: description_data in /home/knoprotec/public_html/resources/views/admin/shippingmethods/flateRate.blade.php on line 54
+[08-Oct-2022 18:34:51 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/shippingmethods/flateRate.blade.php on line 54
+[08-Oct-2022 18:35:26 America/New_York] PHP Notice:  Undefined variable: description_data in /home/knoprotec/public_html/resources/views/admin/shippingmethods/upsshipping.blade.php on line 91
+[08-Oct-2022 18:35:26 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/shippingmethods/upsshipping.blade.php on line 91
+[08-Oct-2022 18:35:26 America/New_York] PHP Notice:  Undefined variable: description_data in /home/knoprotec/public_html/resources/views/admin/shippingmethods/upsshipping.blade.php on line 100
+[08-Oct-2022 18:35:26 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/shippingmethods/upsshipping.blade.php on line 100
+[08-Oct-2022 18:35:26 America/New_York] PHP Notice:  Undefined variable: description_data in /home/knoprotec/public_html/resources/views/admin/shippingmethods/upsshipping.blade.php on line 109
+[08-Oct-2022 18:35:26 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/shippingmethods/upsshipping.blade.php on line 109
+[08-Oct-2022 18:35:26 America/New_York] PHP Notice:  Undefined variable: description_data in /home/knoprotec/public_html/resources/views/admin/shippingmethods/upsshipping.blade.php on line 117
+[08-Oct-2022 18:35:26 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/shippingmethods/upsshipping.blade.php on line 117
+[08-Oct-2022 18:35:26 America/New_York] PHP Notice:  Undefined variable: description_data in /home/knoprotec/public_html/resources/views/admin/shippingmethods/upsshipping.blade.php on line 125
+[08-Oct-2022 18:35:26 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/shippingmethods/upsshipping.blade.php on line 125
+[08-Oct-2022 18:35:26 America/New_York] PHP Notice:  Undefined variable: description_data in /home/knoprotec/public_html/resources/views/admin/shippingmethods/upsshipping.blade.php on line 133
+[08-Oct-2022 18:35:26 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/shippingmethods/upsshipping.blade.php on line 133
+[08-Oct-2022 18:35:26 America/New_York] PHP Notice:  Undefined variable: description_data in /home/knoprotec/public_html/resources/views/admin/shippingmethods/upsshipping.blade.php on line 141
+[08-Oct-2022 18:35:26 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/shippingmethods/upsshipping.blade.php on line 141
+[08-Oct-2022 18:35:26 America/New_York] PHP Notice:  Undefined variable: description_data in /home/knoprotec/public_html/resources/views/admin/shippingmethods/upsshipping.blade.php on line 150
+[08-Oct-2022 18:35:26 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/shippingmethods/upsshipping.blade.php on line 150
+[09-Oct-2022 11:21:44 America/New_York] PHP Notice:  Undefined variable: description_data in /home/knoprotec/public_html/resources/views/admin/shippingmethods/detail.blade.php on line 81
+[09-Oct-2022 11:21:44 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/shippingmethods/detail.blade.php on line 81
+[11-Oct-2022 23:37:47 America/New_York] PHP Notice:  Undefined variable: description_data in /home/knoprotec/public_html/resources/views/admin/shippingmethods/upsshipping.blade.php on line 91
+[11-Oct-2022 23:37:47 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/shippingmethods/upsshipping.blade.php on line 91
+[11-Oct-2022 23:37:47 America/New_York] PHP Notice:  Undefined variable: description_data in /home/knoprotec/public_html/resources/views/admin/shippingmethods/upsshipping.blade.php on line 100
+[11-Oct-2022 23:37:47 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/shippingmethods/upsshipping.blade.php on line 100
+[11-Oct-2022 23:37:47 America/New_York] PHP Notice:  Undefined variable: description_data in /home/knoprotec/public_html/resources/views/admin/shippingmethods/upsshipping.blade.php on line 109
+[11-Oct-2022 23:37:47 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/shippingmethods/upsshipping.blade.php on line 109
+[11-Oct-2022 23:37:47 America/New_York] PHP Notice:  Undefined variable: description_data in /home/knoprotec/public_html/resources/views/admin/shippingmethods/upsshipping.blade.php on line 117
+[11-Oct-2022 23:37:47 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/shippingmethods/upsshipping.blade.php on line 117
+[11-Oct-2022 23:37:47 America/New_York] PHP Notice:  Undefined variable: description_data in /home/knoprotec/public_html/resources/views/admin/shippingmethods/upsshipping.blade.php on line 125
+[11-Oct-2022 23:37:47 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/shippingmethods/upsshipping.blade.php on line 125
+[11-Oct-2022 23:37:47 America/New_York] PHP Notice:  Undefined variable: description_data in /home/knoprotec/public_html/resources/views/admin/shippingmethods/upsshipping.blade.php on line 133
+[11-Oct-2022 23:37:47 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/shippingmethods/upsshipping.blade.php on line 133
+[11-Oct-2022 23:37:47 America/New_York] PHP Notice:  Undefined variable: description_data in /home/knoprotec/public_html/resources/views/admin/shippingmethods/upsshipping.blade.php on line 141
+[11-Oct-2022 23:37:47 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/shippingmethods/upsshipping.blade.php on line 141
+[11-Oct-2022 23:37:47 America/New_York] PHP Notice:  Undefined variable: description_data in /home/knoprotec/public_html/resources/views/admin/shippingmethods/upsshipping.blade.php on line 150
+[11-Oct-2022 23:37:47 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/shippingmethods/upsshipping.blade.php on line 150
+[11-Oct-2022 23:40:55 America/New_York] PHP Notice:  Undefined variable: description_data in /home/knoprotec/public_html/resources/views/admin/shippingmethods/detail.blade.php on line 81
+[11-Oct-2022 23:40:55 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/shippingmethods/detail.blade.php on line 81
+[11-Oct-2022 23:42:11 America/New_York] PHP Notice:  Undefined variable: description_data in /home/knoprotec/public_html/resources/views/admin/shippingmethods/flateRate.blade.php on line 54
+[11-Oct-2022 23:42:11 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/shippingmethods/flateRate.blade.php on line 54
+[23-Oct-2022 06:44:00 America/New_York] PHP Notice:  Undefined variable: description_data in /home/knoprotec/public_html/resources/views/admin/shippingmethods/flateRate.blade.php on line 54
+[23-Oct-2022 06:44:00 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/shippingmethods/flateRate.blade.php on line 54
+[23-Oct-2022 06:49:19 America/New_York] PHP Notice:  Undefined variable: description_data in /home/knoprotec/public_html/resources/views/admin/shippingmethods/upsshipping.blade.php on line 91
+[23-Oct-2022 06:49:19 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/shippingmethods/upsshipping.blade.php on line 91
+[23-Oct-2022 06:49:19 America/New_York] PHP Notice:  Undefined variable: description_data in /home/knoprotec/public_html/resources/views/admin/shippingmethods/upsshipping.blade.php on line 100
+[23-Oct-2022 06:49:19 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/shippingmethods/upsshipping.blade.php on line 100
+[23-Oct-2022 06:49:19 America/New_York] PHP Notice:  Undefined variable: description_data in /home/knoprotec/public_html/resources/views/admin/shippingmethods/upsshipping.blade.php on line 109
+[23-Oct-2022 06:49:19 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/shippingmethods/upsshipping.blade.php on line 109
+[23-Oct-2022 06:49:19 America/New_York] PHP Notice:  Undefined variable: description_data in /home/knoprotec/public_html/resources/views/admin/shippingmethods/upsshipping.blade.php on line 117
+[23-Oct-2022 06:49:19 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/shippingmethods/upsshipping.blade.php on line 117
+[23-Oct-2022 06:49:19 America/New_York] PHP Notice:  Undefined variable: description_data in /home/knoprotec/public_html/resources/views/admin/shippingmethods/upsshipping.blade.php on line 125
+[23-Oct-2022 06:49:19 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/shippingmethods/upsshipping.blade.php on line 125
+[23-Oct-2022 06:49:19 America/New_York] PHP Notice:  Undefined variable: description_data in /home/knoprotec/public_html/resources/views/admin/shippingmethods/upsshipping.blade.php on line 133
+[23-Oct-2022 06:49:19 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/shippingmethods/upsshipping.blade.php on line 133
+[23-Oct-2022 06:49:19 America/New_York] PHP Notice:  Undefined variable: description_data in /home/knoprotec/public_html/resources/views/admin/shippingmethods/upsshipping.blade.php on line 141
+[23-Oct-2022 06:49:19 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/shippingmethods/upsshipping.blade.php on line 141
+[23-Oct-2022 06:49:19 America/New_York] PHP Notice:  Undefined variable: description_data in /home/knoprotec/public_html/resources/views/admin/shippingmethods/upsshipping.blade.php on line 150
+[23-Oct-2022 06:49:19 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/shippingmethods/upsshipping.blade.php on line 150
+[25-Oct-2022 08:42:47 America/New_York] PHP Notice:  Undefined variable: description_data in /home/knoprotec/public_html/resources/views/admin/shippingmethods/detail.blade.php on line 81
+[25-Oct-2022 08:42:47 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/shippingmethods/detail.blade.php on line 81
+[25-Oct-2022 13:21:11 America/New_York] PHP Notice:  Undefined variable: description_data in /home/knoprotec/public_html/resources/views/admin/shippingmethods/upsshipping.blade.php on line 91
+[25-Oct-2022 13:21:11 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/shippingmethods/upsshipping.blade.php on line 91
+[25-Oct-2022 13:21:11 America/New_York] PHP Notice:  Undefined variable: description_data in /home/knoprotec/public_html/resources/views/admin/shippingmethods/upsshipping.blade.php on line 100
+[25-Oct-2022 13:21:11 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/shippingmethods/upsshipping.blade.php on line 100
+[25-Oct-2022 13:21:11 America/New_York] PHP Notice:  Undefined variable: description_data in /home/knoprotec/public_html/resources/views/admin/shippingmethods/upsshipping.blade.php on line 109
+[25-Oct-2022 13:21:11 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/shippingmethods/upsshipping.blade.php on line 109
+[25-Oct-2022 13:21:11 America/New_York] PHP Notice:  Undefined variable: description_data in /home/knoprotec/public_html/resources/views/admin/shippingmethods/upsshipping.blade.php on line 117
+[25-Oct-2022 13:21:11 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/shippingmethods/upsshipping.blade.php on line 117
+[25-Oct-2022 13:21:11 America/New_York] PHP Notice:  Undefined variable: description_data in /home/knoprotec/public_html/resources/views/admin/shippingmethods/upsshipping.blade.php on line 125
+[25-Oct-2022 13:21:11 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/shippingmethods/upsshipping.blade.php on line 125
+[25-Oct-2022 13:21:11 America/New_York] PHP Notice:  Undefined variable: description_data in /home/knoprotec/public_html/resources/views/admin/shippingmethods/upsshipping.blade.php on line 133
+[25-Oct-2022 13:21:11 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/shippingmethods/upsshipping.blade.php on line 133
+[25-Oct-2022 13:21:11 America/New_York] PHP Notice:  Undefined variable: description_data in /home/knoprotec/public_html/resources/views/admin/shippingmethods/upsshipping.blade.php on line 141
+[25-Oct-2022 13:21:11 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/shippingmethods/upsshipping.blade.php on line 141
+[25-Oct-2022 13:21:11 America/New_York] PHP Notice:  Undefined variable: description_data in /home/knoprotec/public_html/resources/views/admin/shippingmethods/upsshipping.blade.php on line 150
+[25-Oct-2022 13:21:11 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/shippingmethods/upsshipping.blade.php on line 150
+[25-Oct-2022 13:26:02 America/New_York] PHP Notice:  Undefined variable: description_data in /home/knoprotec/public_html/resources/views/admin/shippingmethods/detail.blade.php on line 81
+[25-Oct-2022 13:26:02 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/shippingmethods/detail.blade.php on line 81
+[25-Oct-2022 13:28:16 America/New_York] PHP Notice:  Undefined variable: description_data in /home/knoprotec/public_html/resources/views/admin/shippingmethods/flateRate.blade.php on line 54
+[25-Oct-2022 13:28:16 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/shippingmethods/flateRate.blade.php on line 54

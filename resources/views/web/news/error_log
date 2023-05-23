@@ -1,0 +1,38 @@
+[04-Sep-2022 17:46:53 America/New_York] PHP Notice:  Undefined variable: news_data in /home/knoprotec/public_html/resources/views/web/news/news1.blade.php on line 90
+[04-Sep-2022 17:46:53 America/New_York] PHP Notice:  Trying to get property 'news_description' of non-object in /home/knoprotec/public_html/resources/views/web/news/news1.blade.php on line 90
+[04-Sep-2022 17:46:54 America/New_York] PHP Notice:  Undefined variable: news_data in /home/knoprotec/public_html/resources/views/web/news/news2.blade.php on line 50
+[04-Sep-2022 17:46:54 America/New_York] PHP Notice:  Trying to get property 'news_description' of non-object in /home/knoprotec/public_html/resources/views/web/news/news2.blade.php on line 50
+[07-Sep-2022 10:51:06 America/New_York] PHP Notice:  Undefined variable: news_data in /home/knoprotec/public_html/resources/views/web/news/news1.blade.php on line 90
+[07-Sep-2022 10:51:06 America/New_York] PHP Notice:  Trying to get property 'news_description' of non-object in /home/knoprotec/public_html/resources/views/web/news/news1.blade.php on line 90
+[07-Sep-2022 10:53:37 America/New_York] PHP Notice:  Undefined variable: news_data in /home/knoprotec/public_html/resources/views/web/news/news2.blade.php on line 50
+[07-Sep-2022 10:53:37 America/New_York] PHP Notice:  Trying to get property 'news_description' of non-object in /home/knoprotec/public_html/resources/views/web/news/news2.blade.php on line 50
+[13-Sep-2022 21:48:34 America/New_York] PHP Notice:  Undefined variable: news_data in /home/knoprotec/public_html/resources/views/web/news/news1.blade.php on line 90
+[13-Sep-2022 21:48:34 America/New_York] PHP Notice:  Trying to get property 'news_description' of non-object in /home/knoprotec/public_html/resources/views/web/news/news1.blade.php on line 90
+[13-Sep-2022 21:57:22 America/New_York] PHP Notice:  Undefined variable: news_data in /home/knoprotec/public_html/resources/views/web/news/news2.blade.php on line 50
+[13-Sep-2022 21:57:22 America/New_York] PHP Notice:  Trying to get property 'news_description' of non-object in /home/knoprotec/public_html/resources/views/web/news/news2.blade.php on line 50
+[16-Sep-2022 19:50:54 America/New_York] PHP Notice:  Undefined variable: news_data in /home/knoprotec/public_html/resources/views/web/news/news1.blade.php on line 90
+[16-Sep-2022 19:50:54 America/New_York] PHP Notice:  Trying to get property 'news_description' of non-object in /home/knoprotec/public_html/resources/views/web/news/news1.blade.php on line 90
+[18-Sep-2022 21:16:12 America/New_York] PHP Notice:  Undefined variable: news_data in /home/knoprotec/public_html/resources/views/web/news/news2.blade.php on line 50
+[18-Sep-2022 21:16:12 America/New_York] PHP Notice:  Trying to get property 'news_description' of non-object in /home/knoprotec/public_html/resources/views/web/news/news2.blade.php on line 50
+[22-Sep-2022 08:49:26 America/New_York] PHP Notice:  Undefined variable: news_data in /home/knoprotec/public_html/resources/views/web/news/news1.blade.php on line 90
+[22-Sep-2022 08:49:26 America/New_York] PHP Notice:  Trying to get property 'news_description' of non-object in /home/knoprotec/public_html/resources/views/web/news/news1.blade.php on line 90
+[24-Sep-2022 12:49:53 America/New_York] PHP Notice:  Undefined variable: news_data in /home/knoprotec/public_html/resources/views/web/news/news2.blade.php on line 50
+[24-Sep-2022 12:49:53 America/New_York] PHP Notice:  Trying to get property 'news_description' of non-object in /home/knoprotec/public_html/resources/views/web/news/news2.blade.php on line 50
+[06-Oct-2022 06:57:13 America/New_York] PHP Notice:  Undefined variable: news_data in /home/knoprotec/public_html/resources/views/web/news/news1.blade.php on line 90
+[06-Oct-2022 06:57:13 America/New_York] PHP Notice:  Trying to get property 'news_description' of non-object in /home/knoprotec/public_html/resources/views/web/news/news1.blade.php on line 90
+[08-Oct-2022 13:04:42 America/New_York] PHP Notice:  Undefined variable: news_data in /home/knoprotec/public_html/resources/views/web/news/news1.blade.php on line 90
+[08-Oct-2022 13:04:42 America/New_York] PHP Notice:  Trying to get property 'news_description' of non-object in /home/knoprotec/public_html/resources/views/web/news/news1.blade.php on line 90
+[10-Oct-2022 21:44:58 America/New_York] PHP Notice:  Undefined variable: news_data in /home/knoprotec/public_html/resources/views/web/news/news2.blade.php on line 50
+[10-Oct-2022 21:44:58 America/New_York] PHP Notice:  Trying to get property 'news_description' of non-object in /home/knoprotec/public_html/resources/views/web/news/news2.blade.php on line 50
+[12-Oct-2022 00:40:46 America/New_York] PHP Notice:  Undefined variable: news_data in /home/knoprotec/public_html/resources/views/web/news/news1.blade.php on line 90
+[12-Oct-2022 00:40:46 America/New_York] PHP Notice:  Trying to get property 'news_description' of non-object in /home/knoprotec/public_html/resources/views/web/news/news1.blade.php on line 90
+[12-Oct-2022 00:42:27 America/New_York] PHP Notice:  Undefined variable: news_data in /home/knoprotec/public_html/resources/views/web/news/news2.blade.php on line 50
+[12-Oct-2022 00:42:27 America/New_York] PHP Notice:  Trying to get property 'news_description' of non-object in /home/knoprotec/public_html/resources/views/web/news/news2.blade.php on line 50
+[22-Oct-2022 11:35:03 America/New_York] PHP Notice:  Undefined variable: news_data in /home/knoprotec/public_html/resources/views/web/news/news1.blade.php on line 90
+[22-Oct-2022 11:35:03 America/New_York] PHP Notice:  Trying to get property 'news_description' of non-object in /home/knoprotec/public_html/resources/views/web/news/news1.blade.php on line 90
+[25-Oct-2022 13:30:10 America/New_York] PHP Notice:  Undefined variable: news_data in /home/knoprotec/public_html/resources/views/web/news/news2.blade.php on line 50
+[25-Oct-2022 13:30:10 America/New_York] PHP Notice:  Trying to get property 'news_description' of non-object in /home/knoprotec/public_html/resources/views/web/news/news2.blade.php on line 50
+[25-Oct-2022 13:30:22 America/New_York] PHP Notice:  Undefined variable: news_data in /home/knoprotec/public_html/resources/views/web/news/news1.blade.php on line 90
+[25-Oct-2022 13:30:22 America/New_York] PHP Notice:  Trying to get property 'news_description' of non-object in /home/knoprotec/public_html/resources/views/web/news/news1.blade.php on line 90
+[27-Oct-2022 11:37:55 America/New_York] PHP Notice:  Undefined variable: news_data in /home/knoprotec/public_html/resources/views/web/news/news2.blade.php on line 50
+[27-Oct-2022 11:37:55 America/New_York] PHP Notice:  Trying to get property 'news_description' of non-object in /home/knoprotec/public_html/resources/views/web/news/news2.blade.php on line 50

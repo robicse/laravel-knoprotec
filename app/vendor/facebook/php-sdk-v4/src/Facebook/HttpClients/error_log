@@ -1,0 +1,120 @@
+[09-Sep-2022 23:51:50 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Facebook\HttpClients\FacebookHttpClientInterface' not found in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/HttpClients/FacebookGuzzleHttpClient.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/HttpClients/FacebookGuzzleHttpClient.php on line 34
+[09-Sep-2022 23:51:50 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Facebook\HttpClients\FacebookHttpClientInterface' not found in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/HttpClients/FacebookStreamHttpClient.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/HttpClients/FacebookStreamHttpClient.php on line 29
+[10-Sep-2022 16:31:12 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Facebook\HttpClients\FacebookHttpClientInterface' not found in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/HttpClients/FacebookCurlHttpClient.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/HttpClients/FacebookCurlHttpClient.php on line 34
+[21-Sep-2022 05:15:04 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Facebook\HttpClients\FacebookHttpClientInterface' not found in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/HttpClients/FacebookCurlHttpClient.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/HttpClients/FacebookCurlHttpClient.php on line 34
+[21-Sep-2022 05:15:04 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Facebook\HttpClients\FacebookHttpClientInterface' not found in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/HttpClients/FacebookCurlHttpClient.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/HttpClients/FacebookCurlHttpClient.php on line 34
+[21-Sep-2022 05:15:05 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Facebook\HttpClients\FacebookHttpClientInterface' not found in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/HttpClients/FacebookGuzzleHttpClient.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/HttpClients/FacebookGuzzleHttpClient.php on line 34
+[21-Sep-2022 05:15:05 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Facebook\HttpClients\FacebookHttpClientInterface' not found in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/HttpClients/FacebookGuzzleHttpClient.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/HttpClients/FacebookGuzzleHttpClient.php on line 34
+[21-Sep-2022 05:15:06 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Facebook\HttpClients\FacebookHttpClientInterface' not found in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/HttpClients/FacebookStreamHttpClient.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/HttpClients/FacebookStreamHttpClient.php on line 29
+[21-Sep-2022 05:15:07 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Facebook\HttpClients\FacebookHttpClientInterface' not found in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/HttpClients/FacebookStreamHttpClient.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/HttpClients/FacebookStreamHttpClient.php on line 29
+[01-Oct-2022 23:34:06 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Facebook\HttpClients\FacebookHttpClientInterface' not found in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/HttpClients/FacebookCurlHttpClient.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/HttpClients/FacebookCurlHttpClient.php on line 34
+[01-Oct-2022 23:34:21 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Facebook\HttpClients\FacebookHttpClientInterface' not found in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/HttpClients/FacebookGuzzleHttpClient.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/HttpClients/FacebookGuzzleHttpClient.php on line 34
+[01-Oct-2022 23:34:28 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Facebook\HttpClients\FacebookHttpClientInterface' not found in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/HttpClients/FacebookStreamHttpClient.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/HttpClients/FacebookStreamHttpClient.php on line 29
+[03-Oct-2022 01:45:27 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Facebook\HttpClients\FacebookHttpClientInterface' not found in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/HttpClients/FacebookCurlHttpClient.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/HttpClients/FacebookCurlHttpClient.php on line 34
+[03-Oct-2022 01:45:31 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Facebook\HttpClients\FacebookHttpClientInterface' not found in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/HttpClients/FacebookGuzzleHttpClient.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/HttpClients/FacebookGuzzleHttpClient.php on line 34
+[03-Oct-2022 01:45:44 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Facebook\HttpClients\FacebookHttpClientInterface' not found in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/HttpClients/FacebookStreamHttpClient.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/HttpClients/FacebookStreamHttpClient.php on line 29
+[04-Oct-2022 02:57:04 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Facebook\HttpClients\FacebookHttpClientInterface' not found in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/HttpClients/FacebookCurlHttpClient.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/HttpClients/FacebookCurlHttpClient.php on line 34
+[04-Oct-2022 02:57:08 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Facebook\HttpClients\FacebookHttpClientInterface' not found in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/HttpClients/FacebookGuzzleHttpClient.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/HttpClients/FacebookGuzzleHttpClient.php on line 34
+[04-Oct-2022 02:57:12 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Facebook\HttpClients\FacebookHttpClientInterface' not found in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/HttpClients/FacebookStreamHttpClient.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/HttpClients/FacebookStreamHttpClient.php on line 29
+[08-Oct-2022 22:48:31 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Facebook\HttpClients\FacebookHttpClientInterface' not found in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/HttpClients/FacebookCurlHttpClient.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/HttpClients/FacebookCurlHttpClient.php on line 34
+[14-Oct-2022 15:54:47 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Facebook\HttpClients\FacebookHttpClientInterface' not found in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/HttpClients/FacebookGuzzleHttpClient.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/HttpClients/FacebookGuzzleHttpClient.php on line 34
+[18-Oct-2022 02:15:07 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Facebook\HttpClients\FacebookHttpClientInterface' not found in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/HttpClients/FacebookStreamHttpClient.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/HttpClients/FacebookStreamHttpClient.php on line 29
+[21-Oct-2022 19:00:28 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Facebook\HttpClients\FacebookHttpClientInterface' not found in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/HttpClients/FacebookStreamHttpClient.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/HttpClients/FacebookStreamHttpClient.php on line 29
+[29-Oct-2022 23:54:56 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Facebook\HttpClients\FacebookHttpClientInterface' not found in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/HttpClients/FacebookCurlHttpClient.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/HttpClients/FacebookCurlHttpClient.php on line 34
+[29-Oct-2022 23:54:58 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Facebook\HttpClients\FacebookHttpClientInterface' not found in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/HttpClients/FacebookGuzzleHttpClient.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/HttpClients/FacebookGuzzleHttpClient.php on line 34
+[29-Oct-2022 23:55:13 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Facebook\HttpClients\FacebookHttpClientInterface' not found in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/HttpClients/FacebookStreamHttpClient.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/HttpClients/FacebookStreamHttpClient.php on line 29
+[31-Oct-2022 01:23:32 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Facebook\HttpClients\FacebookHttpClientInterface' not found in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/HttpClients/FacebookCurlHttpClient.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/HttpClients/FacebookCurlHttpClient.php on line 34
+[31-Oct-2022 01:23:35 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Facebook\HttpClients\FacebookHttpClientInterface' not found in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/HttpClients/FacebookGuzzleHttpClient.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/HttpClients/FacebookGuzzleHttpClient.php on line 34
+[31-Oct-2022 01:23:37 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Facebook\HttpClients\FacebookHttpClientInterface' not found in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/HttpClients/FacebookStreamHttpClient.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/HttpClients/FacebookStreamHttpClient.php on line 29
+[01-Nov-2022 02:02:46 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Facebook\HttpClients\FacebookHttpClientInterface' not found in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/HttpClients/FacebookCurlHttpClient.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/HttpClients/FacebookCurlHttpClient.php on line 34
+[01-Nov-2022 02:03:00 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Facebook\HttpClients\FacebookHttpClientInterface' not found in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/HttpClients/FacebookStreamHttpClient.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/HttpClients/FacebookStreamHttpClient.php on line 29

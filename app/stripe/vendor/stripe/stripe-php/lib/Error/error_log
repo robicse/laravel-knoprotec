@@ -1,0 +1,224 @@
+[22-Sep-2022 04:24:57 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Stripe\Error\Base' not found in /home/knoprotec/public_html/app/stripe/vendor/stripe/stripe-php/lib/Error/Api.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/stripe/vendor/stripe/stripe-php/lib/Error/Api.php on line 5
+[22-Sep-2022 04:24:57 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Stripe\Error\Base' not found in /home/knoprotec/public_html/app/stripe/vendor/stripe/stripe-php/lib/Error/ApiConnection.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/stripe/vendor/stripe/stripe-php/lib/Error/ApiConnection.php on line 5
+[22-Sep-2022 04:24:58 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Stripe\Error\Base' not found in /home/knoprotec/public_html/app/stripe/vendor/stripe/stripe-php/lib/Error/Card.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/stripe/vendor/stripe/stripe-php/lib/Error/Card.php on line 5
+[22-Sep-2022 04:24:59 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Stripe\Error\Base' not found in /home/knoprotec/public_html/app/stripe/vendor/stripe/stripe-php/lib/Error/InvalidRequest.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/stripe/vendor/stripe/stripe-php/lib/Error/InvalidRequest.php on line 5
+[22-Sep-2022 04:24:59 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Stripe\Error\InvalidRequest' not found in /home/knoprotec/public_html/app/stripe/vendor/stripe/stripe-php/lib/Error/RateLimit.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/stripe/vendor/stripe/stripe-php/lib/Error/RateLimit.php on line 5
+[22-Sep-2022 06:54:00 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Stripe\Error\Base' not found in /home/knoprotec/public_html/app/stripe/vendor/stripe/stripe-php/lib/Error/Authentication.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/stripe/vendor/stripe/stripe-php/lib/Error/Authentication.php on line 5
+[22-Sep-2022 06:54:27 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Stripe\Error\Base' not found in /home/knoprotec/public_html/app/stripe/vendor/stripe/stripe-php/lib/Error/Permission.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/stripe/vendor/stripe/stripe-php/lib/Error/Permission.php on line 5
+[01-Oct-2022 23:36:53 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Stripe\Error\Base' not found in /home/knoprotec/public_html/app/stripe/vendor/stripe/stripe-php/lib/Error/Api.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/stripe/vendor/stripe/stripe-php/lib/Error/Api.php on line 5
+[01-Oct-2022 23:36:59 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Stripe\Error\Base' not found in /home/knoprotec/public_html/app/stripe/vendor/stripe/stripe-php/lib/Error/ApiConnection.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/stripe/vendor/stripe/stripe-php/lib/Error/ApiConnection.php on line 5
+[01-Oct-2022 23:37:02 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Stripe\Error\Base' not found in /home/knoprotec/public_html/app/stripe/vendor/stripe/stripe-php/lib/Error/Authentication.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/stripe/vendor/stripe/stripe-php/lib/Error/Authentication.php on line 5
+[01-Oct-2022 23:37:11 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Stripe\Error\Base' not found in /home/knoprotec/public_html/app/stripe/vendor/stripe/stripe-php/lib/Error/Card.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/stripe/vendor/stripe/stripe-php/lib/Error/Card.php on line 5
+[01-Oct-2022 23:37:15 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Stripe\Error\Base' not found in /home/knoprotec/public_html/app/stripe/vendor/stripe/stripe-php/lib/Error/InvalidRequest.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/stripe/vendor/stripe/stripe-php/lib/Error/InvalidRequest.php on line 5
+[01-Oct-2022 23:37:18 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Stripe\Error\Base' not found in /home/knoprotec/public_html/app/stripe/vendor/stripe/stripe-php/lib/Error/Permission.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/stripe/vendor/stripe/stripe-php/lib/Error/Permission.php on line 5
+[01-Oct-2022 23:37:22 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Stripe\Error\InvalidRequest' not found in /home/knoprotec/public_html/app/stripe/vendor/stripe/stripe-php/lib/Error/RateLimit.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/stripe/vendor/stripe/stripe-php/lib/Error/RateLimit.php on line 5
+[03-Oct-2022 01:36:23 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Stripe\Error\Base' not found in /home/knoprotec/public_html/app/stripe/vendor/stripe/stripe-php/lib/Error/Api.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/stripe/vendor/stripe/stripe-php/lib/Error/Api.php on line 5
+[03-Oct-2022 01:36:26 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Stripe\Error\Base' not found in /home/knoprotec/public_html/app/stripe/vendor/stripe/stripe-php/lib/Error/ApiConnection.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/stripe/vendor/stripe/stripe-php/lib/Error/ApiConnection.php on line 5
+[03-Oct-2022 01:36:27 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Stripe\Error\Base' not found in /home/knoprotec/public_html/app/stripe/vendor/stripe/stripe-php/lib/Error/Authentication.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/stripe/vendor/stripe/stripe-php/lib/Error/Authentication.php on line 5
+[03-Oct-2022 01:36:31 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Stripe\Error\Base' not found in /home/knoprotec/public_html/app/stripe/vendor/stripe/stripe-php/lib/Error/Card.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/stripe/vendor/stripe/stripe-php/lib/Error/Card.php on line 5
+[03-Oct-2022 01:36:33 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Stripe\Error\Base' not found in /home/knoprotec/public_html/app/stripe/vendor/stripe/stripe-php/lib/Error/InvalidRequest.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/stripe/vendor/stripe/stripe-php/lib/Error/InvalidRequest.php on line 5
+[03-Oct-2022 01:36:44 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Stripe\Error\Base' not found in /home/knoprotec/public_html/app/stripe/vendor/stripe/stripe-php/lib/Error/Permission.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/stripe/vendor/stripe/stripe-php/lib/Error/Permission.php on line 5
+[03-Oct-2022 01:36:50 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Stripe\Error\InvalidRequest' not found in /home/knoprotec/public_html/app/stripe/vendor/stripe/stripe-php/lib/Error/RateLimit.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/stripe/vendor/stripe/stripe-php/lib/Error/RateLimit.php on line 5
+[04-Oct-2022 02:54:55 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Stripe\Error\Base' not found in /home/knoprotec/public_html/app/stripe/vendor/stripe/stripe-php/lib/Error/Api.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/stripe/vendor/stripe/stripe-php/lib/Error/Api.php on line 5
+[04-Oct-2022 02:55:01 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Stripe\Error\Base' not found in /home/knoprotec/public_html/app/stripe/vendor/stripe/stripe-php/lib/Error/ApiConnection.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/stripe/vendor/stripe/stripe-php/lib/Error/ApiConnection.php on line 5
+[04-Oct-2022 02:55:05 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Stripe\Error\Base' not found in /home/knoprotec/public_html/app/stripe/vendor/stripe/stripe-php/lib/Error/Authentication.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/stripe/vendor/stripe/stripe-php/lib/Error/Authentication.php on line 5
+[04-Oct-2022 02:55:09 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Stripe\Error\Base' not found in /home/knoprotec/public_html/app/stripe/vendor/stripe/stripe-php/lib/Error/Card.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/stripe/vendor/stripe/stripe-php/lib/Error/Card.php on line 5
+[04-Oct-2022 02:55:14 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Stripe\Error\Base' not found in /home/knoprotec/public_html/app/stripe/vendor/stripe/stripe-php/lib/Error/InvalidRequest.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/stripe/vendor/stripe/stripe-php/lib/Error/InvalidRequest.php on line 5
+[04-Oct-2022 02:55:17 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Stripe\Error\Base' not found in /home/knoprotec/public_html/app/stripe/vendor/stripe/stripe-php/lib/Error/Permission.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/stripe/vendor/stripe/stripe-php/lib/Error/Permission.php on line 5
+[04-Oct-2022 02:55:19 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Stripe\Error\InvalidRequest' not found in /home/knoprotec/public_html/app/stripe/vendor/stripe/stripe-php/lib/Error/RateLimit.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/stripe/vendor/stripe/stripe-php/lib/Error/RateLimit.php on line 5
+[19-Oct-2022 11:49:40 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Stripe\Error\Base' not found in /home/knoprotec/public_html/app/stripe/vendor/stripe/stripe-php/lib/Error/Permission.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/stripe/vendor/stripe/stripe-php/lib/Error/Permission.php on line 5
+[19-Oct-2022 12:43:46 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Stripe\Error\Base' not found in /home/knoprotec/public_html/app/stripe/vendor/stripe/stripe-php/lib/Error/Api.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/stripe/vendor/stripe/stripe-php/lib/Error/Api.php on line 5
+[20-Oct-2022 07:13:38 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Stripe\Error\Base' not found in /home/knoprotec/public_html/app/stripe/vendor/stripe/stripe-php/lib/Error/InvalidRequest.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/stripe/vendor/stripe/stripe-php/lib/Error/InvalidRequest.php on line 5
+[20-Oct-2022 10:28:10 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Stripe\Error\Base' not found in /home/knoprotec/public_html/app/stripe/vendor/stripe/stripe-php/lib/Error/ApiConnection.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/stripe/vendor/stripe/stripe-php/lib/Error/ApiConnection.php on line 5
+[21-Oct-2022 18:54:17 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Stripe\Error\Base' not found in /home/knoprotec/public_html/app/stripe/vendor/stripe/stripe-php/lib/Error/Card.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/stripe/vendor/stripe/stripe-php/lib/Error/Card.php on line 5
+[22-Oct-2022 00:13:24 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Stripe\Error\Base' not found in /home/knoprotec/public_html/app/stripe/vendor/stripe/stripe-php/lib/Error/Authentication.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/stripe/vendor/stripe/stripe-php/lib/Error/Authentication.php on line 5
+[22-Oct-2022 17:23:59 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Stripe\Error\InvalidRequest' not found in /home/knoprotec/public_html/app/stripe/vendor/stripe/stripe-php/lib/Error/RateLimit.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/stripe/vendor/stripe/stripe-php/lib/Error/RateLimit.php on line 5
+[29-Oct-2022 23:56:57 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Stripe\Error\Base' not found in /home/knoprotec/public_html/app/stripe/vendor/stripe/stripe-php/lib/Error/Api.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/stripe/vendor/stripe/stripe-php/lib/Error/Api.php on line 5
+[29-Oct-2022 23:57:01 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Stripe\Error\Base' not found in /home/knoprotec/public_html/app/stripe/vendor/stripe/stripe-php/lib/Error/ApiConnection.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/stripe/vendor/stripe/stripe-php/lib/Error/ApiConnection.php on line 5
+[29-Oct-2022 23:57:03 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Stripe\Error\Base' not found in /home/knoprotec/public_html/app/stripe/vendor/stripe/stripe-php/lib/Error/Authentication.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/stripe/vendor/stripe/stripe-php/lib/Error/Authentication.php on line 5
+[29-Oct-2022 23:57:11 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Stripe\Error\Base' not found in /home/knoprotec/public_html/app/stripe/vendor/stripe/stripe-php/lib/Error/Card.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/stripe/vendor/stripe/stripe-php/lib/Error/Card.php on line 5
+[29-Oct-2022 23:57:26 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Stripe\Error\Base' not found in /home/knoprotec/public_html/app/stripe/vendor/stripe/stripe-php/lib/Error/InvalidRequest.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/stripe/vendor/stripe/stripe-php/lib/Error/InvalidRequest.php on line 5
+[29-Oct-2022 23:57:30 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Stripe\Error\Base' not found in /home/knoprotec/public_html/app/stripe/vendor/stripe/stripe-php/lib/Error/Permission.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/stripe/vendor/stripe/stripe-php/lib/Error/Permission.php on line 5
+[29-Oct-2022 23:57:32 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Stripe\Error\InvalidRequest' not found in /home/knoprotec/public_html/app/stripe/vendor/stripe/stripe-php/lib/Error/RateLimit.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/stripe/vendor/stripe/stripe-php/lib/Error/RateLimit.php on line 5
+[31-Oct-2022 01:15:12 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Stripe\Error\Base' not found in /home/knoprotec/public_html/app/stripe/vendor/stripe/stripe-php/lib/Error/Api.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/stripe/vendor/stripe/stripe-php/lib/Error/Api.php on line 5
+[31-Oct-2022 01:15:15 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Stripe\Error\Base' not found in /home/knoprotec/public_html/app/stripe/vendor/stripe/stripe-php/lib/Error/ApiConnection.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/stripe/vendor/stripe/stripe-php/lib/Error/ApiConnection.php on line 5
+[31-Oct-2022 01:15:18 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Stripe\Error\Base' not found in /home/knoprotec/public_html/app/stripe/vendor/stripe/stripe-php/lib/Error/Authentication.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/stripe/vendor/stripe/stripe-php/lib/Error/Authentication.php on line 5
+[31-Oct-2022 01:15:20 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Stripe\Error\Base' not found in /home/knoprotec/public_html/app/stripe/vendor/stripe/stripe-php/lib/Error/Card.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/stripe/vendor/stripe/stripe-php/lib/Error/Card.php on line 5
+[31-Oct-2022 01:15:24 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Stripe\Error\Base' not found in /home/knoprotec/public_html/app/stripe/vendor/stripe/stripe-php/lib/Error/InvalidRequest.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/stripe/vendor/stripe/stripe-php/lib/Error/InvalidRequest.php on line 5
+[31-Oct-2022 01:15:26 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Stripe\Error\Base' not found in /home/knoprotec/public_html/app/stripe/vendor/stripe/stripe-php/lib/Error/Permission.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/stripe/vendor/stripe/stripe-php/lib/Error/Permission.php on line 5
+[31-Oct-2022 01:15:29 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Stripe\Error\InvalidRequest' not found in /home/knoprotec/public_html/app/stripe/vendor/stripe/stripe-php/lib/Error/RateLimit.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/stripe/vendor/stripe/stripe-php/lib/Error/RateLimit.php on line 5
+[01-Nov-2022 01:59:04 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Stripe\Error\Base' not found in /home/knoprotec/public_html/app/stripe/vendor/stripe/stripe-php/lib/Error/Api.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/stripe/vendor/stripe/stripe-php/lib/Error/Api.php on line 5
+[01-Nov-2022 01:59:06 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Stripe\Error\Base' not found in /home/knoprotec/public_html/app/stripe/vendor/stripe/stripe-php/lib/Error/ApiConnection.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/stripe/vendor/stripe/stripe-php/lib/Error/ApiConnection.php on line 5
+[01-Nov-2022 01:59:14 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Stripe\Error\Base' not found in /home/knoprotec/public_html/app/stripe/vendor/stripe/stripe-php/lib/Error/Authentication.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/stripe/vendor/stripe/stripe-php/lib/Error/Authentication.php on line 5
+[01-Nov-2022 01:59:16 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Stripe\Error\Base' not found in /home/knoprotec/public_html/app/stripe/vendor/stripe/stripe-php/lib/Error/Card.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/stripe/vendor/stripe/stripe-php/lib/Error/Card.php on line 5
+[01-Nov-2022 01:59:20 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Stripe\Error\Base' not found in /home/knoprotec/public_html/app/stripe/vendor/stripe/stripe-php/lib/Error/InvalidRequest.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/stripe/vendor/stripe/stripe-php/lib/Error/InvalidRequest.php on line 5
+[01-Nov-2022 01:59:28 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Stripe\Error\Base' not found in /home/knoprotec/public_html/app/stripe/vendor/stripe/stripe-php/lib/Error/Permission.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/stripe/vendor/stripe/stripe-php/lib/Error/Permission.php on line 5
+[01-Nov-2022 01:59:32 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Stripe\Error\InvalidRequest' not found in /home/knoprotec/public_html/app/stripe/vendor/stripe/stripe-php/lib/Error/RateLimit.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/stripe/vendor/stripe/stripe-php/lib/Error/RateLimit.php on line 5

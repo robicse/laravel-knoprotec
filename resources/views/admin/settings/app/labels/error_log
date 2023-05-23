@@ -1,0 +1,73 @@
+[08-Sep-2022 03:03:45 America/New_York] PHP Notice:  Undefined variable: languages in /home/knoprotec/public_html/resources/views/admin/settings/app/labels/editAppLabel.blade.php on line 82
+[08-Sep-2022 03:03:45 America/New_York] PHP Notice:  Trying to get property 'languages_id' of non-object in /home/knoprotec/public_html/resources/views/admin/settings/app/labels/editAppLabel.blade.php on line 82
+[08-Sep-2022 03:03:45 America/New_York] PHP Notice:  Undefined variable: languages in /home/knoprotec/public_html/resources/views/admin/settings/app/labels/editAppLabel.blade.php on line 88
+[08-Sep-2022 03:03:45 America/New_York] PHP Notice:  Trying to get property 'languages_id' of non-object in /home/knoprotec/public_html/resources/views/admin/settings/app/labels/editAppLabel.blade.php on line 88
+[08-Sep-2022 03:03:45 America/New_York] PHP Notice:  Undefined variable: result in /home/knoprotec/public_html/resources/views/admin/settings/app/labels/editAppLabel.blade.php on line 95
+[08-Sep-2022 03:03:45 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/settings/app/labels/editAppLabel.blade.php on line 95
+[08-Sep-2022 03:03:45 America/New_York] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/knoprotec/public_html/resources/views/admin/settings/app/labels/editAppLabel.blade.php on line 95
+[08-Sep-2022 03:05:39 America/New_York] PHP Notice:  Undefined variable: labels_data in /home/knoprotec/public_html/resources/views/admin/settings/app/labels/manageAppLabel.blade.php on line 65
+[08-Sep-2022 03:05:39 America/New_York] PHP Notice:  Trying to get property 'values' of non-object in /home/knoprotec/public_html/resources/views/admin/settings/app/labels/manageAppLabel.blade.php on line 65
+[08-Sep-2022 03:05:39 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function toArray() on null in /home/knoprotec/public_html/resources/views/admin/settings/app/labels/manageAppLabel.blade.php:65
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/resources/views/admin/settings/app/labels/manageAppLabel.blade.php on line 65
+[10-Sep-2022 21:27:45 America/New_York] PHP Notice:  Undefined variable: languages in /home/knoprotec/public_html/resources/views/admin/settings/app/labels/editAppLabel.blade.php on line 82
+[10-Sep-2022 21:27:45 America/New_York] PHP Notice:  Trying to get property 'languages_id' of non-object in /home/knoprotec/public_html/resources/views/admin/settings/app/labels/editAppLabel.blade.php on line 82
+[10-Sep-2022 21:27:45 America/New_York] PHP Notice:  Undefined variable: languages in /home/knoprotec/public_html/resources/views/admin/settings/app/labels/editAppLabel.blade.php on line 88
+[10-Sep-2022 21:27:45 America/New_York] PHP Notice:  Trying to get property 'languages_id' of non-object in /home/knoprotec/public_html/resources/views/admin/settings/app/labels/editAppLabel.blade.php on line 88
+[10-Sep-2022 21:27:45 America/New_York] PHP Notice:  Undefined variable: result in /home/knoprotec/public_html/resources/views/admin/settings/app/labels/editAppLabel.blade.php on line 95
+[10-Sep-2022 21:27:45 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/settings/app/labels/editAppLabel.blade.php on line 95
+[10-Sep-2022 21:27:45 America/New_York] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/knoprotec/public_html/resources/views/admin/settings/app/labels/editAppLabel.blade.php on line 95
+[10-Sep-2022 21:27:48 America/New_York] PHP Notice:  Undefined variable: labels_data in /home/knoprotec/public_html/resources/views/admin/settings/app/labels/manageAppLabel.blade.php on line 65
+[10-Sep-2022 21:27:48 America/New_York] PHP Notice:  Trying to get property 'values' of non-object in /home/knoprotec/public_html/resources/views/admin/settings/app/labels/manageAppLabel.blade.php on line 65
+[10-Sep-2022 21:27:48 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function toArray() on null in /home/knoprotec/public_html/resources/views/admin/settings/app/labels/manageAppLabel.blade.php:65
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/resources/views/admin/settings/app/labels/manageAppLabel.blade.php on line 65
+[12-Sep-2022 12:07:59 America/New_York] PHP Notice:  Undefined variable: languages in /home/knoprotec/public_html/resources/views/admin/settings/app/labels/editAppLabel.blade.php on line 82
+[12-Sep-2022 12:07:59 America/New_York] PHP Notice:  Trying to get property 'languages_id' of non-object in /home/knoprotec/public_html/resources/views/admin/settings/app/labels/editAppLabel.blade.php on line 82
+[12-Sep-2022 12:07:59 America/New_York] PHP Notice:  Undefined variable: languages in /home/knoprotec/public_html/resources/views/admin/settings/app/labels/editAppLabel.blade.php on line 88
+[12-Sep-2022 12:07:59 America/New_York] PHP Notice:  Trying to get property 'languages_id' of non-object in /home/knoprotec/public_html/resources/views/admin/settings/app/labels/editAppLabel.blade.php on line 88
+[12-Sep-2022 12:07:59 America/New_York] PHP Notice:  Undefined variable: result in /home/knoprotec/public_html/resources/views/admin/settings/app/labels/editAppLabel.blade.php on line 95
+[12-Sep-2022 12:07:59 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/settings/app/labels/editAppLabel.blade.php on line 95
+[12-Sep-2022 12:07:59 America/New_York] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/knoprotec/public_html/resources/views/admin/settings/app/labels/editAppLabel.blade.php on line 95
+[12-Sep-2022 12:08:01 America/New_York] PHP Notice:  Undefined variable: labels_data in /home/knoprotec/public_html/resources/views/admin/settings/app/labels/manageAppLabel.blade.php on line 65
+[12-Sep-2022 12:08:01 America/New_York] PHP Notice:  Trying to get property 'values' of non-object in /home/knoprotec/public_html/resources/views/admin/settings/app/labels/manageAppLabel.blade.php on line 65
+[12-Sep-2022 12:08:01 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function toArray() on null in /home/knoprotec/public_html/resources/views/admin/settings/app/labels/manageAppLabel.blade.php:65
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/resources/views/admin/settings/app/labels/manageAppLabel.blade.php on line 65
+[24-Sep-2022 06:55:37 America/New_York] PHP Notice:  Undefined variable: languages in /home/knoprotec/public_html/resources/views/admin/settings/app/labels/editAppLabel.blade.php on line 82
+[24-Sep-2022 06:55:37 America/New_York] PHP Notice:  Trying to get property 'languages_id' of non-object in /home/knoprotec/public_html/resources/views/admin/settings/app/labels/editAppLabel.blade.php on line 82
+[24-Sep-2022 06:55:37 America/New_York] PHP Notice:  Undefined variable: languages in /home/knoprotec/public_html/resources/views/admin/settings/app/labels/editAppLabel.blade.php on line 88
+[24-Sep-2022 06:55:37 America/New_York] PHP Notice:  Trying to get property 'languages_id' of non-object in /home/knoprotec/public_html/resources/views/admin/settings/app/labels/editAppLabel.blade.php on line 88
+[24-Sep-2022 06:55:37 America/New_York] PHP Notice:  Undefined variable: result in /home/knoprotec/public_html/resources/views/admin/settings/app/labels/editAppLabel.blade.php on line 95
+[24-Sep-2022 06:55:37 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/settings/app/labels/editAppLabel.blade.php on line 95
+[24-Sep-2022 06:55:37 America/New_York] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/knoprotec/public_html/resources/views/admin/settings/app/labels/editAppLabel.blade.php on line 95
+[27-Sep-2022 19:50:53 America/New_York] PHP Notice:  Undefined variable: languages in /home/knoprotec/public_html/resources/views/admin/settings/app/labels/editAppLabel.blade.php on line 82
+[27-Sep-2022 19:50:53 America/New_York] PHP Notice:  Trying to get property 'languages_id' of non-object in /home/knoprotec/public_html/resources/views/admin/settings/app/labels/editAppLabel.blade.php on line 82
+[27-Sep-2022 19:50:53 America/New_York] PHP Notice:  Undefined variable: languages in /home/knoprotec/public_html/resources/views/admin/settings/app/labels/editAppLabel.blade.php on line 88
+[27-Sep-2022 19:50:53 America/New_York] PHP Notice:  Trying to get property 'languages_id' of non-object in /home/knoprotec/public_html/resources/views/admin/settings/app/labels/editAppLabel.blade.php on line 88
+[27-Sep-2022 19:50:53 America/New_York] PHP Notice:  Undefined variable: result in /home/knoprotec/public_html/resources/views/admin/settings/app/labels/editAppLabel.blade.php on line 95
+[27-Sep-2022 19:50:53 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/settings/app/labels/editAppLabel.blade.php on line 95
+[27-Sep-2022 19:50:53 America/New_York] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/knoprotec/public_html/resources/views/admin/settings/app/labels/editAppLabel.blade.php on line 95
+[01-Oct-2022 21:15:52 America/New_York] PHP Notice:  Undefined variable: labels_data in /home/knoprotec/public_html/resources/views/admin/settings/app/labels/manageAppLabel.blade.php on line 65
+[01-Oct-2022 21:15:52 America/New_York] PHP Notice:  Trying to get property 'values' of non-object in /home/knoprotec/public_html/resources/views/admin/settings/app/labels/manageAppLabel.blade.php on line 65
+[01-Oct-2022 21:15:52 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function toArray() on null in /home/knoprotec/public_html/resources/views/admin/settings/app/labels/manageAppLabel.blade.php:65
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/resources/views/admin/settings/app/labels/manageAppLabel.blade.php on line 65
+[10-Oct-2022 07:57:05 America/New_York] PHP Notice:  Undefined variable: languages in /home/knoprotec/public_html/resources/views/admin/settings/app/labels/editAppLabel.blade.php on line 82
+[10-Oct-2022 07:57:05 America/New_York] PHP Notice:  Trying to get property 'languages_id' of non-object in /home/knoprotec/public_html/resources/views/admin/settings/app/labels/editAppLabel.blade.php on line 82
+[10-Oct-2022 07:57:05 America/New_York] PHP Notice:  Undefined variable: languages in /home/knoprotec/public_html/resources/views/admin/settings/app/labels/editAppLabel.blade.php on line 88
+[10-Oct-2022 07:57:05 America/New_York] PHP Notice:  Trying to get property 'languages_id' of non-object in /home/knoprotec/public_html/resources/views/admin/settings/app/labels/editAppLabel.blade.php on line 88
+[10-Oct-2022 07:57:05 America/New_York] PHP Notice:  Undefined variable: result in /home/knoprotec/public_html/resources/views/admin/settings/app/labels/editAppLabel.blade.php on line 95
+[10-Oct-2022 07:57:05 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/settings/app/labels/editAppLabel.blade.php on line 95
+[10-Oct-2022 07:57:05 America/New_York] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/knoprotec/public_html/resources/views/admin/settings/app/labels/editAppLabel.blade.php on line 95
+[26-Oct-2022 10:30:34 America/New_York] PHP Notice:  Undefined variable: languages in /home/knoprotec/public_html/resources/views/admin/settings/app/labels/editAppLabel.blade.php on line 82
+[26-Oct-2022 10:30:34 America/New_York] PHP Notice:  Trying to get property 'languages_id' of non-object in /home/knoprotec/public_html/resources/views/admin/settings/app/labels/editAppLabel.blade.php on line 82
+[26-Oct-2022 10:30:34 America/New_York] PHP Notice:  Undefined variable: languages in /home/knoprotec/public_html/resources/views/admin/settings/app/labels/editAppLabel.blade.php on line 88
+[26-Oct-2022 10:30:34 America/New_York] PHP Notice:  Trying to get property 'languages_id' of non-object in /home/knoprotec/public_html/resources/views/admin/settings/app/labels/editAppLabel.blade.php on line 88
+[26-Oct-2022 10:30:34 America/New_York] PHP Notice:  Undefined variable: result in /home/knoprotec/public_html/resources/views/admin/settings/app/labels/editAppLabel.blade.php on line 95
+[26-Oct-2022 10:30:34 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/settings/app/labels/editAppLabel.blade.php on line 95
+[26-Oct-2022 10:30:34 America/New_York] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/knoprotec/public_html/resources/views/admin/settings/app/labels/editAppLabel.blade.php on line 95

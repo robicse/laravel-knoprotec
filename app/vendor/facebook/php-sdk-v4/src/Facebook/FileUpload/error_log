@@ -1,0 +1,40 @@
+[09-Sep-2022 05:58:48 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Facebook\FileUpload\FacebookFile' not found in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/FileUpload/FacebookVideo.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/FileUpload/FacebookVideo.php on line 31
+[21-Sep-2022 05:16:15 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Facebook\FileUpload\FacebookFile' not found in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/FileUpload/FacebookVideo.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/FileUpload/FacebookVideo.php on line 31
+[21-Sep-2022 05:16:15 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Facebook\FileUpload\FacebookFile' not found in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/FileUpload/FacebookVideo.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/FileUpload/FacebookVideo.php on line 31
+[01-Oct-2022 23:48:23 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Facebook\FileUpload\FacebookFile' not found in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/FileUpload/FacebookVideo.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/FileUpload/FacebookVideo.php on line 31
+[03-Oct-2022 01:43:23 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Facebook\FileUpload\FacebookFile' not found in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/FileUpload/FacebookVideo.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/FileUpload/FacebookVideo.php on line 31
+[04-Oct-2022 02:55:48 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Facebook\FileUpload\FacebookFile' not found in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/FileUpload/FacebookVideo.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/FileUpload/FacebookVideo.php on line 31
+[07-Oct-2022 05:30:28 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Facebook\FileUpload\FacebookFile' not found in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/FileUpload/FacebookVideo.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/FileUpload/FacebookVideo.php on line 31
+[30-Oct-2022 00:04:28 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Facebook\FileUpload\FacebookFile' not found in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/FileUpload/FacebookVideo.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/FileUpload/FacebookVideo.php on line 31
+[31-Oct-2022 01:21:30 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Facebook\FileUpload\FacebookFile' not found in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/FileUpload/FacebookVideo.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/FileUpload/FacebookVideo.php on line 31
+[01-Nov-2022 02:00:34 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Facebook\FileUpload\FacebookFile' not found in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/FileUpload/FacebookVideo.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/FileUpload/FacebookVideo.php on line 31

@@ -1,0 +1,90 @@
+[06-Sep-2022 09:54:51 America/New_York] PHP Notice:  Undefined variable: attribute in /home/knoprotec/public_html/resources/views/admin/products/inventory/add.blade.php on line 89
+[06-Sep-2022 09:54:51 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/products/inventory/add.blade.php on line 89
+[06-Sep-2022 09:54:51 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/products/inventory/add.blade.php on line 89
+[06-Sep-2022 09:54:51 America/New_York] PHP Notice:  Undefined variable: attribute in /home/knoprotec/public_html/resources/views/admin/products/inventory/add.blade.php on line 92
+[06-Sep-2022 09:54:51 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/products/inventory/add.blade.php on line 92
+[06-Sep-2022 09:54:51 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/products/inventory/add.blade.php on line 92
+[06-Sep-2022 09:54:54 America/New_York] PHP Notice:  Undefined variable: attribute in /home/knoprotec/public_html/resources/views/admin/products/inventory/attribute_div.blade.php on line 15
+[06-Sep-2022 09:54:54 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/products/inventory/attribute_div.blade.php on line 15
+[06-Sep-2022 09:54:54 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/products/inventory/attribute_div.blade.php on line 15
+[06-Sep-2022 09:54:54 America/New_York] PHP Notice:  Undefined variable: attribute in /home/knoprotec/public_html/resources/views/admin/products/inventory/attribute_div.blade.php on line 18
+[06-Sep-2022 09:54:54 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/products/inventory/attribute_div.blade.php on line 18
+[06-Sep-2022 09:54:54 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/products/inventory/attribute_div.blade.php on line 18
+[08-Sep-2022 11:59:47 America/New_York] PHP Notice:  Undefined variable: attribute in /home/knoprotec/public_html/resources/views/admin/products/inventory/add.blade.php on line 89
+[08-Sep-2022 11:59:47 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/products/inventory/add.blade.php on line 89
+[08-Sep-2022 11:59:47 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/products/inventory/add.blade.php on line 89
+[08-Sep-2022 11:59:47 America/New_York] PHP Notice:  Undefined variable: attribute in /home/knoprotec/public_html/resources/views/admin/products/inventory/add.blade.php on line 92
+[08-Sep-2022 11:59:47 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/products/inventory/add.blade.php on line 92
+[08-Sep-2022 11:59:47 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/products/inventory/add.blade.php on line 92
+[08-Sep-2022 12:00:04 America/New_York] PHP Notice:  Undefined variable: attribute in /home/knoprotec/public_html/resources/views/admin/products/inventory/attribute_div.blade.php on line 15
+[08-Sep-2022 12:00:04 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/products/inventory/attribute_div.blade.php on line 15
+[08-Sep-2022 12:00:04 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/products/inventory/attribute_div.blade.php on line 15
+[08-Sep-2022 12:00:04 America/New_York] PHP Notice:  Undefined variable: attribute in /home/knoprotec/public_html/resources/views/admin/products/inventory/attribute_div.blade.php on line 18
+[08-Sep-2022 12:00:04 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/products/inventory/attribute_div.blade.php on line 18
+[08-Sep-2022 12:00:04 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/products/inventory/attribute_div.blade.php on line 18
+[11-Sep-2022 04:06:22 America/New_York] PHP Notice:  Undefined variable: attribute in /home/knoprotec/public_html/resources/views/admin/products/inventory/add.blade.php on line 89
+[11-Sep-2022 04:06:22 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/products/inventory/add.blade.php on line 89
+[11-Sep-2022 04:06:22 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/products/inventory/add.blade.php on line 89
+[11-Sep-2022 04:06:22 America/New_York] PHP Notice:  Undefined variable: attribute in /home/knoprotec/public_html/resources/views/admin/products/inventory/add.blade.php on line 92
+[11-Sep-2022 04:06:22 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/products/inventory/add.blade.php on line 92
+[11-Sep-2022 04:06:22 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/products/inventory/add.blade.php on line 92
+[11-Sep-2022 04:06:26 America/New_York] PHP Notice:  Undefined variable: attribute in /home/knoprotec/public_html/resources/views/admin/products/inventory/attribute_div.blade.php on line 15
+[11-Sep-2022 04:06:26 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/products/inventory/attribute_div.blade.php on line 15
+[11-Sep-2022 04:06:26 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/products/inventory/attribute_div.blade.php on line 15
+[11-Sep-2022 04:06:26 America/New_York] PHP Notice:  Undefined variable: attribute in /home/knoprotec/public_html/resources/views/admin/products/inventory/attribute_div.blade.php on line 18
+[11-Sep-2022 04:06:26 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/products/inventory/attribute_div.blade.php on line 18
+[11-Sep-2022 04:06:26 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/products/inventory/attribute_div.blade.php on line 18
+[18-Sep-2022 12:56:36 America/New_York] PHP Notice:  Undefined variable: attribute in /home/knoprotec/public_html/resources/views/admin/products/inventory/attribute_div.blade.php on line 15
+[18-Sep-2022 12:56:36 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/products/inventory/attribute_div.blade.php on line 15
+[18-Sep-2022 12:56:36 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/products/inventory/attribute_div.blade.php on line 15
+[18-Sep-2022 12:56:36 America/New_York] PHP Notice:  Undefined variable: attribute in /home/knoprotec/public_html/resources/views/admin/products/inventory/attribute_div.blade.php on line 18
+[18-Sep-2022 12:56:36 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/products/inventory/attribute_div.blade.php on line 18
+[18-Sep-2022 12:56:36 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/products/inventory/attribute_div.blade.php on line 18
+[19-Sep-2022 13:11:19 America/New_York] PHP Notice:  Undefined variable: attribute in /home/knoprotec/public_html/resources/views/admin/products/inventory/add.blade.php on line 89
+[19-Sep-2022 13:11:19 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/products/inventory/add.blade.php on line 89
+[19-Sep-2022 13:11:19 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/products/inventory/add.blade.php on line 89
+[19-Sep-2022 13:11:19 America/New_York] PHP Notice:  Undefined variable: attribute in /home/knoprotec/public_html/resources/views/admin/products/inventory/add.blade.php on line 92
+[19-Sep-2022 13:11:19 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/products/inventory/add.blade.php on line 92
+[19-Sep-2022 13:11:19 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/products/inventory/add.blade.php on line 92
+[23-Sep-2022 12:03:51 America/New_York] PHP Notice:  Undefined variable: attribute in /home/knoprotec/public_html/resources/views/admin/products/inventory/add.blade.php on line 89
+[23-Sep-2022 12:03:51 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/products/inventory/add.blade.php on line 89
+[23-Sep-2022 12:03:51 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/products/inventory/add.blade.php on line 89
+[23-Sep-2022 12:03:51 America/New_York] PHP Notice:  Undefined variable: attribute in /home/knoprotec/public_html/resources/views/admin/products/inventory/add.blade.php on line 92
+[23-Sep-2022 12:03:51 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/products/inventory/add.blade.php on line 92
+[23-Sep-2022 12:03:51 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/products/inventory/add.blade.php on line 92
+[26-Sep-2022 10:33:12 America/New_York] PHP Notice:  Undefined variable: attribute in /home/knoprotec/public_html/resources/views/admin/products/inventory/attribute_div.blade.php on line 15
+[26-Sep-2022 10:33:12 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/products/inventory/attribute_div.blade.php on line 15
+[26-Sep-2022 10:33:12 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/products/inventory/attribute_div.blade.php on line 15
+[26-Sep-2022 10:33:12 America/New_York] PHP Notice:  Undefined variable: attribute in /home/knoprotec/public_html/resources/views/admin/products/inventory/attribute_div.blade.php on line 18
+[26-Sep-2022 10:33:12 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/products/inventory/attribute_div.blade.php on line 18
+[26-Sep-2022 10:33:12 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/products/inventory/attribute_div.blade.php on line 18
+[08-Oct-2022 15:00:28 America/New_York] PHP Notice:  Undefined variable: attribute in /home/knoprotec/public_html/resources/views/admin/products/inventory/add.blade.php on line 89
+[08-Oct-2022 15:00:28 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/products/inventory/add.blade.php on line 89
+[08-Oct-2022 15:00:28 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/products/inventory/add.blade.php on line 89
+[08-Oct-2022 15:00:28 America/New_York] PHP Notice:  Undefined variable: attribute in /home/knoprotec/public_html/resources/views/admin/products/inventory/add.blade.php on line 92
+[08-Oct-2022 15:00:28 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/products/inventory/add.blade.php on line 92
+[08-Oct-2022 15:00:28 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/products/inventory/add.blade.php on line 92
+[14-Oct-2022 19:49:56 America/New_York] PHP Notice:  Undefined variable: attribute in /home/knoprotec/public_html/resources/views/admin/products/inventory/attribute_div.blade.php on line 15
+[14-Oct-2022 19:49:56 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/products/inventory/attribute_div.blade.php on line 15
+[14-Oct-2022 19:49:56 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/products/inventory/attribute_div.blade.php on line 15
+[14-Oct-2022 19:49:56 America/New_York] PHP Notice:  Undefined variable: attribute in /home/knoprotec/public_html/resources/views/admin/products/inventory/attribute_div.blade.php on line 18
+[14-Oct-2022 19:49:56 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/products/inventory/attribute_div.blade.php on line 18
+[14-Oct-2022 19:49:56 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/products/inventory/attribute_div.blade.php on line 18
+[23-Oct-2022 08:00:17 America/New_York] PHP Notice:  Undefined variable: attribute in /home/knoprotec/public_html/resources/views/admin/products/inventory/add.blade.php on line 89
+[23-Oct-2022 08:00:17 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/products/inventory/add.blade.php on line 89
+[23-Oct-2022 08:00:17 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/products/inventory/add.blade.php on line 89
+[23-Oct-2022 08:00:17 America/New_York] PHP Notice:  Undefined variable: attribute in /home/knoprotec/public_html/resources/views/admin/products/inventory/add.blade.php on line 92
+[23-Oct-2022 08:00:17 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/products/inventory/add.blade.php on line 92
+[23-Oct-2022 08:00:17 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/products/inventory/add.blade.php on line 92
+[02-Nov-2022 01:11:59 America/New_York] PHP Notice:  Undefined variable: attribute in /home/knoprotec/public_html/resources/views/admin/products/inventory/attribute_div.blade.php on line 15
+[02-Nov-2022 01:11:59 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/products/inventory/attribute_div.blade.php on line 15
+[02-Nov-2022 01:11:59 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/products/inventory/attribute_div.blade.php on line 15
+[02-Nov-2022 01:11:59 America/New_York] PHP Notice:  Undefined variable: attribute in /home/knoprotec/public_html/resources/views/admin/products/inventory/attribute_div.blade.php on line 18
+[02-Nov-2022 01:11:59 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/products/inventory/attribute_div.blade.php on line 18
+[02-Nov-2022 01:11:59 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/products/inventory/attribute_div.blade.php on line 18
+[09-Jan-2023 00:45:23 America/New_York] PHP Notice:  Undefined variable: attribute in /home/knoprotec/public_html/resources/views/admin/products/inventory/attribute_div.blade.php on line 15
+[09-Jan-2023 00:45:23 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/products/inventory/attribute_div.blade.php on line 15
+[09-Jan-2023 00:45:23 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/products/inventory/attribute_div.blade.php on line 15
+[09-Jan-2023 00:45:23 America/New_York] PHP Notice:  Undefined variable: attribute in /home/knoprotec/public_html/resources/views/admin/products/inventory/attribute_div.blade.php on line 18
+[09-Jan-2023 00:45:23 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/products/inventory/attribute_div.blade.php on line 18
+[09-Jan-2023 00:45:23 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/products/inventory/attribute_div.blade.php on line 18

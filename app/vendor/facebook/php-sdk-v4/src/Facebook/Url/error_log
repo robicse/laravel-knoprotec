@@ -1,0 +1,40 @@
+[06-Sep-2022 18:14:46 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Facebook\Url\UrlDetectionInterface' not found in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Url/FacebookUrlDetectionHandler.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Url/FacebookUrlDetectionHandler.php on line 31
+[21-Sep-2022 05:15:23 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Facebook\Url\UrlDetectionInterface' not found in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Url/FacebookUrlDetectionHandler.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Url/FacebookUrlDetectionHandler.php on line 31
+[21-Sep-2022 05:15:23 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Facebook\Url\UrlDetectionInterface' not found in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Url/FacebookUrlDetectionHandler.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Url/FacebookUrlDetectionHandler.php on line 31
+[01-Oct-2022 23:36:22 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Facebook\Url\UrlDetectionInterface' not found in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Url/FacebookUrlDetectionHandler.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Url/FacebookUrlDetectionHandler.php on line 31
+[03-Oct-2022 01:47:15 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Facebook\Url\UrlDetectionInterface' not found in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Url/FacebookUrlDetectionHandler.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Url/FacebookUrlDetectionHandler.php on line 31
+[04-Oct-2022 02:58:01 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Facebook\Url\UrlDetectionInterface' not found in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Url/FacebookUrlDetectionHandler.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Url/FacebookUrlDetectionHandler.php on line 31
+[14-Oct-2022 16:57:03 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Facebook\Url\UrlDetectionInterface' not found in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Url/FacebookUrlDetectionHandler.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Url/FacebookUrlDetectionHandler.php on line 31
+[29-Oct-2022 23:57:03 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Facebook\Url\UrlDetectionInterface' not found in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Url/FacebookUrlDetectionHandler.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Url/FacebookUrlDetectionHandler.php on line 31
+[31-Oct-2022 01:25:22 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Facebook\Url\UrlDetectionInterface' not found in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Url/FacebookUrlDetectionHandler.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Url/FacebookUrlDetectionHandler.php on line 31
+[01-Nov-2022 02:04:08 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Facebook\Url\UrlDetectionInterface' not found in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Url/FacebookUrlDetectionHandler.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Url/FacebookUrlDetectionHandler.php on line 31

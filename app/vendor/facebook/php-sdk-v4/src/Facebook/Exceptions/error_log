@@ -1,0 +1,320 @@
+[09-Sep-2022 23:52:41 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Facebook\Exceptions\FacebookSDKException' not found in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Exceptions/FacebookAuthenticationException.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Exceptions/FacebookAuthenticationException.php on line 31
+[09-Sep-2022 23:52:41 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Facebook\Exceptions\FacebookSDKException' not found in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Exceptions/FacebookAuthorizationException.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Exceptions/FacebookAuthorizationException.php on line 31
+[09-Sep-2022 23:52:42 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Facebook\Exceptions\FacebookSDKException' not found in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Exceptions/FacebookClientException.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Exceptions/FacebookClientException.php on line 31
+[09-Sep-2022 23:52:42 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Facebook\Exceptions\FacebookSDKException' not found in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Exceptions/FacebookOtherException.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Exceptions/FacebookOtherException.php on line 31
+[09-Sep-2022 23:52:43 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Facebook\Exceptions\FacebookSDKException' not found in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Exceptions/FacebookResponseException.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Exceptions/FacebookResponseException.php on line 33
+[09-Sep-2022 23:52:43 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Facebook\Exceptions\FacebookSDKException' not found in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Exceptions/FacebookResumableUploadException.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Exceptions/FacebookResumableUploadException.php on line 31
+[09-Sep-2022 23:52:44 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Facebook\Exceptions\FacebookSDKException' not found in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Exceptions/FacebookThrottleException.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Exceptions/FacebookThrottleException.php on line 31
+[10-Sep-2022 02:01:15 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Facebook\Exceptions\FacebookSDKException' not found in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Exceptions/FacebookServerException.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Exceptions/FacebookServerException.php on line 31
+[21-Sep-2022 05:14:31 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Facebook\Exceptions\FacebookSDKException' not found in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Exceptions/FacebookServerException.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Exceptions/FacebookServerException.php on line 31
+[21-Sep-2022 05:14:31 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Facebook\Exceptions\FacebookSDKException' not found in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Exceptions/FacebookServerException.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Exceptions/FacebookServerException.php on line 31
+[21-Sep-2022 05:14:41 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Facebook\Exceptions\FacebookSDKException' not found in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Exceptions/FacebookResumableUploadException.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Exceptions/FacebookResumableUploadException.php on line 31
+[21-Sep-2022 05:14:42 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Facebook\Exceptions\FacebookSDKException' not found in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Exceptions/FacebookResumableUploadException.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Exceptions/FacebookResumableUploadException.php on line 31
+[21-Sep-2022 05:14:42 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Facebook\Exceptions\FacebookSDKException' not found in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Exceptions/FacebookResponseException.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Exceptions/FacebookResponseException.php on line 33
+[21-Sep-2022 05:14:42 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Facebook\Exceptions\FacebookSDKException' not found in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Exceptions/FacebookResponseException.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Exceptions/FacebookResponseException.php on line 33
+[21-Sep-2022 05:14:43 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Facebook\Exceptions\FacebookSDKException' not found in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Exceptions/FacebookThrottleException.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Exceptions/FacebookThrottleException.php on line 31
+[21-Sep-2022 05:14:43 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Facebook\Exceptions\FacebookSDKException' not found in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Exceptions/FacebookThrottleException.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Exceptions/FacebookThrottleException.php on line 31
+[21-Sep-2022 05:15:54 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Facebook\Exceptions\FacebookSDKException' not found in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Exceptions/FacebookAuthenticationException.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Exceptions/FacebookAuthenticationException.php on line 31
+[21-Sep-2022 05:15:55 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Facebook\Exceptions\FacebookSDKException' not found in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Exceptions/FacebookAuthenticationException.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Exceptions/FacebookAuthenticationException.php on line 31
+[21-Sep-2022 05:15:55 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Facebook\Exceptions\FacebookSDKException' not found in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Exceptions/FacebookAuthorizationException.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Exceptions/FacebookAuthorizationException.php on line 31
+[21-Sep-2022 05:15:56 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Facebook\Exceptions\FacebookSDKException' not found in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Exceptions/FacebookAuthorizationException.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Exceptions/FacebookAuthorizationException.php on line 31
+[21-Sep-2022 05:15:56 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Facebook\Exceptions\FacebookSDKException' not found in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Exceptions/FacebookClientException.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Exceptions/FacebookClientException.php on line 31
+[21-Sep-2022 05:15:56 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Facebook\Exceptions\FacebookSDKException' not found in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Exceptions/FacebookClientException.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Exceptions/FacebookClientException.php on line 31
+[21-Sep-2022 05:29:07 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Facebook\Exceptions\FacebookSDKException' not found in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Exceptions/FacebookOtherException.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Exceptions/FacebookOtherException.php on line 31
+[21-Sep-2022 05:29:07 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Facebook\Exceptions\FacebookSDKException' not found in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Exceptions/FacebookOtherException.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Exceptions/FacebookOtherException.php on line 31
+[01-Oct-2022 23:46:53 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Facebook\Exceptions\FacebookSDKException' not found in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Exceptions/FacebookAuthenticationException.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Exceptions/FacebookAuthenticationException.php on line 31
+[01-Oct-2022 23:46:58 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Facebook\Exceptions\FacebookSDKException' not found in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Exceptions/FacebookAuthorizationException.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Exceptions/FacebookAuthorizationException.php on line 31
+[01-Oct-2022 23:47:05 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Facebook\Exceptions\FacebookSDKException' not found in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Exceptions/FacebookClientException.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Exceptions/FacebookClientException.php on line 31
+[01-Oct-2022 23:47:09 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Facebook\Exceptions\FacebookSDKException' not found in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Exceptions/FacebookOtherException.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Exceptions/FacebookOtherException.php on line 31
+[01-Oct-2022 23:47:15 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Facebook\Exceptions\FacebookSDKException' not found in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Exceptions/FacebookResponseException.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Exceptions/FacebookResponseException.php on line 33
+[01-Oct-2022 23:47:19 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Facebook\Exceptions\FacebookSDKException' not found in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Exceptions/FacebookResumableUploadException.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Exceptions/FacebookResumableUploadException.php on line 31
+[01-Oct-2022 23:47:28 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Facebook\Exceptions\FacebookSDKException' not found in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Exceptions/FacebookServerException.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Exceptions/FacebookServerException.php on line 31
+[01-Oct-2022 23:47:31 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Facebook\Exceptions\FacebookSDKException' not found in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Exceptions/FacebookThrottleException.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Exceptions/FacebookThrottleException.php on line 31
+[03-Oct-2022 01:42:29 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Facebook\Exceptions\FacebookSDKException' not found in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Exceptions/FacebookAuthenticationException.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Exceptions/FacebookAuthenticationException.php on line 31
+[03-Oct-2022 01:42:34 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Facebook\Exceptions\FacebookSDKException' not found in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Exceptions/FacebookAuthorizationException.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Exceptions/FacebookAuthorizationException.php on line 31
+[03-Oct-2022 01:42:36 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Facebook\Exceptions\FacebookSDKException' not found in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Exceptions/FacebookClientException.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Exceptions/FacebookClientException.php on line 31
+[03-Oct-2022 01:42:38 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Facebook\Exceptions\FacebookSDKException' not found in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Exceptions/FacebookOtherException.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Exceptions/FacebookOtherException.php on line 31
+[03-Oct-2022 01:42:42 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Facebook\Exceptions\FacebookSDKException' not found in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Exceptions/FacebookResponseException.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Exceptions/FacebookResponseException.php on line 33
+[03-Oct-2022 01:42:49 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Facebook\Exceptions\FacebookSDKException' not found in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Exceptions/FacebookResumableUploadException.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Exceptions/FacebookResumableUploadException.php on line 31
+[03-Oct-2022 01:42:52 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Facebook\Exceptions\FacebookSDKException' not found in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Exceptions/FacebookServerException.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Exceptions/FacebookServerException.php on line 31
+[03-Oct-2022 01:42:57 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Facebook\Exceptions\FacebookSDKException' not found in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Exceptions/FacebookThrottleException.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Exceptions/FacebookThrottleException.php on line 31
+[04-Oct-2022 02:55:25 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Facebook\Exceptions\FacebookSDKException' not found in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Exceptions/FacebookAuthenticationException.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Exceptions/FacebookAuthenticationException.php on line 31
+[04-Oct-2022 02:55:27 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Facebook\Exceptions\FacebookSDKException' not found in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Exceptions/FacebookAuthorizationException.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Exceptions/FacebookAuthorizationException.php on line 31
+[04-Oct-2022 02:55:30 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Facebook\Exceptions\FacebookSDKException' not found in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Exceptions/FacebookClientException.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Exceptions/FacebookClientException.php on line 31
+[04-Oct-2022 02:55:33 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Facebook\Exceptions\FacebookSDKException' not found in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Exceptions/FacebookOtherException.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Exceptions/FacebookOtherException.php on line 31
+[04-Oct-2022 02:55:36 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Facebook\Exceptions\FacebookSDKException' not found in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Exceptions/FacebookResponseException.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Exceptions/FacebookResponseException.php on line 33
+[04-Oct-2022 02:55:39 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Facebook\Exceptions\FacebookSDKException' not found in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Exceptions/FacebookResumableUploadException.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Exceptions/FacebookResumableUploadException.php on line 31
+[04-Oct-2022 02:55:42 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Facebook\Exceptions\FacebookSDKException' not found in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Exceptions/FacebookServerException.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Exceptions/FacebookServerException.php on line 31
+[04-Oct-2022 02:55:44 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Facebook\Exceptions\FacebookSDKException' not found in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Exceptions/FacebookThrottleException.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Exceptions/FacebookThrottleException.php on line 31
+[08-Oct-2022 07:21:12 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Facebook\Exceptions\FacebookSDKException' not found in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Exceptions/FacebookThrottleException.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Exceptions/FacebookThrottleException.php on line 31
+[08-Oct-2022 10:08:41 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Facebook\Exceptions\FacebookSDKException' not found in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Exceptions/FacebookAuthenticationException.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Exceptions/FacebookAuthenticationException.php on line 31
+[08-Oct-2022 15:12:55 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Facebook\Exceptions\FacebookSDKException' not found in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Exceptions/FacebookOtherException.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Exceptions/FacebookOtherException.php on line 31
+[09-Oct-2022 11:05:33 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Facebook\Exceptions\FacebookSDKException' not found in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Exceptions/FacebookAuthorizationException.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Exceptions/FacebookAuthorizationException.php on line 31
+[12-Oct-2022 11:41:36 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Facebook\Exceptions\FacebookSDKException' not found in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Exceptions/FacebookResumableUploadException.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Exceptions/FacebookResumableUploadException.php on line 31
+[14-Oct-2022 17:46:07 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Facebook\Exceptions\FacebookSDKException' not found in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Exceptions/FacebookClientException.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Exceptions/FacebookClientException.php on line 31
+[17-Oct-2022 19:12:28 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Facebook\Exceptions\FacebookSDKException' not found in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Exceptions/FacebookServerException.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Exceptions/FacebookServerException.php on line 31
+[17-Oct-2022 23:39:08 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Facebook\Exceptions\FacebookSDKException' not found in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Exceptions/FacebookResponseException.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Exceptions/FacebookResponseException.php on line 33
+[30-Oct-2022 00:03:25 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Facebook\Exceptions\FacebookSDKException' not found in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Exceptions/FacebookAuthenticationException.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Exceptions/FacebookAuthenticationException.php on line 31
+[30-Oct-2022 00:03:28 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Facebook\Exceptions\FacebookSDKException' not found in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Exceptions/FacebookAuthorizationException.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Exceptions/FacebookAuthorizationException.php on line 31
+[30-Oct-2022 00:03:29 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Facebook\Exceptions\FacebookSDKException' not found in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Exceptions/FacebookClientException.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Exceptions/FacebookClientException.php on line 31
+[30-Oct-2022 00:03:33 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Facebook\Exceptions\FacebookSDKException' not found in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Exceptions/FacebookOtherException.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Exceptions/FacebookOtherException.php on line 31
+[30-Oct-2022 00:03:37 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Facebook\Exceptions\FacebookSDKException' not found in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Exceptions/FacebookResponseException.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Exceptions/FacebookResponseException.php on line 33
+[30-Oct-2022 00:03:40 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Facebook\Exceptions\FacebookSDKException' not found in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Exceptions/FacebookResumableUploadException.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Exceptions/FacebookResumableUploadException.php on line 31
+[30-Oct-2022 00:03:44 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Facebook\Exceptions\FacebookSDKException' not found in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Exceptions/FacebookServerException.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Exceptions/FacebookServerException.php on line 31
+[30-Oct-2022 00:03:55 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Facebook\Exceptions\FacebookSDKException' not found in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Exceptions/FacebookThrottleException.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Exceptions/FacebookThrottleException.php on line 31
+[31-Oct-2022 01:20:29 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Facebook\Exceptions\FacebookSDKException' not found in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Exceptions/FacebookAuthenticationException.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Exceptions/FacebookAuthenticationException.php on line 31
+[31-Oct-2022 01:20:32 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Facebook\Exceptions\FacebookSDKException' not found in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Exceptions/FacebookAuthorizationException.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Exceptions/FacebookAuthorizationException.php on line 31
+[31-Oct-2022 01:20:36 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Facebook\Exceptions\FacebookSDKException' not found in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Exceptions/FacebookClientException.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Exceptions/FacebookClientException.php on line 31
+[31-Oct-2022 01:20:38 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Facebook\Exceptions\FacebookSDKException' not found in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Exceptions/FacebookOtherException.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Exceptions/FacebookOtherException.php on line 31
+[31-Oct-2022 01:20:42 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Facebook\Exceptions\FacebookSDKException' not found in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Exceptions/FacebookResponseException.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Exceptions/FacebookResponseException.php on line 33
+[31-Oct-2022 01:20:47 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Facebook\Exceptions\FacebookSDKException' not found in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Exceptions/FacebookResumableUploadException.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Exceptions/FacebookResumableUploadException.php on line 31
+[31-Oct-2022 01:20:55 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Facebook\Exceptions\FacebookSDKException' not found in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Exceptions/FacebookServerException.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Exceptions/FacebookServerException.php on line 31
+[31-Oct-2022 01:21:04 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Facebook\Exceptions\FacebookSDKException' not found in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Exceptions/FacebookThrottleException.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Exceptions/FacebookThrottleException.php on line 31
+[01-Nov-2022 01:59:46 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Facebook\Exceptions\FacebookSDKException' not found in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Exceptions/FacebookAuthenticationException.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Exceptions/FacebookAuthenticationException.php on line 31
+[01-Nov-2022 01:59:54 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Facebook\Exceptions\FacebookSDKException' not found in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Exceptions/FacebookAuthorizationException.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Exceptions/FacebookAuthorizationException.php on line 31
+[01-Nov-2022 01:59:58 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Facebook\Exceptions\FacebookSDKException' not found in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Exceptions/FacebookClientException.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Exceptions/FacebookClientException.php on line 31
+[01-Nov-2022 02:00:06 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Facebook\Exceptions\FacebookSDKException' not found in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Exceptions/FacebookOtherException.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Exceptions/FacebookOtherException.php on line 31
+[01-Nov-2022 02:00:10 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Facebook\Exceptions\FacebookSDKException' not found in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Exceptions/FacebookResponseException.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Exceptions/FacebookResponseException.php on line 33
+[01-Nov-2022 02:00:18 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Facebook\Exceptions\FacebookSDKException' not found in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Exceptions/FacebookResumableUploadException.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Exceptions/FacebookResumableUploadException.php on line 31
+[01-Nov-2022 02:00:21 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Facebook\Exceptions\FacebookSDKException' not found in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Exceptions/FacebookServerException.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Exceptions/FacebookServerException.php on line 31
+[01-Nov-2022 02:00:30 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Facebook\Exceptions\FacebookSDKException' not found in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Exceptions/FacebookThrottleException.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Exceptions/FacebookThrottleException.php on line 31

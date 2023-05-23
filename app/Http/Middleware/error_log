@@ -1,0 +1,364 @@
+[31-Aug-2022 14:18:19 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Auth\Middleware\Authenticate' not found in /home/knoprotec/public_html/app/Http/Middleware/Authenticate.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Http/Middleware/Authenticate.php on line 7
+[31-Aug-2022 14:18:23 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\Middleware\CheckForMaintenanceMode' not found in /home/knoprotec/public_html/app/Http/Middleware/CheckForMaintenanceMode.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Http/Middleware/CheckForMaintenanceMode.php on line 7
+[31-Aug-2022 14:18:25 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Cookie\Middleware\EncryptCookies' not found in /home/knoprotec/public_html/app/Http/Middleware/EncryptCookies.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Http/Middleware/EncryptCookies.php on line 7
+[31-Aug-2022 14:18:37 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\Middleware\TrimStrings' not found in /home/knoprotec/public_html/app/Http/Middleware/TrimStrings.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Http/Middleware/TrimStrings.php on line 7
+[31-Aug-2022 14:18:39 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Fideloper\Proxy\TrustProxies' not found in /home/knoprotec/public_html/app/Http/Middleware/TrustProxies.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Http/Middleware/TrustProxies.php on line 8
+[31-Aug-2022 14:18:41 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\Middleware\VerifyCsrfToken' not found in /home/knoprotec/public_html/app/Http/Middleware/VerifyCsrfToken.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Http/Middleware/VerifyCsrfToken.php on line 7
+[05-Sep-2022 04:31:20 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Auth\Middleware\Authenticate' not found in /home/knoprotec/public_html/app/Http/Middleware/Authenticate.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Http/Middleware/Authenticate.php on line 7
+[05-Sep-2022 04:31:21 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\Middleware\CheckForMaintenanceMode' not found in /home/knoprotec/public_html/app/Http/Middleware/CheckForMaintenanceMode.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Http/Middleware/CheckForMaintenanceMode.php on line 7
+[05-Sep-2022 04:31:22 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\Middleware\TrimStrings' not found in /home/knoprotec/public_html/app/Http/Middleware/TrimStrings.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Http/Middleware/TrimStrings.php on line 7
+[09-Sep-2022 05:59:01 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Fideloper\Proxy\TrustProxies' not found in /home/knoprotec/public_html/app/Http/Middleware/TrustProxies.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Http/Middleware/TrustProxies.php on line 8
+[09-Sep-2022 05:59:01 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\Middleware\VerifyCsrfToken' not found in /home/knoprotec/public_html/app/Http/Middleware/VerifyCsrfToken.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Http/Middleware/VerifyCsrfToken.php on line 7
+[09-Sep-2022 14:30:57 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Cookie\Middleware\EncryptCookies' not found in /home/knoprotec/public_html/app/Http/Middleware/EncryptCookies.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Http/Middleware/EncryptCookies.php on line 7
+[12-Sep-2022 15:42:34 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\Middleware\VerifyCsrfToken' not found in /home/knoprotec/public_html/app/Http/Middleware/VerifyCsrfToken.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Http/Middleware/VerifyCsrfToken.php on line 7
+[12-Sep-2022 20:41:36 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Fideloper\Proxy\TrustProxies' not found in /home/knoprotec/public_html/app/Http/Middleware/TrustProxies.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Http/Middleware/TrustProxies.php on line 8
+[13-Sep-2022 12:59:04 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\Middleware\VerifyCsrfToken' not found in /home/knoprotec/public_html/app/Http/Middleware/VerifyCsrfToken.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Http/Middleware/VerifyCsrfToken.php on line 7
+[13-Sep-2022 12:59:39 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Cookie\Middleware\EncryptCookies' not found in /home/knoprotec/public_html/app/Http/Middleware/EncryptCookies.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Http/Middleware/EncryptCookies.php on line 7
+[13-Sep-2022 13:01:54 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Auth\Middleware\Authenticate' not found in /home/knoprotec/public_html/app/Http/Middleware/Authenticate.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Http/Middleware/Authenticate.php on line 7
+[13-Sep-2022 13:05:43 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\Middleware\CheckForMaintenanceMode' not found in /home/knoprotec/public_html/app/Http/Middleware/CheckForMaintenanceMode.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Http/Middleware/CheckForMaintenanceMode.php on line 7
+[13-Sep-2022 13:06:10 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Fideloper\Proxy\TrustProxies' not found in /home/knoprotec/public_html/app/Http/Middleware/TrustProxies.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Http/Middleware/TrustProxies.php on line 8
+[13-Sep-2022 13:06:49 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\Middleware\TrimStrings' not found in /home/knoprotec/public_html/app/Http/Middleware/TrimStrings.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Http/Middleware/TrimStrings.php on line 7
+[13-Sep-2022 14:04:48 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Auth\Middleware\Authenticate' not found in /home/knoprotec/public_html/app/Http/Middleware/Authenticate.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Http/Middleware/Authenticate.php on line 7
+[13-Sep-2022 17:34:32 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\Middleware\CheckForMaintenanceMode' not found in /home/knoprotec/public_html/app/Http/Middleware/CheckForMaintenanceMode.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Http/Middleware/CheckForMaintenanceMode.php on line 7
+[15-Sep-2022 21:23:59 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Cookie\Middleware\EncryptCookies' not found in /home/knoprotec/public_html/app/Http/Middleware/EncryptCookies.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Http/Middleware/EncryptCookies.php on line 7
+[15-Sep-2022 22:18:55 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\Middleware\TrimStrings' not found in /home/knoprotec/public_html/app/Http/Middleware/TrimStrings.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Http/Middleware/TrimStrings.php on line 7
+[24-Sep-2022 02:56:45 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Auth\Middleware\Authenticate' not found in /home/knoprotec/public_html/app/Http/Middleware/Authenticate.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Http/Middleware/Authenticate.php on line 7
+[24-Sep-2022 02:56:54 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\Middleware\CheckForMaintenanceMode' not found in /home/knoprotec/public_html/app/Http/Middleware/CheckForMaintenanceMode.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Http/Middleware/CheckForMaintenanceMode.php on line 7
+[24-Sep-2022 02:56:58 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Cookie\Middleware\EncryptCookies' not found in /home/knoprotec/public_html/app/Http/Middleware/EncryptCookies.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Http/Middleware/EncryptCookies.php on line 7
+[24-Sep-2022 02:57:30 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\Middleware\TrimStrings' not found in /home/knoprotec/public_html/app/Http/Middleware/TrimStrings.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Http/Middleware/TrimStrings.php on line 7
+[24-Sep-2022 02:57:36 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Fideloper\Proxy\TrustProxies' not found in /home/knoprotec/public_html/app/Http/Middleware/TrustProxies.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Http/Middleware/TrustProxies.php on line 8
+[24-Sep-2022 02:57:41 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\Middleware\VerifyCsrfToken' not found in /home/knoprotec/public_html/app/Http/Middleware/VerifyCsrfToken.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Http/Middleware/VerifyCsrfToken.php on line 7
+[26-Sep-2022 14:20:03 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Auth\Middleware\Authenticate' not found in /home/knoprotec/public_html/app/Http/Middleware/Authenticate.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Http/Middleware/Authenticate.php on line 7
+[26-Sep-2022 14:20:07 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\Middleware\CheckForMaintenanceMode' not found in /home/knoprotec/public_html/app/Http/Middleware/CheckForMaintenanceMode.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Http/Middleware/CheckForMaintenanceMode.php on line 7
+[26-Sep-2022 14:20:12 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Cookie\Middleware\EncryptCookies' not found in /home/knoprotec/public_html/app/Http/Middleware/EncryptCookies.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Http/Middleware/EncryptCookies.php on line 7
+[26-Sep-2022 14:20:14 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\Middleware\TrimStrings' not found in /home/knoprotec/public_html/app/Http/Middleware/TrimStrings.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Http/Middleware/TrimStrings.php on line 7
+[26-Sep-2022 14:20:18 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Fideloper\Proxy\TrustProxies' not found in /home/knoprotec/public_html/app/Http/Middleware/TrustProxies.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Http/Middleware/TrustProxies.php on line 8
+[26-Sep-2022 14:20:21 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\Middleware\VerifyCsrfToken' not found in /home/knoprotec/public_html/app/Http/Middleware/VerifyCsrfToken.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Http/Middleware/VerifyCsrfToken.php on line 7
+[28-Sep-2022 02:33:18 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Auth\Middleware\Authenticate' not found in /home/knoprotec/public_html/app/Http/Middleware/Authenticate.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Http/Middleware/Authenticate.php on line 7
+[28-Sep-2022 02:33:25 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\Middleware\CheckForMaintenanceMode' not found in /home/knoprotec/public_html/app/Http/Middleware/CheckForMaintenanceMode.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Http/Middleware/CheckForMaintenanceMode.php on line 7
+[28-Sep-2022 02:35:07 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Cookie\Middleware\EncryptCookies' not found in /home/knoprotec/public_html/app/Http/Middleware/EncryptCookies.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Http/Middleware/EncryptCookies.php on line 7
+[28-Sep-2022 02:35:11 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\Middleware\TrimStrings' not found in /home/knoprotec/public_html/app/Http/Middleware/TrimStrings.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Http/Middleware/TrimStrings.php on line 7
+[28-Sep-2022 02:35:16 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Fideloper\Proxy\TrustProxies' not found in /home/knoprotec/public_html/app/Http/Middleware/TrustProxies.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Http/Middleware/TrustProxies.php on line 8
+[28-Sep-2022 02:36:11 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\Middleware\VerifyCsrfToken' not found in /home/knoprotec/public_html/app/Http/Middleware/VerifyCsrfToken.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Http/Middleware/VerifyCsrfToken.php on line 7
+[11-Oct-2022 22:08:55 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Cookie\Middleware\EncryptCookies' not found in /home/knoprotec/public_html/app/Http/Middleware/EncryptCookies.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Http/Middleware/EncryptCookies.php on line 7
+[11-Oct-2022 22:10:02 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\Middleware\TrimStrings' not found in /home/knoprotec/public_html/app/Http/Middleware/TrimStrings.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Http/Middleware/TrimStrings.php on line 7
+[11-Oct-2022 22:10:21 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Fideloper\Proxy\TrustProxies' not found in /home/knoprotec/public_html/app/Http/Middleware/TrustProxies.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Http/Middleware/TrustProxies.php on line 8
+[11-Oct-2022 22:13:32 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\Middleware\VerifyCsrfToken' not found in /home/knoprotec/public_html/app/Http/Middleware/VerifyCsrfToken.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Http/Middleware/VerifyCsrfToken.php on line 7
+[11-Oct-2022 22:15:26 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\Middleware\CheckForMaintenanceMode' not found in /home/knoprotec/public_html/app/Http/Middleware/CheckForMaintenanceMode.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Http/Middleware/CheckForMaintenanceMode.php on line 7
+[11-Oct-2022 22:16:35 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Auth\Middleware\Authenticate' not found in /home/knoprotec/public_html/app/Http/Middleware/Authenticate.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Http/Middleware/Authenticate.php on line 7
+[13-Oct-2022 05:06:55 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Auth\Middleware\Authenticate' not found in /home/knoprotec/public_html/app/Http/Middleware/Authenticate.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Http/Middleware/Authenticate.php on line 7
+[13-Oct-2022 05:07:01 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\Middleware\CheckForMaintenanceMode' not found in /home/knoprotec/public_html/app/Http/Middleware/CheckForMaintenanceMode.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Http/Middleware/CheckForMaintenanceMode.php on line 7
+[13-Oct-2022 05:07:04 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Cookie\Middleware\EncryptCookies' not found in /home/knoprotec/public_html/app/Http/Middleware/EncryptCookies.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Http/Middleware/EncryptCookies.php on line 7
+[13-Oct-2022 05:07:23 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\Middleware\TrimStrings' not found in /home/knoprotec/public_html/app/Http/Middleware/TrimStrings.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Http/Middleware/TrimStrings.php on line 7
+[13-Oct-2022 05:07:26 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Fideloper\Proxy\TrustProxies' not found in /home/knoprotec/public_html/app/Http/Middleware/TrustProxies.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Http/Middleware/TrustProxies.php on line 8
+[13-Oct-2022 05:07:30 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\Middleware\VerifyCsrfToken' not found in /home/knoprotec/public_html/app/Http/Middleware/VerifyCsrfToken.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Http/Middleware/VerifyCsrfToken.php on line 7
+[18-Oct-2022 14:13:40 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Auth\Middleware\Authenticate' not found in /home/knoprotec/public_html/app/Http/Middleware/Authenticate.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Http/Middleware/Authenticate.php on line 7
+[18-Oct-2022 14:13:42 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\Middleware\CheckForMaintenanceMode' not found in /home/knoprotec/public_html/app/Http/Middleware/CheckForMaintenanceMode.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Http/Middleware/CheckForMaintenanceMode.php on line 7
+[18-Oct-2022 14:13:44 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Cookie\Middleware\EncryptCookies' not found in /home/knoprotec/public_html/app/Http/Middleware/EncryptCookies.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Http/Middleware/EncryptCookies.php on line 7
+[18-Oct-2022 14:13:46 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\Middleware\TrimStrings' not found in /home/knoprotec/public_html/app/Http/Middleware/TrimStrings.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Http/Middleware/TrimStrings.php on line 7
+[18-Oct-2022 14:13:47 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Fideloper\Proxy\TrustProxies' not found in /home/knoprotec/public_html/app/Http/Middleware/TrustProxies.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Http/Middleware/TrustProxies.php on line 8
+[18-Oct-2022 14:13:50 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\Middleware\VerifyCsrfToken' not found in /home/knoprotec/public_html/app/Http/Middleware/VerifyCsrfToken.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Http/Middleware/VerifyCsrfToken.php on line 7
+[20-Oct-2022 13:56:23 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Auth\Middleware\Authenticate' not found in /home/knoprotec/public_html/app/Http/Middleware/Authenticate.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Http/Middleware/Authenticate.php on line 7
+[20-Oct-2022 13:56:26 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\Middleware\CheckForMaintenanceMode' not found in /home/knoprotec/public_html/app/Http/Middleware/CheckForMaintenanceMode.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Http/Middleware/CheckForMaintenanceMode.php on line 7
+[20-Oct-2022 13:56:30 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Cookie\Middleware\EncryptCookies' not found in /home/knoprotec/public_html/app/Http/Middleware/EncryptCookies.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Http/Middleware/EncryptCookies.php on line 7
+[20-Oct-2022 13:56:33 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\Middleware\TrimStrings' not found in /home/knoprotec/public_html/app/Http/Middleware/TrimStrings.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Http/Middleware/TrimStrings.php on line 7
+[20-Oct-2022 13:56:37 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Fideloper\Proxy\TrustProxies' not found in /home/knoprotec/public_html/app/Http/Middleware/TrustProxies.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Http/Middleware/TrustProxies.php on line 8
+[20-Oct-2022 13:56:40 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\Middleware\VerifyCsrfToken' not found in /home/knoprotec/public_html/app/Http/Middleware/VerifyCsrfToken.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Http/Middleware/VerifyCsrfToken.php on line 7
+[23-Oct-2022 06:39:11 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Auth\Middleware\Authenticate' not found in /home/knoprotec/public_html/app/Http/Middleware/Authenticate.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Http/Middleware/Authenticate.php on line 7
+[23-Oct-2022 06:39:17 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\Middleware\CheckForMaintenanceMode' not found in /home/knoprotec/public_html/app/Http/Middleware/CheckForMaintenanceMode.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Http/Middleware/CheckForMaintenanceMode.php on line 7
+[23-Oct-2022 06:39:22 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Cookie\Middleware\EncryptCookies' not found in /home/knoprotec/public_html/app/Http/Middleware/EncryptCookies.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Http/Middleware/EncryptCookies.php on line 7
+[23-Oct-2022 06:40:10 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\Middleware\TrimStrings' not found in /home/knoprotec/public_html/app/Http/Middleware/TrimStrings.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Http/Middleware/TrimStrings.php on line 7
+[23-Oct-2022 06:40:13 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Fideloper\Proxy\TrustProxies' not found in /home/knoprotec/public_html/app/Http/Middleware/TrustProxies.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Http/Middleware/TrustProxies.php on line 8
+[23-Oct-2022 06:40:15 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\Middleware\VerifyCsrfToken' not found in /home/knoprotec/public_html/app/Http/Middleware/VerifyCsrfToken.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Http/Middleware/VerifyCsrfToken.php on line 7
+[25-Oct-2022 00:03:10 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Auth\Middleware\Authenticate' not found in /home/knoprotec/public_html/app/Http/Middleware/Authenticate.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Http/Middleware/Authenticate.php on line 7
+[25-Oct-2022 00:03:13 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\Middleware\CheckForMaintenanceMode' not found in /home/knoprotec/public_html/app/Http/Middleware/CheckForMaintenanceMode.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Http/Middleware/CheckForMaintenanceMode.php on line 7
+[25-Oct-2022 00:03:17 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Cookie\Middleware\EncryptCookies' not found in /home/knoprotec/public_html/app/Http/Middleware/EncryptCookies.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Http/Middleware/EncryptCookies.php on line 7
+[25-Oct-2022 00:03:23 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\Middleware\TrimStrings' not found in /home/knoprotec/public_html/app/Http/Middleware/TrimStrings.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Http/Middleware/TrimStrings.php on line 7
+[25-Oct-2022 00:03:30 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Fideloper\Proxy\TrustProxies' not found in /home/knoprotec/public_html/app/Http/Middleware/TrustProxies.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Http/Middleware/TrustProxies.php on line 8
+[25-Oct-2022 00:03:37 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\Middleware\VerifyCsrfToken' not found in /home/knoprotec/public_html/app/Http/Middleware/VerifyCsrfToken.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Http/Middleware/VerifyCsrfToken.php on line 7
+[25-Oct-2022 10:22:11 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Fideloper\Proxy\TrustProxies' not found in /home/knoprotec/public_html/app/Http/Middleware/TrustProxies.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Http/Middleware/TrustProxies.php on line 8
+[25-Oct-2022 10:23:44 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\Middleware\VerifyCsrfToken' not found in /home/knoprotec/public_html/app/Http/Middleware/VerifyCsrfToken.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Http/Middleware/VerifyCsrfToken.php on line 7
+[25-Oct-2022 10:24:16 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Auth\Middleware\Authenticate' not found in /home/knoprotec/public_html/app/Http/Middleware/Authenticate.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Http/Middleware/Authenticate.php on line 7
+[25-Oct-2022 10:30:59 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\Middleware\CheckForMaintenanceMode' not found in /home/knoprotec/public_html/app/Http/Middleware/CheckForMaintenanceMode.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Http/Middleware/CheckForMaintenanceMode.php on line 7
+[25-Oct-2022 10:32:13 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Cookie\Middleware\EncryptCookies' not found in /home/knoprotec/public_html/app/Http/Middleware/EncryptCookies.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Http/Middleware/EncryptCookies.php on line 7
+[25-Oct-2022 10:33:42 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\Middleware\TrimStrings' not found in /home/knoprotec/public_html/app/Http/Middleware/TrimStrings.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Http/Middleware/TrimStrings.php on line 7
+[27-Oct-2022 16:05:18 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Auth\Middleware\Authenticate' not found in /home/knoprotec/public_html/app/Http/Middleware/Authenticate.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Http/Middleware/Authenticate.php on line 7
+[27-Oct-2022 16:05:28 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\Middleware\CheckForMaintenanceMode' not found in /home/knoprotec/public_html/app/Http/Middleware/CheckForMaintenanceMode.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Http/Middleware/CheckForMaintenanceMode.php on line 7
+[27-Oct-2022 16:05:40 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Cookie\Middleware\EncryptCookies' not found in /home/knoprotec/public_html/app/Http/Middleware/EncryptCookies.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Http/Middleware/EncryptCookies.php on line 7
+[27-Oct-2022 16:05:54 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\Middleware\TrimStrings' not found in /home/knoprotec/public_html/app/Http/Middleware/TrimStrings.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Http/Middleware/TrimStrings.php on line 7
+[27-Oct-2022 16:06:05 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Fideloper\Proxy\TrustProxies' not found in /home/knoprotec/public_html/app/Http/Middleware/TrustProxies.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Http/Middleware/TrustProxies.php on line 8
+[27-Oct-2022 16:06:19 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\Middleware\VerifyCsrfToken' not found in /home/knoprotec/public_html/app/Http/Middleware/VerifyCsrfToken.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Http/Middleware/VerifyCsrfToken.php on line 7
+[24-Apr-2023 08:13:25 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\Middleware\VerifyCsrfToken' not found in /home/knoprotec/public_html/app/Http/Middleware/VerifyCsrfToken.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Http/Middleware/VerifyCsrfToken.php on line 7

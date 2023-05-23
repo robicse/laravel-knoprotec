@@ -1,0 +1,684 @@
+[31-Aug-2022 14:19:36 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/knoprotec/public_html/app/Models/Web/Alert.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Models/Web/Alert.php on line 8
+[31-Aug-2022 14:19:37 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/knoprotec/public_html/app/Models/Web/Cart.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Models/Web/Cart.php on line 13
+[31-Aug-2022 14:19:39 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/knoprotec/public_html/app/Models/Web/Currency.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Models/Web/Currency.php on line 8
+[31-Aug-2022 14:19:41 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/knoprotec/public_html/app/Models/Web/Customer.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Models/Web/Customer.php on line 18
+[31-Aug-2022 14:19:43 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/knoprotec/public_html/app/Models/Web/Index.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Models/Web/Index.php on line 13
+[31-Aug-2022 14:19:45 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/knoprotec/public_html/app/Models/Web/Languages.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Models/Web/Languages.php on line 13
+[31-Aug-2022 14:19:47 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/knoprotec/public_html/app/Models/Web/News.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Models/Web/News.php on line 14
+[31-Aug-2022 14:19:49 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/knoprotec/public_html/app/Models/Web/Order.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Models/Web/Order.php on line 17
+[31-Aug-2022 14:19:51 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/knoprotec/public_html/app/Models/Web/Products.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Models/Web/Products.php on line 10
+[31-Aug-2022 14:19:53 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/knoprotec/public_html/app/Models/Web/Shipping.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Models/Web/Shipping.php on line 8
+[31-Aug-2022 14:19:55 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/knoprotec/public_html/app/Models/Web/WebSetting.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Models/Web/WebSetting.php on line 8
+[05-Sep-2022 02:57:16 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/knoprotec/public_html/app/Models/Web/Alert.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Models/Web/Alert.php on line 8
+[05-Sep-2022 02:57:20 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/knoprotec/public_html/app/Models/Web/Cart.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Models/Web/Cart.php on line 13
+[05-Sep-2022 02:57:23 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/knoprotec/public_html/app/Models/Web/Currency.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Models/Web/Currency.php on line 8
+[05-Sep-2022 02:57:24 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/knoprotec/public_html/app/Models/Web/Customer.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Models/Web/Customer.php on line 18
+[05-Sep-2022 02:57:30 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/knoprotec/public_html/app/Models/Web/Index.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Models/Web/Index.php on line 13
+[05-Sep-2022 02:57:46 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/knoprotec/public_html/app/Models/Web/Languages.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Models/Web/Languages.php on line 13
+[05-Sep-2022 02:58:00 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/knoprotec/public_html/app/Models/Web/News.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Models/Web/News.php on line 14
+[05-Sep-2022 02:58:05 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/knoprotec/public_html/app/Models/Web/Order.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Models/Web/Order.php on line 17
+[05-Sep-2022 02:58:39 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/knoprotec/public_html/app/Models/Web/Products.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Models/Web/Products.php on line 10
+[05-Sep-2022 02:59:08 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/knoprotec/public_html/app/Models/Web/Shipping.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Models/Web/Shipping.php on line 8
+[05-Sep-2022 02:59:31 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/knoprotec/public_html/app/Models/Web/WebSetting.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Models/Web/WebSetting.php on line 8
+[10-Sep-2022 09:49:04 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/knoprotec/public_html/app/Models/Web/WebSetting.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Models/Web/WebSetting.php on line 8
+[10-Sep-2022 15:51:50 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/knoprotec/public_html/app/Models/Web/Customer.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Models/Web/Customer.php on line 18
+[10-Sep-2022 18:23:41 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/knoprotec/public_html/app/Models/Web/Index.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Models/Web/Index.php on line 13
+[10-Sep-2022 20:12:36 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/knoprotec/public_html/app/Models/Web/Languages.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Models/Web/Languages.php on line 13
+[11-Sep-2022 01:58:13 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/knoprotec/public_html/app/Models/Web/News.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Models/Web/News.php on line 14
+[11-Sep-2022 13:49:29 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/knoprotec/public_html/app/Models/Web/Cart.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Models/Web/Cart.php on line 13
+[12-Sep-2022 05:53:01 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/knoprotec/public_html/app/Models/Web/Alert.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Models/Web/Alert.php on line 8
+[12-Sep-2022 11:20:33 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/knoprotec/public_html/app/Models/Web/Shipping.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Models/Web/Shipping.php on line 8
+[12-Sep-2022 17:23:09 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/knoprotec/public_html/app/Models/Web/Currency.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Models/Web/Currency.php on line 8
+[12-Sep-2022 21:29:03 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/knoprotec/public_html/app/Models/Web/Order.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Models/Web/Order.php on line 17
+[13-Sep-2022 01:07:37 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/knoprotec/public_html/app/Models/Web/Products.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Models/Web/Products.php on line 10
+[13-Sep-2022 12:57:46 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/knoprotec/public_html/app/Models/Web/News.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Models/Web/News.php on line 14
+[13-Sep-2022 12:59:23 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/knoprotec/public_html/app/Models/Web/Alert.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Models/Web/Alert.php on line 8
+[13-Sep-2022 13:01:07 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/knoprotec/public_html/app/Models/Web/Shipping.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Models/Web/Shipping.php on line 8
+[13-Sep-2022 13:02:34 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/knoprotec/public_html/app/Models/Web/Currency.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Models/Web/Currency.php on line 8
+[13-Sep-2022 13:03:01 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/knoprotec/public_html/app/Models/Web/Order.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Models/Web/Order.php on line 17
+[13-Sep-2022 13:04:48 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/knoprotec/public_html/app/Models/Web/WebSetting.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Models/Web/WebSetting.php on line 8
+[13-Sep-2022 13:06:35 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/knoprotec/public_html/app/Models/Web/Products.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Models/Web/Products.php on line 10
+[13-Sep-2022 13:08:51 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/knoprotec/public_html/app/Models/Web/Index.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Models/Web/Index.php on line 13
+[13-Sep-2022 13:09:46 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/knoprotec/public_html/app/Models/Web/Customer.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Models/Web/Customer.php on line 18
+[13-Sep-2022 13:10:00 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/knoprotec/public_html/app/Models/Web/Languages.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Models/Web/Languages.php on line 13
+[13-Sep-2022 13:10:40 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/knoprotec/public_html/app/Models/Web/Cart.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Models/Web/Cart.php on line 13
+[24-Sep-2022 03:04:30 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/knoprotec/public_html/app/Models/Web/Alert.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Models/Web/Alert.php on line 8
+[24-Sep-2022 03:04:34 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/knoprotec/public_html/app/Models/Web/Cart.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Models/Web/Cart.php on line 13
+[24-Sep-2022 03:04:39 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/knoprotec/public_html/app/Models/Web/Currency.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Models/Web/Currency.php on line 8
+[24-Sep-2022 03:04:43 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/knoprotec/public_html/app/Models/Web/Customer.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Models/Web/Customer.php on line 18
+[24-Sep-2022 03:04:48 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/knoprotec/public_html/app/Models/Web/Index.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Models/Web/Index.php on line 13
+[24-Sep-2022 03:04:51 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/knoprotec/public_html/app/Models/Web/Languages.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Models/Web/Languages.php on line 13
+[24-Sep-2022 03:04:55 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/knoprotec/public_html/app/Models/Web/News.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Models/Web/News.php on line 14
+[24-Sep-2022 03:04:59 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/knoprotec/public_html/app/Models/Web/Order.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Models/Web/Order.php on line 17
+[24-Sep-2022 03:05:05 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/knoprotec/public_html/app/Models/Web/Products.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Models/Web/Products.php on line 10
+[24-Sep-2022 03:05:09 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/knoprotec/public_html/app/Models/Web/Shipping.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Models/Web/Shipping.php on line 8
+[24-Sep-2022 03:05:13 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/knoprotec/public_html/app/Models/Web/WebSetting.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Models/Web/WebSetting.php on line 8
+[26-Sep-2022 14:28:26 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/knoprotec/public_html/app/Models/Web/Alert.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Models/Web/Alert.php on line 8
+[26-Sep-2022 14:28:29 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/knoprotec/public_html/app/Models/Web/Cart.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Models/Web/Cart.php on line 13
+[26-Sep-2022 14:28:33 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/knoprotec/public_html/app/Models/Web/Currency.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Models/Web/Currency.php on line 8
+[26-Sep-2022 14:28:36 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/knoprotec/public_html/app/Models/Web/Customer.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Models/Web/Customer.php on line 18
+[26-Sep-2022 14:28:40 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/knoprotec/public_html/app/Models/Web/Index.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Models/Web/Index.php on line 13
+[26-Sep-2022 14:28:42 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/knoprotec/public_html/app/Models/Web/Languages.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Models/Web/Languages.php on line 13
+[26-Sep-2022 14:28:45 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/knoprotec/public_html/app/Models/Web/News.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Models/Web/News.php on line 14
+[26-Sep-2022 14:28:49 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/knoprotec/public_html/app/Models/Web/Order.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Models/Web/Order.php on line 17
+[26-Sep-2022 14:28:51 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/knoprotec/public_html/app/Models/Web/Products.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Models/Web/Products.php on line 10
+[26-Sep-2022 14:28:55 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/knoprotec/public_html/app/Models/Web/Shipping.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Models/Web/Shipping.php on line 8
+[26-Sep-2022 14:29:00 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/knoprotec/public_html/app/Models/Web/WebSetting.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Models/Web/WebSetting.php on line 8
+[28-Sep-2022 02:10:56 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/knoprotec/public_html/app/Models/Web/Alert.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Models/Web/Alert.php on line 8
+[28-Sep-2022 02:11:00 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/knoprotec/public_html/app/Models/Web/Cart.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Models/Web/Cart.php on line 13
+[28-Sep-2022 02:11:03 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/knoprotec/public_html/app/Models/Web/Currency.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Models/Web/Currency.php on line 8
+[28-Sep-2022 02:11:05 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/knoprotec/public_html/app/Models/Web/Customer.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Models/Web/Customer.php on line 18
+[28-Sep-2022 02:11:08 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/knoprotec/public_html/app/Models/Web/Index.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Models/Web/Index.php on line 13
+[28-Sep-2022 02:11:11 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/knoprotec/public_html/app/Models/Web/Languages.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Models/Web/Languages.php on line 13
+[28-Sep-2022 02:11:16 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/knoprotec/public_html/app/Models/Web/News.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Models/Web/News.php on line 14
+[28-Sep-2022 02:11:17 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/knoprotec/public_html/app/Models/Web/Order.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Models/Web/Order.php on line 17
+[28-Sep-2022 02:11:22 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/knoprotec/public_html/app/Models/Web/Products.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Models/Web/Products.php on line 10
+[28-Sep-2022 02:11:24 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/knoprotec/public_html/app/Models/Web/Shipping.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Models/Web/Shipping.php on line 8
+[28-Sep-2022 02:11:27 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/knoprotec/public_html/app/Models/Web/WebSetting.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Models/Web/WebSetting.php on line 8
+[11-Oct-2022 21:39:17 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/knoprotec/public_html/app/Models/Web/Order.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Models/Web/Order.php on line 17
+[11-Oct-2022 21:40:08 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/knoprotec/public_html/app/Models/Web/Index.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Models/Web/Index.php on line 13
+[11-Oct-2022 21:40:32 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/knoprotec/public_html/app/Models/Web/Customer.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Models/Web/Customer.php on line 18
+[11-Oct-2022 21:40:46 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/knoprotec/public_html/app/Models/Web/Products.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Models/Web/Products.php on line 10
+[11-Oct-2022 21:41:58 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/knoprotec/public_html/app/Models/Web/Languages.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Models/Web/Languages.php on line 13
+[11-Oct-2022 21:42:23 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/knoprotec/public_html/app/Models/Web/WebSetting.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Models/Web/WebSetting.php on line 8
+[11-Oct-2022 21:42:50 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/knoprotec/public_html/app/Models/Web/Alert.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Models/Web/Alert.php on line 8
+[11-Oct-2022 21:44:16 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/knoprotec/public_html/app/Models/Web/Shipping.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Models/Web/Shipping.php on line 8
+[11-Oct-2022 21:45:42 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/knoprotec/public_html/app/Models/Web/News.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Models/Web/News.php on line 14
+[11-Oct-2022 21:47:25 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/knoprotec/public_html/app/Models/Web/Cart.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Models/Web/Cart.php on line 13
+[11-Oct-2022 21:47:55 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/knoprotec/public_html/app/Models/Web/Currency.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Models/Web/Currency.php on line 8
+[13-Oct-2022 05:11:51 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/knoprotec/public_html/app/Models/Web/Alert.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Models/Web/Alert.php on line 8
+[13-Oct-2022 05:11:53 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/knoprotec/public_html/app/Models/Web/Cart.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Models/Web/Cart.php on line 13
+[13-Oct-2022 05:11:55 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/knoprotec/public_html/app/Models/Web/Currency.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Models/Web/Currency.php on line 8
+[13-Oct-2022 05:11:57 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/knoprotec/public_html/app/Models/Web/Customer.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Models/Web/Customer.php on line 18
+[13-Oct-2022 05:12:00 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/knoprotec/public_html/app/Models/Web/Index.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Models/Web/Index.php on line 13
+[13-Oct-2022 05:12:04 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/knoprotec/public_html/app/Models/Web/Languages.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Models/Web/Languages.php on line 13
+[13-Oct-2022 05:12:07 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/knoprotec/public_html/app/Models/Web/News.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Models/Web/News.php on line 14
+[13-Oct-2022 05:12:09 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/knoprotec/public_html/app/Models/Web/Order.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Models/Web/Order.php on line 17
+[13-Oct-2022 05:12:12 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/knoprotec/public_html/app/Models/Web/Products.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Models/Web/Products.php on line 10
+[13-Oct-2022 05:12:14 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/knoprotec/public_html/app/Models/Web/Shipping.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Models/Web/Shipping.php on line 8
+[13-Oct-2022 05:12:17 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/knoprotec/public_html/app/Models/Web/WebSetting.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Models/Web/WebSetting.php on line 8
+[18-Oct-2022 14:19:47 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/knoprotec/public_html/app/Models/Web/Alert.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Models/Web/Alert.php on line 8
+[18-Oct-2022 14:19:49 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/knoprotec/public_html/app/Models/Web/Cart.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Models/Web/Cart.php on line 13
+[18-Oct-2022 14:19:51 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/knoprotec/public_html/app/Models/Web/Currency.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Models/Web/Currency.php on line 8
+[18-Oct-2022 14:19:53 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/knoprotec/public_html/app/Models/Web/Customer.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Models/Web/Customer.php on line 18
+[18-Oct-2022 14:19:55 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/knoprotec/public_html/app/Models/Web/Index.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Models/Web/Index.php on line 13
+[18-Oct-2022 14:19:57 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/knoprotec/public_html/app/Models/Web/Languages.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Models/Web/Languages.php on line 13
+[18-Oct-2022 14:20:04 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/knoprotec/public_html/app/Models/Web/News.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Models/Web/News.php on line 14
+[18-Oct-2022 14:20:08 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/knoprotec/public_html/app/Models/Web/Order.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Models/Web/Order.php on line 17
+[18-Oct-2022 14:20:11 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/knoprotec/public_html/app/Models/Web/Products.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Models/Web/Products.php on line 10
+[18-Oct-2022 14:20:14 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/knoprotec/public_html/app/Models/Web/Shipping.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Models/Web/Shipping.php on line 8
+[18-Oct-2022 14:20:15 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/knoprotec/public_html/app/Models/Web/WebSetting.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Models/Web/WebSetting.php on line 8
+[20-Oct-2022 13:52:49 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/knoprotec/public_html/app/Models/Web/Alert.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Models/Web/Alert.php on line 8
+[20-Oct-2022 13:52:55 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/knoprotec/public_html/app/Models/Web/Cart.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Models/Web/Cart.php on line 13
+[20-Oct-2022 13:52:58 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/knoprotec/public_html/app/Models/Web/Currency.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Models/Web/Currency.php on line 8
+[20-Oct-2022 13:53:04 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/knoprotec/public_html/app/Models/Web/Customer.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Models/Web/Customer.php on line 18
+[20-Oct-2022 13:53:06 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/knoprotec/public_html/app/Models/Web/Index.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Models/Web/Index.php on line 13
+[20-Oct-2022 13:53:12 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/knoprotec/public_html/app/Models/Web/Languages.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Models/Web/Languages.php on line 13
+[20-Oct-2022 13:53:14 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/knoprotec/public_html/app/Models/Web/News.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Models/Web/News.php on line 14
+[20-Oct-2022 13:53:22 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/knoprotec/public_html/app/Models/Web/Order.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Models/Web/Order.php on line 17
+[20-Oct-2022 13:53:26 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/knoprotec/public_html/app/Models/Web/Products.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Models/Web/Products.php on line 10
+[20-Oct-2022 13:53:29 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/knoprotec/public_html/app/Models/Web/Shipping.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Models/Web/Shipping.php on line 8
+[20-Oct-2022 13:53:33 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/knoprotec/public_html/app/Models/Web/WebSetting.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Models/Web/WebSetting.php on line 8
+[23-Oct-2022 06:45:48 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/knoprotec/public_html/app/Models/Web/Alert.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Models/Web/Alert.php on line 8
+[23-Oct-2022 06:45:52 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/knoprotec/public_html/app/Models/Web/Cart.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Models/Web/Cart.php on line 13
+[23-Oct-2022 06:45:58 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/knoprotec/public_html/app/Models/Web/Currency.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Models/Web/Currency.php on line 8
+[23-Oct-2022 06:46:00 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/knoprotec/public_html/app/Models/Web/Customer.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Models/Web/Customer.php on line 18
+[23-Oct-2022 06:46:02 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/knoprotec/public_html/app/Models/Web/Index.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Models/Web/Index.php on line 13
+[23-Oct-2022 06:46:06 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/knoprotec/public_html/app/Models/Web/Languages.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Models/Web/Languages.php on line 13
+[23-Oct-2022 06:46:10 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/knoprotec/public_html/app/Models/Web/News.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Models/Web/News.php on line 14
+[23-Oct-2022 06:46:12 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/knoprotec/public_html/app/Models/Web/Order.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Models/Web/Order.php on line 17
+[23-Oct-2022 06:46:14 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/knoprotec/public_html/app/Models/Web/Products.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Models/Web/Products.php on line 10
+[23-Oct-2022 06:46:18 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/knoprotec/public_html/app/Models/Web/Shipping.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Models/Web/Shipping.php on line 8
+[23-Oct-2022 06:46:20 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/knoprotec/public_html/app/Models/Web/WebSetting.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Models/Web/WebSetting.php on line 8
+[25-Oct-2022 00:13:09 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/knoprotec/public_html/app/Models/Web/Alert.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Models/Web/Alert.php on line 8
+[25-Oct-2022 00:13:13 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/knoprotec/public_html/app/Models/Web/Cart.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Models/Web/Cart.php on line 13
+[25-Oct-2022 00:13:18 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/knoprotec/public_html/app/Models/Web/Currency.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Models/Web/Currency.php on line 8
+[25-Oct-2022 00:13:23 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/knoprotec/public_html/app/Models/Web/Customer.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Models/Web/Customer.php on line 18
+[25-Oct-2022 00:13:28 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/knoprotec/public_html/app/Models/Web/Index.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Models/Web/Index.php on line 13
+[25-Oct-2022 00:13:35 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/knoprotec/public_html/app/Models/Web/Languages.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Models/Web/Languages.php on line 13
+[25-Oct-2022 00:13:42 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/knoprotec/public_html/app/Models/Web/News.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Models/Web/News.php on line 14
+[25-Oct-2022 00:13:48 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/knoprotec/public_html/app/Models/Web/Order.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Models/Web/Order.php on line 17
+[25-Oct-2022 00:13:52 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/knoprotec/public_html/app/Models/Web/Products.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Models/Web/Products.php on line 10
+[25-Oct-2022 00:13:55 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/knoprotec/public_html/app/Models/Web/Shipping.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Models/Web/Shipping.php on line 8
+[25-Oct-2022 00:14:29 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/knoprotec/public_html/app/Models/Web/WebSetting.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Models/Web/WebSetting.php on line 8
+[25-Oct-2022 10:36:29 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/knoprotec/public_html/app/Models/Web/Products.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Models/Web/Products.php on line 10
+[25-Oct-2022 10:38:39 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/knoprotec/public_html/app/Models/Web/Order.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Models/Web/Order.php on line 17
+[25-Oct-2022 10:40:03 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/knoprotec/public_html/app/Models/Web/News.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Models/Web/News.php on line 14
+[25-Oct-2022 10:40:16 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/knoprotec/public_html/app/Models/Web/Currency.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Models/Web/Currency.php on line 8
+[25-Oct-2022 10:42:04 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/knoprotec/public_html/app/Models/Web/WebSetting.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Models/Web/WebSetting.php on line 8
+[25-Oct-2022 10:43:51 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/knoprotec/public_html/app/Models/Web/Shipping.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Models/Web/Shipping.php on line 8
+[25-Oct-2022 10:44:12 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/knoprotec/public_html/app/Models/Web/Index.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Models/Web/Index.php on line 13
+[25-Oct-2022 10:44:49 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/knoprotec/public_html/app/Models/Web/Customer.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Models/Web/Customer.php on line 18
+[25-Oct-2022 10:45:18 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/knoprotec/public_html/app/Models/Web/Alert.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Models/Web/Alert.php on line 8
+[25-Oct-2022 10:48:12 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/knoprotec/public_html/app/Models/Web/Cart.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Models/Web/Cart.php on line 13
+[25-Oct-2022 10:49:15 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/knoprotec/public_html/app/Models/Web/Languages.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Models/Web/Languages.php on line 13
+[27-Oct-2022 15:49:42 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/knoprotec/public_html/app/Models/Web/Alert.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Models/Web/Alert.php on line 8
+[27-Oct-2022 15:49:45 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/knoprotec/public_html/app/Models/Web/Cart.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Models/Web/Cart.php on line 13
+[27-Oct-2022 15:49:51 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/knoprotec/public_html/app/Models/Web/Currency.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Models/Web/Currency.php on line 8
+[27-Oct-2022 15:49:57 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/knoprotec/public_html/app/Models/Web/Customer.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Models/Web/Customer.php on line 18
+[27-Oct-2022 15:50:00 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/knoprotec/public_html/app/Models/Web/Index.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Models/Web/Index.php on line 13
+[27-Oct-2022 15:50:33 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/knoprotec/public_html/app/Models/Web/Languages.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Models/Web/Languages.php on line 13
+[27-Oct-2022 15:50:38 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/knoprotec/public_html/app/Models/Web/News.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Models/Web/News.php on line 14
+[27-Oct-2022 15:50:42 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/knoprotec/public_html/app/Models/Web/Order.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Models/Web/Order.php on line 17
+[27-Oct-2022 15:50:46 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/knoprotec/public_html/app/Models/Web/Products.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Models/Web/Products.php on line 10
+[27-Oct-2022 15:50:53 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/knoprotec/public_html/app/Models/Web/Shipping.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Models/Web/Shipping.php on line 8
+[27-Oct-2022 15:50:57 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/knoprotec/public_html/app/Models/Web/WebSetting.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Models/Web/WebSetting.php on line 8
+[14-May-2023 12:30:07 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/knoprotec/public_html/app/Models/Web/Index.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Models/Web/Index.php on line 13
+[14-May-2023 12:31:11 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/knoprotec/public_html/app/Models/Web/Products.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Models/Web/Products.php on line 10
+[14-May-2023 12:31:26 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/knoprotec/public_html/app/Models/Web/Cart.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Models/Web/Cart.php on line 13
+[14-May-2023 12:58:27 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/knoprotec/public_html/app/Models/Web/Shipping.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Models/Web/Shipping.php on line 8
+[14-May-2023 12:58:43 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/knoprotec/public_html/app/Models/Web/Languages.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Models/Web/Languages.php on line 13
+[14-May-2023 13:36:53 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/knoprotec/public_html/app/Models/Web/Currency.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Models/Web/Currency.php on line 8

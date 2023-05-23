@@ -1,0 +1,176 @@
+[29-Aug-2022 12:00:49 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function app_path() in /home/knoprotec/public_html/app/braintree/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/braintree/index.php on line 3
+[29-Aug-2022 12:00:50 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function app_path() in /home/knoprotec/public_html/app/braintree/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/braintree/index.php on line 3
+[29-Aug-2022 12:00:50 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function app_path() in /home/knoprotec/public_html/app/braintree/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/braintree/index.php on line 3
+[29-Aug-2022 12:00:51 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function app_path() in /home/knoprotec/public_html/app/braintree/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/braintree/index.php on line 3
+[29-Aug-2022 12:04:46 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function app_path() in /home/knoprotec/public_html/app/braintree/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/braintree/index.php on line 3
+[29-Aug-2022 12:04:47 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function app_path() in /home/knoprotec/public_html/app/braintree/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/braintree/index.php on line 3
+[29-Aug-2022 12:04:47 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function app_path() in /home/knoprotec/public_html/app/braintree/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/braintree/index.php on line 3
+[29-Aug-2022 12:04:47 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function app_path() in /home/knoprotec/public_html/app/braintree/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/braintree/index.php on line 3
+[29-Aug-2022 13:33:54 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function app_path() in /home/knoprotec/public_html/app/braintree/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/braintree/index.php on line 3
+[30-Aug-2022 12:56:09 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function app_path() in /home/knoprotec/public_html/app/braintree/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/braintree/index.php on line 3
+[01-Sep-2022 09:25:19 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function app_path() in /home/knoprotec/public_html/app/braintree/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/braintree/index.php on line 3
+[04-Sep-2022 16:20:52 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function app_path() in /home/knoprotec/public_html/app/braintree/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/braintree/index.php on line 3
+[06-Sep-2022 11:12:58 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function app_path() in /home/knoprotec/public_html/app/braintree/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/braintree/index.php on line 3
+[07-Sep-2022 02:39:34 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function app_path() in /home/knoprotec/public_html/app/braintree/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/braintree/index.php on line 3
+[10-Sep-2022 16:51:18 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function app_path() in /home/knoprotec/public_html/app/braintree/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/braintree/index.php on line 3
+[12-Sep-2022 20:07:21 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function app_path() in /home/knoprotec/public_html/app/braintree/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/braintree/index.php on line 3
+[21-Sep-2022 04:23:17 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function app_path() in /home/knoprotec/public_html/app/braintree/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/braintree/index.php on line 3
+[21-Sep-2022 04:23:18 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function app_path() in /home/knoprotec/public_html/app/braintree/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/braintree/index.php on line 3
+[21-Sep-2022 04:23:18 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function app_path() in /home/knoprotec/public_html/app/braintree/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/braintree/index.php on line 3
+[21-Sep-2022 04:23:19 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function app_path() in /home/knoprotec/public_html/app/braintree/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/braintree/index.php on line 3
+[22-Sep-2022 01:40:54 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function app_path() in /home/knoprotec/public_html/app/braintree/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/braintree/index.php on line 3
+[22-Sep-2022 20:01:57 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function app_path() in /home/knoprotec/public_html/app/braintree/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/braintree/index.php on line 3
+[24-Sep-2022 03:06:10 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function app_path() in /home/knoprotec/public_html/app/braintree/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/braintree/index.php on line 3
+[27-Sep-2022 16:38:46 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function app_path() in /home/knoprotec/public_html/app/braintree/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/braintree/index.php on line 3
+[01-Oct-2022 14:27:24 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function app_path() in /home/knoprotec/public_html/app/braintree/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/braintree/index.php on line 3
+[08-Oct-2022 20:05:17 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function app_path() in /home/knoprotec/public_html/app/braintree/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/braintree/index.php on line 3
+[11-Oct-2022 05:55:49 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function app_path() in /home/knoprotec/public_html/app/braintree/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/braintree/index.php on line 3
+[11-Oct-2022 16:23:43 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function app_path() in /home/knoprotec/public_html/app/braintree/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/braintree/index.php on line 3
+[13-Oct-2022 05:12:46 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function app_path() in /home/knoprotec/public_html/app/braintree/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/braintree/index.php on line 3
+[21-Oct-2022 11:10:12 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function app_path() in /home/knoprotec/public_html/app/braintree/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/braintree/index.php on line 3
+[22-Oct-2022 03:30:10 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function app_path() in /home/knoprotec/public_html/app/braintree/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/braintree/index.php on line 3
+[23-Oct-2022 06:47:24 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function app_path() in /home/knoprotec/public_html/app/braintree/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/braintree/index.php on line 3
+[25-Oct-2022 05:16:46 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function app_path() in /home/knoprotec/public_html/app/braintree/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/braintree/index.php on line 3
+[28-Oct-2022 07:48:21 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function app_path() in /home/knoprotec/public_html/app/braintree/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/braintree/index.php on line 3
+[29-Oct-2022 09:15:33 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function app_path() in /home/knoprotec/public_html/app/braintree/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/braintree/index.php on line 3
+[30-Oct-2022 13:12:33 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function app_path() in /home/knoprotec/public_html/app/braintree/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/braintree/index.php on line 3
+[31-Oct-2022 15:02:09 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function app_path() in /home/knoprotec/public_html/app/braintree/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/braintree/index.php on line 3
+[02-Nov-2022 07:37:02 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function app_path() in /home/knoprotec/public_html/app/braintree/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/braintree/index.php on line 3
+[02-Nov-2022 08:54:53 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function app_path() in /home/knoprotec/public_html/app/braintree/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/braintree/index.php on line 3
+[02-Nov-2022 22:08:14 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function app_path() in /home/knoprotec/public_html/app/braintree/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/braintree/index.php on line 3
+[17-Mar-2023 05:37:23 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function app_path() in /home/knoprotec/public_html/app/braintree/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/braintree/index.php on line 3
+[17-Mar-2023 22:32:45 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function app_path() in /home/knoprotec/public_html/app/braintree/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/braintree/index.php on line 3
+[03-May-2023 10:37:36 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function app_path() in /home/knoprotec/public_html/app/braintree/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/braintree/index.php on line 3
+[03-May-2023 15:34:22 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function app_path() in /home/knoprotec/public_html/app/braintree/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/braintree/index.php on line 3

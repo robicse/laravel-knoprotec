@@ -1,0 +1,306 @@
+[30-Aug-2022 00:03:22 America/New_York] PHP Notice:  Undefined index: access_key in /home/knoprotec/public_html/app/ups/ups.php on line 11
+[30-Aug-2022 00:03:22 America/New_York] PHP Notice:  Undefined index: user_name in /home/knoprotec/public_html/app/ups/ups.php on line 12
+[30-Aug-2022 00:03:22 America/New_York] PHP Notice:  Undefined index: password in /home/knoprotec/public_html/app/ups/ups.php on line 13
+[30-Aug-2022 00:03:22 America/New_York] PHP Notice:  Undefined index: pickUpType in /home/knoprotec/public_html/app/ups/ups.php on line 15
+[30-Aug-2022 00:03:22 America/New_York] PHP Notice:  Undefined index: shipToPostalCode in /home/knoprotec/public_html/app/ups/ups.php on line 17
+[30-Aug-2022 00:03:22 America/New_York] PHP Notice:  Undefined index: shipToCountryCode in /home/knoprotec/public_html/app/ups/ups.php on line 18
+[30-Aug-2022 00:03:22 America/New_York] PHP Notice:  Undefined index: shipFromPostalCode in /home/knoprotec/public_html/app/ups/ups.php on line 20
+[30-Aug-2022 00:03:22 America/New_York] PHP Notice:  Undefined index: shipFromCountryCode in /home/knoprotec/public_html/app/ups/ups.php on line 21
+[30-Aug-2022 00:03:22 America/New_York] PHP Notice:  Undefined index: cServiceCodes in /home/knoprotec/public_html/app/ups/ups.php on line 25
+[30-Aug-2022 00:03:22 America/New_York] PHP Notice:  Undefined index: packagingType in /home/knoprotec/public_html/app/ups/ups.php on line 26
+[30-Aug-2022 00:03:22 America/New_York] PHP Notice:  Undefined index: packageWeight in /home/knoprotec/public_html/app/ups/ups.php on line 34
+[30-Aug-2022 00:03:23 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/app/ups/UpsClass.php on line 160
+[30-Aug-2022 00:03:23 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/app/ups/UpsClass.php on line 160
+[30-Aug-2022 00:03:23 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/app/ups/UpsClass.php on line 160
+[30-Aug-2022 00:03:23 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/app/ups/UpsClass.php on line 174
+[30-Aug-2022 00:03:23 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/app/ups/UpsClass.php on line 174
+[30-Aug-2022 00:03:23 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/app/ups/UpsClass.php on line 174
+[30-Aug-2022 00:03:23 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/app/ups/UpsClass.php on line 174
+[30-Aug-2022 16:44:47 America/New_York] PHP Notice:  Undefined index: access_key in /home/knoprotec/public_html/app/ups/ups.php on line 11
+[30-Aug-2022 16:44:47 America/New_York] PHP Notice:  Undefined index: user_name in /home/knoprotec/public_html/app/ups/ups.php on line 12
+[30-Aug-2022 16:44:47 America/New_York] PHP Notice:  Undefined index: password in /home/knoprotec/public_html/app/ups/ups.php on line 13
+[30-Aug-2022 16:44:47 America/New_York] PHP Notice:  Undefined index: pickUpType in /home/knoprotec/public_html/app/ups/ups.php on line 15
+[30-Aug-2022 16:44:47 America/New_York] PHP Notice:  Undefined index: shipToPostalCode in /home/knoprotec/public_html/app/ups/ups.php on line 17
+[30-Aug-2022 16:44:47 America/New_York] PHP Notice:  Undefined index: shipToCountryCode in /home/knoprotec/public_html/app/ups/ups.php on line 18
+[30-Aug-2022 16:44:47 America/New_York] PHP Notice:  Undefined index: shipFromPostalCode in /home/knoprotec/public_html/app/ups/ups.php on line 20
+[30-Aug-2022 16:44:47 America/New_York] PHP Notice:  Undefined index: shipFromCountryCode in /home/knoprotec/public_html/app/ups/ups.php on line 21
+[30-Aug-2022 16:44:47 America/New_York] PHP Notice:  Undefined index: cServiceCodes in /home/knoprotec/public_html/app/ups/ups.php on line 25
+[30-Aug-2022 16:44:47 America/New_York] PHP Notice:  Undefined index: packagingType in /home/knoprotec/public_html/app/ups/ups.php on line 26
+[30-Aug-2022 16:44:47 America/New_York] PHP Notice:  Undefined index: packageWeight in /home/knoprotec/public_html/app/ups/ups.php on line 34
+[30-Aug-2022 16:44:47 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/app/ups/UpsClass.php on line 160
+[30-Aug-2022 16:44:47 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/app/ups/UpsClass.php on line 160
+[30-Aug-2022 16:44:47 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/app/ups/UpsClass.php on line 160
+[30-Aug-2022 16:44:47 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/app/ups/UpsClass.php on line 174
+[30-Aug-2022 16:44:47 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/app/ups/UpsClass.php on line 174
+[30-Aug-2022 16:44:47 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/app/ups/UpsClass.php on line 174
+[30-Aug-2022 16:44:47 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/app/ups/UpsClass.php on line 174
+[11-Sep-2022 23:51:28 America/New_York] PHP Notice:  Undefined index: access_key in /home/knoprotec/public_html/app/ups/ups.php on line 11
+[11-Sep-2022 23:51:28 America/New_York] PHP Notice:  Undefined index: user_name in /home/knoprotec/public_html/app/ups/ups.php on line 12
+[11-Sep-2022 23:51:28 America/New_York] PHP Notice:  Undefined index: password in /home/knoprotec/public_html/app/ups/ups.php on line 13
+[11-Sep-2022 23:51:28 America/New_York] PHP Notice:  Undefined index: pickUpType in /home/knoprotec/public_html/app/ups/ups.php on line 15
+[11-Sep-2022 23:51:28 America/New_York] PHP Notice:  Undefined index: shipToPostalCode in /home/knoprotec/public_html/app/ups/ups.php on line 17
+[11-Sep-2022 23:51:28 America/New_York] PHP Notice:  Undefined index: shipToCountryCode in /home/knoprotec/public_html/app/ups/ups.php on line 18
+[11-Sep-2022 23:51:28 America/New_York] PHP Notice:  Undefined index: shipFromPostalCode in /home/knoprotec/public_html/app/ups/ups.php on line 20
+[11-Sep-2022 23:51:28 America/New_York] PHP Notice:  Undefined index: shipFromCountryCode in /home/knoprotec/public_html/app/ups/ups.php on line 21
+[11-Sep-2022 23:51:28 America/New_York] PHP Notice:  Undefined index: cServiceCodes in /home/knoprotec/public_html/app/ups/ups.php on line 25
+[11-Sep-2022 23:51:28 America/New_York] PHP Notice:  Undefined index: packagingType in /home/knoprotec/public_html/app/ups/ups.php on line 26
+[11-Sep-2022 23:51:28 America/New_York] PHP Notice:  Undefined index: packageWeight in /home/knoprotec/public_html/app/ups/ups.php on line 34
+[11-Sep-2022 23:51:28 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/app/ups/UpsClass.php on line 160
+[11-Sep-2022 23:51:28 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/app/ups/UpsClass.php on line 160
+[11-Sep-2022 23:51:28 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/app/ups/UpsClass.php on line 160
+[11-Sep-2022 23:51:28 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/app/ups/UpsClass.php on line 174
+[11-Sep-2022 23:51:28 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/app/ups/UpsClass.php on line 174
+[11-Sep-2022 23:51:28 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/app/ups/UpsClass.php on line 174
+[11-Sep-2022 23:51:28 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/app/ups/UpsClass.php on line 174
+[13-Sep-2022 04:41:05 America/New_York] PHP Notice:  Undefined index: access_key in /home/knoprotec/public_html/app/ups/ups.php on line 11
+[13-Sep-2022 04:41:05 America/New_York] PHP Notice:  Undefined index: user_name in /home/knoprotec/public_html/app/ups/ups.php on line 12
+[13-Sep-2022 04:41:05 America/New_York] PHP Notice:  Undefined index: password in /home/knoprotec/public_html/app/ups/ups.php on line 13
+[13-Sep-2022 04:41:05 America/New_York] PHP Notice:  Undefined index: pickUpType in /home/knoprotec/public_html/app/ups/ups.php on line 15
+[13-Sep-2022 04:41:05 America/New_York] PHP Notice:  Undefined index: shipToPostalCode in /home/knoprotec/public_html/app/ups/ups.php on line 17
+[13-Sep-2022 04:41:05 America/New_York] PHP Notice:  Undefined index: shipToCountryCode in /home/knoprotec/public_html/app/ups/ups.php on line 18
+[13-Sep-2022 04:41:05 America/New_York] PHP Notice:  Undefined index: shipFromPostalCode in /home/knoprotec/public_html/app/ups/ups.php on line 20
+[13-Sep-2022 04:41:05 America/New_York] PHP Notice:  Undefined index: shipFromCountryCode in /home/knoprotec/public_html/app/ups/ups.php on line 21
+[13-Sep-2022 04:41:05 America/New_York] PHP Notice:  Undefined index: cServiceCodes in /home/knoprotec/public_html/app/ups/ups.php on line 25
+[13-Sep-2022 04:41:05 America/New_York] PHP Notice:  Undefined index: packagingType in /home/knoprotec/public_html/app/ups/ups.php on line 26
+[13-Sep-2022 04:41:05 America/New_York] PHP Notice:  Undefined index: packageWeight in /home/knoprotec/public_html/app/ups/ups.php on line 34
+[13-Sep-2022 04:41:05 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/app/ups/UpsClass.php on line 160
+[13-Sep-2022 04:41:05 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/app/ups/UpsClass.php on line 160
+[13-Sep-2022 04:41:05 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/app/ups/UpsClass.php on line 160
+[13-Sep-2022 04:41:05 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/app/ups/UpsClass.php on line 174
+[13-Sep-2022 04:41:05 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/app/ups/UpsClass.php on line 174
+[13-Sep-2022 04:41:05 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/app/ups/UpsClass.php on line 174
+[13-Sep-2022 04:41:05 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/app/ups/UpsClass.php on line 174
+[15-Sep-2022 14:15:58 America/New_York] PHP Notice:  Undefined index: access_key in /home/knoprotec/public_html/app/ups/ups.php on line 11
+[15-Sep-2022 14:15:58 America/New_York] PHP Notice:  Undefined index: user_name in /home/knoprotec/public_html/app/ups/ups.php on line 12
+[15-Sep-2022 14:15:58 America/New_York] PHP Notice:  Undefined index: password in /home/knoprotec/public_html/app/ups/ups.php on line 13
+[15-Sep-2022 14:15:58 America/New_York] PHP Notice:  Undefined index: pickUpType in /home/knoprotec/public_html/app/ups/ups.php on line 15
+[15-Sep-2022 14:15:58 America/New_York] PHP Notice:  Undefined index: shipToPostalCode in /home/knoprotec/public_html/app/ups/ups.php on line 17
+[15-Sep-2022 14:15:58 America/New_York] PHP Notice:  Undefined index: shipToCountryCode in /home/knoprotec/public_html/app/ups/ups.php on line 18
+[15-Sep-2022 14:15:58 America/New_York] PHP Notice:  Undefined index: shipFromPostalCode in /home/knoprotec/public_html/app/ups/ups.php on line 20
+[15-Sep-2022 14:15:58 America/New_York] PHP Notice:  Undefined index: shipFromCountryCode in /home/knoprotec/public_html/app/ups/ups.php on line 21
+[15-Sep-2022 14:15:58 America/New_York] PHP Notice:  Undefined index: cServiceCodes in /home/knoprotec/public_html/app/ups/ups.php on line 25
+[15-Sep-2022 14:15:58 America/New_York] PHP Notice:  Undefined index: packagingType in /home/knoprotec/public_html/app/ups/ups.php on line 26
+[15-Sep-2022 14:15:58 America/New_York] PHP Notice:  Undefined index: packageWeight in /home/knoprotec/public_html/app/ups/ups.php on line 34
+[15-Sep-2022 14:15:58 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/app/ups/UpsClass.php on line 160
+[15-Sep-2022 14:15:58 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/app/ups/UpsClass.php on line 160
+[15-Sep-2022 14:15:58 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/app/ups/UpsClass.php on line 160
+[15-Sep-2022 14:15:58 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/app/ups/UpsClass.php on line 174
+[15-Sep-2022 14:15:58 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/app/ups/UpsClass.php on line 174
+[15-Sep-2022 14:15:58 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/app/ups/UpsClass.php on line 174
+[15-Sep-2022 14:15:58 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/app/ups/UpsClass.php on line 174
+[15-Sep-2022 18:43:28 America/New_York] PHP Notice:  Undefined index: access_key in /home/knoprotec/public_html/app/ups/ups.php on line 11
+[15-Sep-2022 18:43:28 America/New_York] PHP Notice:  Undefined index: user_name in /home/knoprotec/public_html/app/ups/ups.php on line 12
+[15-Sep-2022 18:43:28 America/New_York] PHP Notice:  Undefined index: password in /home/knoprotec/public_html/app/ups/ups.php on line 13
+[15-Sep-2022 18:43:28 America/New_York] PHP Notice:  Undefined index: pickUpType in /home/knoprotec/public_html/app/ups/ups.php on line 15
+[15-Sep-2022 18:43:28 America/New_York] PHP Notice:  Undefined index: shipToPostalCode in /home/knoprotec/public_html/app/ups/ups.php on line 17
+[15-Sep-2022 18:43:28 America/New_York] PHP Notice:  Undefined index: shipToCountryCode in /home/knoprotec/public_html/app/ups/ups.php on line 18
+[15-Sep-2022 18:43:28 America/New_York] PHP Notice:  Undefined index: shipFromPostalCode in /home/knoprotec/public_html/app/ups/ups.php on line 20
+[15-Sep-2022 18:43:28 America/New_York] PHP Notice:  Undefined index: shipFromCountryCode in /home/knoprotec/public_html/app/ups/ups.php on line 21
+[15-Sep-2022 18:43:28 America/New_York] PHP Notice:  Undefined index: cServiceCodes in /home/knoprotec/public_html/app/ups/ups.php on line 25
+[15-Sep-2022 18:43:28 America/New_York] PHP Notice:  Undefined index: packagingType in /home/knoprotec/public_html/app/ups/ups.php on line 26
+[15-Sep-2022 18:43:28 America/New_York] PHP Notice:  Undefined index: packageWeight in /home/knoprotec/public_html/app/ups/ups.php on line 34
+[15-Sep-2022 18:43:29 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/app/ups/UpsClass.php on line 160
+[15-Sep-2022 18:43:29 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/app/ups/UpsClass.php on line 160
+[15-Sep-2022 18:43:29 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/app/ups/UpsClass.php on line 160
+[15-Sep-2022 18:43:29 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/app/ups/UpsClass.php on line 174
+[15-Sep-2022 18:43:29 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/app/ups/UpsClass.php on line 174
+[15-Sep-2022 18:43:29 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/app/ups/UpsClass.php on line 174
+[15-Sep-2022 18:43:29 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/app/ups/UpsClass.php on line 174
+[22-Sep-2022 20:03:18 America/New_York] PHP Notice:  Undefined index: access_key in /home/knoprotec/public_html/app/ups/ups.php on line 11
+[22-Sep-2022 20:03:18 America/New_York] PHP Notice:  Undefined index: user_name in /home/knoprotec/public_html/app/ups/ups.php on line 12
+[22-Sep-2022 20:03:18 America/New_York] PHP Notice:  Undefined index: password in /home/knoprotec/public_html/app/ups/ups.php on line 13
+[22-Sep-2022 20:03:18 America/New_York] PHP Notice:  Undefined index: pickUpType in /home/knoprotec/public_html/app/ups/ups.php on line 15
+[22-Sep-2022 20:03:18 America/New_York] PHP Notice:  Undefined index: shipToPostalCode in /home/knoprotec/public_html/app/ups/ups.php on line 17
+[22-Sep-2022 20:03:18 America/New_York] PHP Notice:  Undefined index: shipToCountryCode in /home/knoprotec/public_html/app/ups/ups.php on line 18
+[22-Sep-2022 20:03:18 America/New_York] PHP Notice:  Undefined index: shipFromPostalCode in /home/knoprotec/public_html/app/ups/ups.php on line 20
+[22-Sep-2022 20:03:18 America/New_York] PHP Notice:  Undefined index: shipFromCountryCode in /home/knoprotec/public_html/app/ups/ups.php on line 21
+[22-Sep-2022 20:03:18 America/New_York] PHP Notice:  Undefined index: cServiceCodes in /home/knoprotec/public_html/app/ups/ups.php on line 25
+[22-Sep-2022 20:03:18 America/New_York] PHP Notice:  Undefined index: packagingType in /home/knoprotec/public_html/app/ups/ups.php on line 26
+[22-Sep-2022 20:03:18 America/New_York] PHP Notice:  Undefined index: packageWeight in /home/knoprotec/public_html/app/ups/ups.php on line 34
+[22-Sep-2022 20:03:18 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/app/ups/UpsClass.php on line 160
+[22-Sep-2022 20:03:18 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/app/ups/UpsClass.php on line 160
+[22-Sep-2022 20:03:18 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/app/ups/UpsClass.php on line 160
+[22-Sep-2022 20:03:18 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/app/ups/UpsClass.php on line 174
+[22-Sep-2022 20:03:18 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/app/ups/UpsClass.php on line 174
+[22-Sep-2022 20:03:18 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/app/ups/UpsClass.php on line 174
+[22-Sep-2022 20:03:18 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/app/ups/UpsClass.php on line 174
+[27-Sep-2022 16:50:43 America/New_York] PHP Notice:  Undefined index: access_key in /home/knoprotec/public_html/app/ups/ups.php on line 11
+[27-Sep-2022 16:50:43 America/New_York] PHP Notice:  Undefined index: user_name in /home/knoprotec/public_html/app/ups/ups.php on line 12
+[27-Sep-2022 16:50:43 America/New_York] PHP Notice:  Undefined index: password in /home/knoprotec/public_html/app/ups/ups.php on line 13
+[27-Sep-2022 16:50:43 America/New_York] PHP Notice:  Undefined index: pickUpType in /home/knoprotec/public_html/app/ups/ups.php on line 15
+[27-Sep-2022 16:50:43 America/New_York] PHP Notice:  Undefined index: shipToPostalCode in /home/knoprotec/public_html/app/ups/ups.php on line 17
+[27-Sep-2022 16:50:43 America/New_York] PHP Notice:  Undefined index: shipToCountryCode in /home/knoprotec/public_html/app/ups/ups.php on line 18
+[27-Sep-2022 16:50:43 America/New_York] PHP Notice:  Undefined index: shipFromPostalCode in /home/knoprotec/public_html/app/ups/ups.php on line 20
+[27-Sep-2022 16:50:43 America/New_York] PHP Notice:  Undefined index: shipFromCountryCode in /home/knoprotec/public_html/app/ups/ups.php on line 21
+[27-Sep-2022 16:50:43 America/New_York] PHP Notice:  Undefined index: cServiceCodes in /home/knoprotec/public_html/app/ups/ups.php on line 25
+[27-Sep-2022 16:50:43 America/New_York] PHP Notice:  Undefined index: packagingType in /home/knoprotec/public_html/app/ups/ups.php on line 26
+[27-Sep-2022 16:50:43 America/New_York] PHP Notice:  Undefined index: packageWeight in /home/knoprotec/public_html/app/ups/ups.php on line 34
+[27-Sep-2022 16:50:43 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/app/ups/UpsClass.php on line 160
+[27-Sep-2022 16:50:43 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/app/ups/UpsClass.php on line 160
+[27-Sep-2022 16:50:43 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/app/ups/UpsClass.php on line 160
+[27-Sep-2022 16:50:43 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/app/ups/UpsClass.php on line 174
+[27-Sep-2022 16:50:43 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/app/ups/UpsClass.php on line 174
+[27-Sep-2022 16:50:43 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/app/ups/UpsClass.php on line 174
+[27-Sep-2022 16:50:43 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/app/ups/UpsClass.php on line 174
+[05-Oct-2022 18:46:25 America/New_York] PHP Notice:  Undefined index: access_key in /home/knoprotec/public_html/app/ups/ups.php on line 11
+[05-Oct-2022 18:46:25 America/New_York] PHP Notice:  Undefined index: user_name in /home/knoprotec/public_html/app/ups/ups.php on line 12
+[05-Oct-2022 18:46:25 America/New_York] PHP Notice:  Undefined index: password in /home/knoprotec/public_html/app/ups/ups.php on line 13
+[05-Oct-2022 18:46:25 America/New_York] PHP Notice:  Undefined index: pickUpType in /home/knoprotec/public_html/app/ups/ups.php on line 15
+[05-Oct-2022 18:46:25 America/New_York] PHP Notice:  Undefined index: shipToPostalCode in /home/knoprotec/public_html/app/ups/ups.php on line 17
+[05-Oct-2022 18:46:25 America/New_York] PHP Notice:  Undefined index: shipToCountryCode in /home/knoprotec/public_html/app/ups/ups.php on line 18
+[05-Oct-2022 18:46:25 America/New_York] PHP Notice:  Undefined index: shipFromPostalCode in /home/knoprotec/public_html/app/ups/ups.php on line 20
+[05-Oct-2022 18:46:25 America/New_York] PHP Notice:  Undefined index: shipFromCountryCode in /home/knoprotec/public_html/app/ups/ups.php on line 21
+[05-Oct-2022 18:46:25 America/New_York] PHP Notice:  Undefined index: cServiceCodes in /home/knoprotec/public_html/app/ups/ups.php on line 25
+[05-Oct-2022 18:46:25 America/New_York] PHP Notice:  Undefined index: packagingType in /home/knoprotec/public_html/app/ups/ups.php on line 26
+[05-Oct-2022 18:46:25 America/New_York] PHP Notice:  Undefined index: packageWeight in /home/knoprotec/public_html/app/ups/ups.php on line 34
+[05-Oct-2022 18:46:25 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/app/ups/UpsClass.php on line 160
+[05-Oct-2022 18:46:25 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/app/ups/UpsClass.php on line 160
+[05-Oct-2022 18:46:25 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/app/ups/UpsClass.php on line 160
+[05-Oct-2022 18:46:25 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/app/ups/UpsClass.php on line 174
+[05-Oct-2022 18:46:25 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/app/ups/UpsClass.php on line 174
+[05-Oct-2022 18:46:25 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/app/ups/UpsClass.php on line 174
+[05-Oct-2022 18:46:25 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/app/ups/UpsClass.php on line 174
+[08-Oct-2022 00:34:15 America/New_York] PHP Notice:  Undefined index: access_key in /home/knoprotec/public_html/app/ups/ups.php on line 11
+[08-Oct-2022 00:34:15 America/New_York] PHP Notice:  Undefined index: user_name in /home/knoprotec/public_html/app/ups/ups.php on line 12
+[08-Oct-2022 00:34:15 America/New_York] PHP Notice:  Undefined index: password in /home/knoprotec/public_html/app/ups/ups.php on line 13
+[08-Oct-2022 00:34:15 America/New_York] PHP Notice:  Undefined index: pickUpType in /home/knoprotec/public_html/app/ups/ups.php on line 15
+[08-Oct-2022 00:34:15 America/New_York] PHP Notice:  Undefined index: shipToPostalCode in /home/knoprotec/public_html/app/ups/ups.php on line 17
+[08-Oct-2022 00:34:15 America/New_York] PHP Notice:  Undefined index: shipToCountryCode in /home/knoprotec/public_html/app/ups/ups.php on line 18
+[08-Oct-2022 00:34:15 America/New_York] PHP Notice:  Undefined index: shipFromPostalCode in /home/knoprotec/public_html/app/ups/ups.php on line 20
+[08-Oct-2022 00:34:15 America/New_York] PHP Notice:  Undefined index: shipFromCountryCode in /home/knoprotec/public_html/app/ups/ups.php on line 21
+[08-Oct-2022 00:34:15 America/New_York] PHP Notice:  Undefined index: cServiceCodes in /home/knoprotec/public_html/app/ups/ups.php on line 25
+[08-Oct-2022 00:34:15 America/New_York] PHP Notice:  Undefined index: packagingType in /home/knoprotec/public_html/app/ups/ups.php on line 26
+[08-Oct-2022 00:34:15 America/New_York] PHP Notice:  Undefined index: packageWeight in /home/knoprotec/public_html/app/ups/ups.php on line 34
+[08-Oct-2022 00:34:16 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/app/ups/UpsClass.php on line 160
+[08-Oct-2022 00:34:16 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/app/ups/UpsClass.php on line 160
+[08-Oct-2022 00:34:16 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/app/ups/UpsClass.php on line 160
+[08-Oct-2022 00:34:16 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/app/ups/UpsClass.php on line 174
+[08-Oct-2022 00:34:16 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/app/ups/UpsClass.php on line 174
+[08-Oct-2022 00:34:16 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/app/ups/UpsClass.php on line 174
+[08-Oct-2022 00:34:16 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/app/ups/UpsClass.php on line 174
+[11-Oct-2022 05:57:00 America/New_York] PHP Notice:  Undefined index: access_key in /home/knoprotec/public_html/app/ups/ups.php on line 11
+[11-Oct-2022 05:57:00 America/New_York] PHP Notice:  Undefined index: user_name in /home/knoprotec/public_html/app/ups/ups.php on line 12
+[11-Oct-2022 05:57:00 America/New_York] PHP Notice:  Undefined index: password in /home/knoprotec/public_html/app/ups/ups.php on line 13
+[11-Oct-2022 05:57:00 America/New_York] PHP Notice:  Undefined index: pickUpType in /home/knoprotec/public_html/app/ups/ups.php on line 15
+[11-Oct-2022 05:57:00 America/New_York] PHP Notice:  Undefined index: shipToPostalCode in /home/knoprotec/public_html/app/ups/ups.php on line 17
+[11-Oct-2022 05:57:00 America/New_York] PHP Notice:  Undefined index: shipToCountryCode in /home/knoprotec/public_html/app/ups/ups.php on line 18
+[11-Oct-2022 05:57:00 America/New_York] PHP Notice:  Undefined index: shipFromPostalCode in /home/knoprotec/public_html/app/ups/ups.php on line 20
+[11-Oct-2022 05:57:00 America/New_York] PHP Notice:  Undefined index: shipFromCountryCode in /home/knoprotec/public_html/app/ups/ups.php on line 21
+[11-Oct-2022 05:57:00 America/New_York] PHP Notice:  Undefined index: cServiceCodes in /home/knoprotec/public_html/app/ups/ups.php on line 25
+[11-Oct-2022 05:57:00 America/New_York] PHP Notice:  Undefined index: packagingType in /home/knoprotec/public_html/app/ups/ups.php on line 26
+[11-Oct-2022 05:57:00 America/New_York] PHP Notice:  Undefined index: packageWeight in /home/knoprotec/public_html/app/ups/ups.php on line 34
+[11-Oct-2022 05:57:00 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/app/ups/UpsClass.php on line 160
+[11-Oct-2022 05:57:00 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/app/ups/UpsClass.php on line 160
+[11-Oct-2022 05:57:00 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/app/ups/UpsClass.php on line 160
+[11-Oct-2022 05:57:00 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/app/ups/UpsClass.php on line 174
+[11-Oct-2022 05:57:00 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/app/ups/UpsClass.php on line 174
+[11-Oct-2022 05:57:00 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/app/ups/UpsClass.php on line 174
+[11-Oct-2022 05:57:00 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/app/ups/UpsClass.php on line 174
+[11-Oct-2022 18:55:54 America/New_York] PHP Notice:  Undefined index: access_key in /home/knoprotec/public_html/app/ups/ups.php on line 11
+[11-Oct-2022 18:55:54 America/New_York] PHP Notice:  Undefined index: user_name in /home/knoprotec/public_html/app/ups/ups.php on line 12
+[11-Oct-2022 18:55:54 America/New_York] PHP Notice:  Undefined index: password in /home/knoprotec/public_html/app/ups/ups.php on line 13
+[11-Oct-2022 18:55:54 America/New_York] PHP Notice:  Undefined index: pickUpType in /home/knoprotec/public_html/app/ups/ups.php on line 15
+[11-Oct-2022 18:55:54 America/New_York] PHP Notice:  Undefined index: shipToPostalCode in /home/knoprotec/public_html/app/ups/ups.php on line 17
+[11-Oct-2022 18:55:54 America/New_York] PHP Notice:  Undefined index: shipToCountryCode in /home/knoprotec/public_html/app/ups/ups.php on line 18
+[11-Oct-2022 18:55:54 America/New_York] PHP Notice:  Undefined index: shipFromPostalCode in /home/knoprotec/public_html/app/ups/ups.php on line 20
+[11-Oct-2022 18:55:54 America/New_York] PHP Notice:  Undefined index: shipFromCountryCode in /home/knoprotec/public_html/app/ups/ups.php on line 21
+[11-Oct-2022 18:55:54 America/New_York] PHP Notice:  Undefined index: cServiceCodes in /home/knoprotec/public_html/app/ups/ups.php on line 25
+[11-Oct-2022 18:55:54 America/New_York] PHP Notice:  Undefined index: packagingType in /home/knoprotec/public_html/app/ups/ups.php on line 26
+[11-Oct-2022 18:55:54 America/New_York] PHP Notice:  Undefined index: packageWeight in /home/knoprotec/public_html/app/ups/ups.php on line 34
+[11-Oct-2022 18:55:54 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/app/ups/UpsClass.php on line 160
+[11-Oct-2022 18:55:54 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/app/ups/UpsClass.php on line 160
+[11-Oct-2022 18:55:54 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/app/ups/UpsClass.php on line 160
+[11-Oct-2022 18:55:54 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/app/ups/UpsClass.php on line 174
+[11-Oct-2022 18:55:54 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/app/ups/UpsClass.php on line 174
+[11-Oct-2022 18:55:54 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/app/ups/UpsClass.php on line 174
+[11-Oct-2022 18:55:54 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/app/ups/UpsClass.php on line 174
+[22-Oct-2022 03:32:05 America/New_York] PHP Notice:  Undefined index: access_key in /home/knoprotec/public_html/app/ups/ups.php on line 11
+[22-Oct-2022 03:32:05 America/New_York] PHP Notice:  Undefined index: user_name in /home/knoprotec/public_html/app/ups/ups.php on line 12
+[22-Oct-2022 03:32:05 America/New_York] PHP Notice:  Undefined index: password in /home/knoprotec/public_html/app/ups/ups.php on line 13
+[22-Oct-2022 03:32:05 America/New_York] PHP Notice:  Undefined index: pickUpType in /home/knoprotec/public_html/app/ups/ups.php on line 15
+[22-Oct-2022 03:32:05 America/New_York] PHP Notice:  Undefined index: shipToPostalCode in /home/knoprotec/public_html/app/ups/ups.php on line 17
+[22-Oct-2022 03:32:05 America/New_York] PHP Notice:  Undefined index: shipToCountryCode in /home/knoprotec/public_html/app/ups/ups.php on line 18
+[22-Oct-2022 03:32:05 America/New_York] PHP Notice:  Undefined index: shipFromPostalCode in /home/knoprotec/public_html/app/ups/ups.php on line 20
+[22-Oct-2022 03:32:05 America/New_York] PHP Notice:  Undefined index: shipFromCountryCode in /home/knoprotec/public_html/app/ups/ups.php on line 21
+[22-Oct-2022 03:32:05 America/New_York] PHP Notice:  Undefined index: cServiceCodes in /home/knoprotec/public_html/app/ups/ups.php on line 25
+[22-Oct-2022 03:32:05 America/New_York] PHP Notice:  Undefined index: packagingType in /home/knoprotec/public_html/app/ups/ups.php on line 26
+[22-Oct-2022 03:32:05 America/New_York] PHP Notice:  Undefined index: packageWeight in /home/knoprotec/public_html/app/ups/ups.php on line 34
+[22-Oct-2022 03:32:06 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/app/ups/UpsClass.php on line 160
+[22-Oct-2022 03:32:06 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/app/ups/UpsClass.php on line 160
+[22-Oct-2022 03:32:06 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/app/ups/UpsClass.php on line 160
+[22-Oct-2022 03:32:06 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/app/ups/UpsClass.php on line 174
+[22-Oct-2022 03:32:06 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/app/ups/UpsClass.php on line 174
+[22-Oct-2022 03:32:06 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/app/ups/UpsClass.php on line 174
+[22-Oct-2022 03:32:06 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/app/ups/UpsClass.php on line 174
+[23-Oct-2022 13:50:50 America/New_York] PHP Notice:  Undefined index: access_key in /home/knoprotec/public_html/app/ups/ups.php on line 11
+[23-Oct-2022 13:50:50 America/New_York] PHP Notice:  Undefined index: user_name in /home/knoprotec/public_html/app/ups/ups.php on line 12
+[23-Oct-2022 13:50:50 America/New_York] PHP Notice:  Undefined index: password in /home/knoprotec/public_html/app/ups/ups.php on line 13
+[23-Oct-2022 13:50:50 America/New_York] PHP Notice:  Undefined index: pickUpType in /home/knoprotec/public_html/app/ups/ups.php on line 15
+[23-Oct-2022 13:50:50 America/New_York] PHP Notice:  Undefined index: shipToPostalCode in /home/knoprotec/public_html/app/ups/ups.php on line 17
+[23-Oct-2022 13:50:50 America/New_York] PHP Notice:  Undefined index: shipToCountryCode in /home/knoprotec/public_html/app/ups/ups.php on line 18
+[23-Oct-2022 13:50:50 America/New_York] PHP Notice:  Undefined index: shipFromPostalCode in /home/knoprotec/public_html/app/ups/ups.php on line 20
+[23-Oct-2022 13:50:50 America/New_York] PHP Notice:  Undefined index: shipFromCountryCode in /home/knoprotec/public_html/app/ups/ups.php on line 21
+[23-Oct-2022 13:50:50 America/New_York] PHP Notice:  Undefined index: cServiceCodes in /home/knoprotec/public_html/app/ups/ups.php on line 25
+[23-Oct-2022 13:50:50 America/New_York] PHP Notice:  Undefined index: packagingType in /home/knoprotec/public_html/app/ups/ups.php on line 26
+[23-Oct-2022 13:50:50 America/New_York] PHP Notice:  Undefined index: packageWeight in /home/knoprotec/public_html/app/ups/ups.php on line 34
+[23-Oct-2022 13:50:50 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/app/ups/UpsClass.php on line 160
+[23-Oct-2022 13:50:50 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/app/ups/UpsClass.php on line 160
+[23-Oct-2022 13:50:50 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/app/ups/UpsClass.php on line 160
+[23-Oct-2022 13:50:50 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/app/ups/UpsClass.php on line 174
+[23-Oct-2022 13:50:50 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/app/ups/UpsClass.php on line 174
+[23-Oct-2022 13:50:50 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/app/ups/UpsClass.php on line 174
+[23-Oct-2022 13:50:50 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/app/ups/UpsClass.php on line 174
+[25-Oct-2022 08:15:14 America/New_York] PHP Notice:  Undefined index: access_key in /home/knoprotec/public_html/app/ups/ups.php on line 11
+[25-Oct-2022 08:15:14 America/New_York] PHP Notice:  Undefined index: user_name in /home/knoprotec/public_html/app/ups/ups.php on line 12
+[25-Oct-2022 08:15:14 America/New_York] PHP Notice:  Undefined index: password in /home/knoprotec/public_html/app/ups/ups.php on line 13
+[25-Oct-2022 08:15:14 America/New_York] PHP Notice:  Undefined index: pickUpType in /home/knoprotec/public_html/app/ups/ups.php on line 15
+[25-Oct-2022 08:15:14 America/New_York] PHP Notice:  Undefined index: shipToPostalCode in /home/knoprotec/public_html/app/ups/ups.php on line 17
+[25-Oct-2022 08:15:14 America/New_York] PHP Notice:  Undefined index: shipToCountryCode in /home/knoprotec/public_html/app/ups/ups.php on line 18
+[25-Oct-2022 08:15:14 America/New_York] PHP Notice:  Undefined index: shipFromPostalCode in /home/knoprotec/public_html/app/ups/ups.php on line 20
+[25-Oct-2022 08:15:14 America/New_York] PHP Notice:  Undefined index: shipFromCountryCode in /home/knoprotec/public_html/app/ups/ups.php on line 21
+[25-Oct-2022 08:15:14 America/New_York] PHP Notice:  Undefined index: cServiceCodes in /home/knoprotec/public_html/app/ups/ups.php on line 25
+[25-Oct-2022 08:15:14 America/New_York] PHP Notice:  Undefined index: packagingType in /home/knoprotec/public_html/app/ups/ups.php on line 26
+[25-Oct-2022 08:15:14 America/New_York] PHP Notice:  Undefined index: packageWeight in /home/knoprotec/public_html/app/ups/ups.php on line 34
+[25-Oct-2022 08:15:14 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/app/ups/UpsClass.php on line 160
+[25-Oct-2022 08:15:14 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/app/ups/UpsClass.php on line 160
+[25-Oct-2022 08:15:14 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/app/ups/UpsClass.php on line 160
+[25-Oct-2022 08:15:14 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/app/ups/UpsClass.php on line 174
+[25-Oct-2022 08:15:14 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/app/ups/UpsClass.php on line 174
+[25-Oct-2022 08:15:14 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/app/ups/UpsClass.php on line 174
+[25-Oct-2022 08:15:14 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/app/ups/UpsClass.php on line 174
+[02-Nov-2022 07:53:02 America/New_York] PHP Notice:  Undefined index: access_key in /home/knoprotec/public_html/app/ups/ups.php on line 11
+[02-Nov-2022 07:53:02 America/New_York] PHP Notice:  Undefined index: user_name in /home/knoprotec/public_html/app/ups/ups.php on line 12
+[02-Nov-2022 07:53:02 America/New_York] PHP Notice:  Undefined index: password in /home/knoprotec/public_html/app/ups/ups.php on line 13
+[02-Nov-2022 07:53:02 America/New_York] PHP Notice:  Undefined index: pickUpType in /home/knoprotec/public_html/app/ups/ups.php on line 15
+[02-Nov-2022 07:53:02 America/New_York] PHP Notice:  Undefined index: shipToPostalCode in /home/knoprotec/public_html/app/ups/ups.php on line 17
+[02-Nov-2022 07:53:02 America/New_York] PHP Notice:  Undefined index: shipToCountryCode in /home/knoprotec/public_html/app/ups/ups.php on line 18
+[02-Nov-2022 07:53:02 America/New_York] PHP Notice:  Undefined index: shipFromPostalCode in /home/knoprotec/public_html/app/ups/ups.php on line 20
+[02-Nov-2022 07:53:02 America/New_York] PHP Notice:  Undefined index: shipFromCountryCode in /home/knoprotec/public_html/app/ups/ups.php on line 21
+[02-Nov-2022 07:53:02 America/New_York] PHP Notice:  Undefined index: cServiceCodes in /home/knoprotec/public_html/app/ups/ups.php on line 25
+[02-Nov-2022 07:53:02 America/New_York] PHP Notice:  Undefined index: packagingType in /home/knoprotec/public_html/app/ups/ups.php on line 26
+[02-Nov-2022 07:53:02 America/New_York] PHP Notice:  Undefined index: packageWeight in /home/knoprotec/public_html/app/ups/ups.php on line 34
+[02-Nov-2022 07:53:02 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/app/ups/UpsClass.php on line 160
+[02-Nov-2022 07:53:02 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/app/ups/UpsClass.php on line 160
+[02-Nov-2022 07:53:02 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/app/ups/UpsClass.php on line 160
+[02-Nov-2022 07:53:02 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/app/ups/UpsClass.php on line 174
+[02-Nov-2022 07:53:02 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/app/ups/UpsClass.php on line 174
+[02-Nov-2022 07:53:02 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/app/ups/UpsClass.php on line 174
+[02-Nov-2022 07:53:02 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/app/ups/UpsClass.php on line 174
+[17-Feb-2023 06:37:51 America/New_York] PHP Notice:  Undefined index: access_key in /home/knoprotec/public_html/app/ups/ups.php on line 11
+[17-Feb-2023 06:37:51 America/New_York] PHP Notice:  Undefined index: user_name in /home/knoprotec/public_html/app/ups/ups.php on line 12
+[17-Feb-2023 06:37:51 America/New_York] PHP Notice:  Undefined index: password in /home/knoprotec/public_html/app/ups/ups.php on line 13
+[17-Feb-2023 06:37:51 America/New_York] PHP Notice:  Undefined index: pickUpType in /home/knoprotec/public_html/app/ups/ups.php on line 15
+[17-Feb-2023 06:37:51 America/New_York] PHP Notice:  Undefined index: shipToPostalCode in /home/knoprotec/public_html/app/ups/ups.php on line 17
+[17-Feb-2023 06:37:51 America/New_York] PHP Notice:  Undefined index: shipToCountryCode in /home/knoprotec/public_html/app/ups/ups.php on line 18
+[17-Feb-2023 06:37:51 America/New_York] PHP Notice:  Undefined index: shipFromPostalCode in /home/knoprotec/public_html/app/ups/ups.php on line 20
+[17-Feb-2023 06:37:51 America/New_York] PHP Notice:  Undefined index: shipFromCountryCode in /home/knoprotec/public_html/app/ups/ups.php on line 21
+[17-Feb-2023 06:37:51 America/New_York] PHP Notice:  Undefined index: cServiceCodes in /home/knoprotec/public_html/app/ups/ups.php on line 25
+[17-Feb-2023 06:37:51 America/New_York] PHP Notice:  Undefined index: packagingType in /home/knoprotec/public_html/app/ups/ups.php on line 26
+[17-Feb-2023 06:37:51 America/New_York] PHP Notice:  Undefined index: packageWeight in /home/knoprotec/public_html/app/ups/ups.php on line 34
+[17-Feb-2023 06:37:51 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/app/ups/UpsClass.php on line 160
+[17-Feb-2023 06:37:51 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/app/ups/UpsClass.php on line 160
+[17-Feb-2023 06:37:51 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/app/ups/UpsClass.php on line 160
+[17-Feb-2023 06:37:51 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/app/ups/UpsClass.php on line 174
+[17-Feb-2023 06:37:51 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/app/ups/UpsClass.php on line 174
+[17-Feb-2023 06:37:51 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/app/ups/UpsClass.php on line 174
+[17-Feb-2023 06:37:51 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/app/ups/UpsClass.php on line 174

@@ -1,0 +1,60 @@
+[30-Aug-2022 23:15:20 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/knoprotec/public_html/app/Models/Admin/Admin.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Models/Admin/Admin.php on line 10
+[31-Aug-2022 11:04:15 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/knoprotec/public_html/app/Models/Admin/Admin.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Models/Admin/Admin.php on line 10
+[09-Sep-2022 19:20:36 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/knoprotec/public_html/app/Models/Admin/Admin.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Models/Admin/Admin.php on line 10
+[13-Sep-2022 13:06:05 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/knoprotec/public_html/app/Models/Admin/Admin.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Models/Admin/Admin.php on line 10
+[24-Sep-2022 03:01:19 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/knoprotec/public_html/app/Models/Admin/Admin.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Models/Admin/Admin.php on line 10
+[26-Sep-2022 14:19:39 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/knoprotec/public_html/app/Models/Admin/Admin.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Models/Admin/Admin.php on line 10
+[11-Oct-2022 22:01:52 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/knoprotec/public_html/app/Models/Admin/Admin.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Models/Admin/Admin.php on line 10
+[13-Oct-2022 05:09:18 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/knoprotec/public_html/app/Models/Admin/Admin.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Models/Admin/Admin.php on line 10
+[18-Oct-2022 14:12:18 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/knoprotec/public_html/app/Models/Admin/Admin.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Models/Admin/Admin.php on line 10
+[20-Oct-2022 14:01:43 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/knoprotec/public_html/app/Models/Admin/Admin.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Models/Admin/Admin.php on line 10
+[23-Oct-2022 06:42:58 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/knoprotec/public_html/app/Models/Admin/Admin.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Models/Admin/Admin.php on line 10
+[25-Oct-2022 00:01:43 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/knoprotec/public_html/app/Models/Admin/Admin.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Models/Admin/Admin.php on line 10
+[25-Oct-2022 10:25:39 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/knoprotec/public_html/app/Models/Admin/Admin.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Models/Admin/Admin.php on line 10
+[27-Oct-2022 16:26:36 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/knoprotec/public_html/app/Models/Admin/Admin.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Models/Admin/Admin.php on line 10
+[14-May-2023 12:32:14 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/knoprotec/public_html/app/Models/Admin/Admin.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/Models/Admin/Admin.php on line 10

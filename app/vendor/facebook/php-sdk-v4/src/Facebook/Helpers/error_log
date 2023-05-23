@@ -1,0 +1,120 @@
+[09-Sep-2022 14:33:52 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Facebook\Helpers\FacebookSignedRequestFromInputHelper' not found in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Helpers/FacebookJavaScriptHelper.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Helpers/FacebookJavaScriptHelper.php on line 31
+[09-Sep-2022 14:33:53 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Facebook\Helpers\FacebookCanvasHelper' not found in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Helpers/FacebookPageTabHelper.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Helpers/FacebookPageTabHelper.php on line 34
+[09-Sep-2022 18:26:29 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Facebook\Helpers\FacebookSignedRequestFromInputHelper' not found in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Helpers/FacebookCanvasHelper.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Helpers/FacebookCanvasHelper.php on line 31
+[21-Sep-2022 05:14:59 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Facebook\Helpers\FacebookCanvasHelper' not found in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Helpers/FacebookPageTabHelper.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Helpers/FacebookPageTabHelper.php on line 34
+[21-Sep-2022 05:15:00 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Facebook\Helpers\FacebookCanvasHelper' not found in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Helpers/FacebookPageTabHelper.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Helpers/FacebookPageTabHelper.php on line 34
+[21-Sep-2022 05:15:00 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Facebook\Helpers\FacebookSignedRequestFromInputHelper' not found in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Helpers/FacebookCanvasHelper.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Helpers/FacebookCanvasHelper.php on line 31
+[21-Sep-2022 05:15:01 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Facebook\Helpers\FacebookSignedRequestFromInputHelper' not found in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Helpers/FacebookCanvasHelper.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Helpers/FacebookCanvasHelper.php on line 31
+[21-Sep-2022 05:15:02 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Facebook\Helpers\FacebookSignedRequestFromInputHelper' not found in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Helpers/FacebookJavaScriptHelper.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Helpers/FacebookJavaScriptHelper.php on line 31
+[21-Sep-2022 05:15:02 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Facebook\Helpers\FacebookSignedRequestFromInputHelper' not found in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Helpers/FacebookJavaScriptHelper.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Helpers/FacebookJavaScriptHelper.php on line 31
+[01-Oct-2022 23:51:05 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Facebook\Helpers\FacebookSignedRequestFromInputHelper' not found in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Helpers/FacebookCanvasHelper.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Helpers/FacebookCanvasHelper.php on line 31
+[01-Oct-2022 23:51:10 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Facebook\Helpers\FacebookSignedRequestFromInputHelper' not found in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Helpers/FacebookJavaScriptHelper.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Helpers/FacebookJavaScriptHelper.php on line 31
+[01-Oct-2022 23:51:15 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Facebook\Helpers\FacebookCanvasHelper' not found in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Helpers/FacebookPageTabHelper.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Helpers/FacebookPageTabHelper.php on line 34
+[03-Oct-2022 01:44:41 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Facebook\Helpers\FacebookSignedRequestFromInputHelper' not found in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Helpers/FacebookCanvasHelper.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Helpers/FacebookCanvasHelper.php on line 31
+[03-Oct-2022 01:44:43 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Facebook\Helpers\FacebookSignedRequestFromInputHelper' not found in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Helpers/FacebookJavaScriptHelper.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Helpers/FacebookJavaScriptHelper.php on line 31
+[03-Oct-2022 01:44:45 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Facebook\Helpers\FacebookCanvasHelper' not found in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Helpers/FacebookPageTabHelper.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Helpers/FacebookPageTabHelper.php on line 34
+[04-Oct-2022 02:56:44 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Facebook\Helpers\FacebookSignedRequestFromInputHelper' not found in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Helpers/FacebookCanvasHelper.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Helpers/FacebookCanvasHelper.php on line 31
+[04-Oct-2022 02:56:50 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Facebook\Helpers\FacebookSignedRequestFromInputHelper' not found in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Helpers/FacebookJavaScriptHelper.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Helpers/FacebookJavaScriptHelper.php on line 31
+[04-Oct-2022 02:56:53 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Facebook\Helpers\FacebookCanvasHelper' not found in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Helpers/FacebookPageTabHelper.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Helpers/FacebookPageTabHelper.php on line 34
+[09-Oct-2022 08:16:27 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Facebook\Helpers\FacebookSignedRequestFromInputHelper' not found in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Helpers/FacebookCanvasHelper.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Helpers/FacebookCanvasHelper.php on line 31
+[17-Oct-2022 05:29:29 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Facebook\Helpers\FacebookSignedRequestFromInputHelper' not found in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Helpers/FacebookJavaScriptHelper.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Helpers/FacebookJavaScriptHelper.php on line 31
+[22-Oct-2022 15:36:49 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Facebook\Helpers\FacebookCanvasHelper' not found in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Helpers/FacebookPageTabHelper.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Helpers/FacebookPageTabHelper.php on line 34
+[30-Oct-2022 00:06:14 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Facebook\Helpers\FacebookSignedRequestFromInputHelper' not found in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Helpers/FacebookCanvasHelper.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Helpers/FacebookCanvasHelper.php on line 31
+[30-Oct-2022 00:06:15 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Facebook\Helpers\FacebookSignedRequestFromInputHelper' not found in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Helpers/FacebookJavaScriptHelper.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Helpers/FacebookJavaScriptHelper.php on line 31
+[30-Oct-2022 00:06:19 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Facebook\Helpers\FacebookCanvasHelper' not found in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Helpers/FacebookPageTabHelper.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Helpers/FacebookPageTabHelper.php on line 34
+[31-Oct-2022 01:22:53 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Facebook\Helpers\FacebookSignedRequestFromInputHelper' not found in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Helpers/FacebookCanvasHelper.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Helpers/FacebookCanvasHelper.php on line 31
+[31-Oct-2022 01:22:58 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Facebook\Helpers\FacebookSignedRequestFromInputHelper' not found in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Helpers/FacebookJavaScriptHelper.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Helpers/FacebookJavaScriptHelper.php on line 31
+[31-Oct-2022 01:23:02 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Facebook\Helpers\FacebookCanvasHelper' not found in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Helpers/FacebookPageTabHelper.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Helpers/FacebookPageTabHelper.php on line 34
+[01-Nov-2022 02:02:13 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Facebook\Helpers\FacebookSignedRequestFromInputHelper' not found in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Helpers/FacebookCanvasHelper.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Helpers/FacebookCanvasHelper.php on line 31
+[01-Nov-2022 02:02:17 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Facebook\Helpers\FacebookSignedRequestFromInputHelper' not found in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Helpers/FacebookJavaScriptHelper.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Helpers/FacebookJavaScriptHelper.php on line 31
+[01-Nov-2022 02:02:21 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Facebook\Helpers\FacebookCanvasHelper' not found in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Helpers/FacebookPageTabHelper.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/vendor/facebook/php-sdk-v4/src/Facebook/Helpers/FacebookPageTabHelper.php on line 34

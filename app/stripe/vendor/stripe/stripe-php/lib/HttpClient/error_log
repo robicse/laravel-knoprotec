@@ -1,0 +1,32 @@
+[22-Sep-2022 03:20:29 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Stripe\HttpClient\ClientInterface' not found in /home/knoprotec/public_html/app/stripe/vendor/stripe/stripe-php/lib/HttpClient/CurlClient.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/stripe/vendor/stripe/stripe-php/lib/HttpClient/CurlClient.php on line 25
+[01-Oct-2022 23:38:09 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Stripe\HttpClient\ClientInterface' not found in /home/knoprotec/public_html/app/stripe/vendor/stripe/stripe-php/lib/HttpClient/CurlClient.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/stripe/vendor/stripe/stripe-php/lib/HttpClient/CurlClient.php on line 25
+[03-Oct-2022 01:37:24 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Stripe\HttpClient\ClientInterface' not found in /home/knoprotec/public_html/app/stripe/vendor/stripe/stripe-php/lib/HttpClient/CurlClient.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/stripe/vendor/stripe/stripe-php/lib/HttpClient/CurlClient.php on line 25
+[04-Oct-2022 02:55:21 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Stripe\HttpClient\ClientInterface' not found in /home/knoprotec/public_html/app/stripe/vendor/stripe/stripe-php/lib/HttpClient/CurlClient.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/stripe/vendor/stripe/stripe-php/lib/HttpClient/CurlClient.php on line 25
+[14-Oct-2022 01:48:34 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Stripe\HttpClient\ClientInterface' not found in /home/knoprotec/public_html/app/stripe/vendor/stripe/stripe-php/lib/HttpClient/CurlClient.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/stripe/vendor/stripe/stripe-php/lib/HttpClient/CurlClient.php on line 25
+[29-Oct-2022 23:57:57 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Stripe\HttpClient\ClientInterface' not found in /home/knoprotec/public_html/app/stripe/vendor/stripe/stripe-php/lib/HttpClient/CurlClient.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/stripe/vendor/stripe/stripe-php/lib/HttpClient/CurlClient.php on line 25
+[31-Oct-2022 01:16:00 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Stripe\HttpClient\ClientInterface' not found in /home/knoprotec/public_html/app/stripe/vendor/stripe/stripe-php/lib/HttpClient/CurlClient.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/stripe/vendor/stripe/stripe-php/lib/HttpClient/CurlClient.php on line 25
+[01-Nov-2022 01:59:42 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'Stripe\HttpClient\ClientInterface' not found in /home/knoprotec/public_html/app/stripe/vendor/stripe/stripe-php/lib/HttpClient/CurlClient.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/knoprotec/public_html/app/stripe/vendor/stripe/stripe-php/lib/HttpClient/CurlClient.php on line 25

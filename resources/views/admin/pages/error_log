@@ -1,0 +1,138 @@
+[04-Sep-2022 17:40:31 America/New_York] PHP Notice:  Undefined variable: languages in /home/knoprotec/public_html/resources/views/admin/pages/add.blade.php on line 61
+[04-Sep-2022 17:40:31 America/New_York] PHP Notice:  Trying to get property 'languages_id' of non-object in /home/knoprotec/public_html/resources/views/admin/pages/add.blade.php on line 61
+[04-Sep-2022 17:40:31 America/New_York] PHP Notice:  Undefined variable: languages in /home/knoprotec/public_html/resources/views/admin/pages/add.blade.php on line 70
+[04-Sep-2022 17:40:31 America/New_York] PHP Notice:  Trying to get property 'languages_id' of non-object in /home/knoprotec/public_html/resources/views/admin/pages/add.blade.php on line 70
+[04-Sep-2022 17:40:31 America/New_York] PHP Notice:  Undefined variable: languages in /home/knoprotec/public_html/resources/views/admin/pages/add.blade.php on line 70
+[04-Sep-2022 17:40:31 America/New_York] PHP Notice:  Trying to get property 'languages_id' of non-object in /home/knoprotec/public_html/resources/views/admin/pages/add.blade.php on line 70
+[04-Sep-2022 17:40:36 America/New_York] PHP Notice:  Undefined variable: description_data in /home/knoprotec/public_html/resources/views/admin/pages/edit.blade.php on line 64
+[04-Sep-2022 17:40:36 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/pages/edit.blade.php on line 64
+[04-Sep-2022 17:40:36 America/New_York] PHP Notice:  Undefined variable: description_data in /home/knoprotec/public_html/resources/views/admin/pages/edit.blade.php on line 74
+[04-Sep-2022 17:40:36 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/pages/edit.blade.php on line 74
+[04-Sep-2022 17:40:36 America/New_York] PHP Notice:  Undefined variable: description_data in /home/knoprotec/public_html/resources/views/admin/pages/edit.blade.php on line 74
+[04-Sep-2022 17:40:36 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/pages/edit.blade.php on line 74
+[07-Sep-2022 19:57:50 America/New_York] PHP Notice:  Undefined variable: languages in /home/knoprotec/public_html/resources/views/admin/pages/add.blade.php on line 61
+[07-Sep-2022 19:57:50 America/New_York] PHP Notice:  Trying to get property 'languages_id' of non-object in /home/knoprotec/public_html/resources/views/admin/pages/add.blade.php on line 61
+[07-Sep-2022 19:57:50 America/New_York] PHP Notice:  Undefined variable: languages in /home/knoprotec/public_html/resources/views/admin/pages/add.blade.php on line 70
+[07-Sep-2022 19:57:50 America/New_York] PHP Notice:  Trying to get property 'languages_id' of non-object in /home/knoprotec/public_html/resources/views/admin/pages/add.blade.php on line 70
+[07-Sep-2022 19:57:50 America/New_York] PHP Notice:  Undefined variable: languages in /home/knoprotec/public_html/resources/views/admin/pages/add.blade.php on line 70
+[07-Sep-2022 19:57:50 America/New_York] PHP Notice:  Trying to get property 'languages_id' of non-object in /home/knoprotec/public_html/resources/views/admin/pages/add.blade.php on line 70
+[07-Sep-2022 19:57:50 America/New_York] PHP Notice:  Undefined variable: description_data in /home/knoprotec/public_html/resources/views/admin/pages/edit.blade.php on line 64
+[07-Sep-2022 19:57:50 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/pages/edit.blade.php on line 64
+[07-Sep-2022 19:57:50 America/New_York] PHP Notice:  Undefined variable: description_data in /home/knoprotec/public_html/resources/views/admin/pages/edit.blade.php on line 74
+[07-Sep-2022 19:57:50 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/pages/edit.blade.php on line 74
+[07-Sep-2022 19:57:50 America/New_York] PHP Notice:  Undefined variable: description_data in /home/knoprotec/public_html/resources/views/admin/pages/edit.blade.php on line 74
+[07-Sep-2022 19:57:50 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/pages/edit.blade.php on line 74
+[10-Sep-2022 07:51:49 America/New_York] PHP Notice:  Undefined variable: languages in /home/knoprotec/public_html/resources/views/admin/pages/add.blade.php on line 61
+[10-Sep-2022 07:51:49 America/New_York] PHP Notice:  Trying to get property 'languages_id' of non-object in /home/knoprotec/public_html/resources/views/admin/pages/add.blade.php on line 61
+[10-Sep-2022 07:51:49 America/New_York] PHP Notice:  Undefined variable: languages in /home/knoprotec/public_html/resources/views/admin/pages/add.blade.php on line 70
+[10-Sep-2022 07:51:49 America/New_York] PHP Notice:  Trying to get property 'languages_id' of non-object in /home/knoprotec/public_html/resources/views/admin/pages/add.blade.php on line 70
+[10-Sep-2022 07:51:49 America/New_York] PHP Notice:  Undefined variable: languages in /home/knoprotec/public_html/resources/views/admin/pages/add.blade.php on line 70
+[10-Sep-2022 07:51:49 America/New_York] PHP Notice:  Trying to get property 'languages_id' of non-object in /home/knoprotec/public_html/resources/views/admin/pages/add.blade.php on line 70
+[10-Sep-2022 07:51:51 America/New_York] PHP Notice:  Undefined variable: description_data in /home/knoprotec/public_html/resources/views/admin/pages/edit.blade.php on line 64
+[10-Sep-2022 07:51:51 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/pages/edit.blade.php on line 64
+[10-Sep-2022 07:51:51 America/New_York] PHP Notice:  Undefined variable: description_data in /home/knoprotec/public_html/resources/views/admin/pages/edit.blade.php on line 74
+[10-Sep-2022 07:51:51 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/pages/edit.blade.php on line 74
+[10-Sep-2022 07:51:51 America/New_York] PHP Notice:  Undefined variable: description_data in /home/knoprotec/public_html/resources/views/admin/pages/edit.blade.php on line 74
+[10-Sep-2022 07:51:51 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/pages/edit.blade.php on line 74
+[13-Sep-2022 21:46:16 America/New_York] PHP Notice:  Undefined variable: description_data in /home/knoprotec/public_html/resources/views/admin/pages/edit.blade.php on line 64
+[13-Sep-2022 21:46:16 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/pages/edit.blade.php on line 64
+[13-Sep-2022 21:46:16 America/New_York] PHP Notice:  Undefined variable: description_data in /home/knoprotec/public_html/resources/views/admin/pages/edit.blade.php on line 74
+[13-Sep-2022 21:46:16 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/pages/edit.blade.php on line 74
+[13-Sep-2022 21:46:16 America/New_York] PHP Notice:  Undefined variable: description_data in /home/knoprotec/public_html/resources/views/admin/pages/edit.blade.php on line 74
+[13-Sep-2022 21:46:16 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/pages/edit.blade.php on line 74
+[13-Sep-2022 21:58:56 America/New_York] PHP Notice:  Undefined variable: languages in /home/knoprotec/public_html/resources/views/admin/pages/add.blade.php on line 61
+[13-Sep-2022 21:58:56 America/New_York] PHP Notice:  Trying to get property 'languages_id' of non-object in /home/knoprotec/public_html/resources/views/admin/pages/add.blade.php on line 61
+[13-Sep-2022 21:58:56 America/New_York] PHP Notice:  Undefined variable: languages in /home/knoprotec/public_html/resources/views/admin/pages/add.blade.php on line 70
+[13-Sep-2022 21:58:56 America/New_York] PHP Notice:  Trying to get property 'languages_id' of non-object in /home/knoprotec/public_html/resources/views/admin/pages/add.blade.php on line 70
+[13-Sep-2022 21:58:56 America/New_York] PHP Notice:  Undefined variable: languages in /home/knoprotec/public_html/resources/views/admin/pages/add.blade.php on line 70
+[13-Sep-2022 21:58:56 America/New_York] PHP Notice:  Trying to get property 'languages_id' of non-object in /home/knoprotec/public_html/resources/views/admin/pages/add.blade.php on line 70
+[15-Sep-2022 16:19:15 America/New_York] PHP Notice:  Undefined variable: description_data in /home/knoprotec/public_html/resources/views/admin/pages/edit.blade.php on line 64
+[15-Sep-2022 16:19:15 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/pages/edit.blade.php on line 64
+[15-Sep-2022 16:19:15 America/New_York] PHP Notice:  Undefined variable: description_data in /home/knoprotec/public_html/resources/views/admin/pages/edit.blade.php on line 74
+[15-Sep-2022 16:19:15 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/pages/edit.blade.php on line 74
+[15-Sep-2022 16:19:15 America/New_York] PHP Notice:  Undefined variable: description_data in /home/knoprotec/public_html/resources/views/admin/pages/edit.blade.php on line 74
+[15-Sep-2022 16:19:15 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/pages/edit.blade.php on line 74
+[16-Sep-2022 05:11:21 America/New_York] PHP Notice:  Undefined variable: languages in /home/knoprotec/public_html/resources/views/admin/pages/add.blade.php on line 61
+[16-Sep-2022 05:11:21 America/New_York] PHP Notice:  Trying to get property 'languages_id' of non-object in /home/knoprotec/public_html/resources/views/admin/pages/add.blade.php on line 61
+[16-Sep-2022 05:11:21 America/New_York] PHP Notice:  Undefined variable: languages in /home/knoprotec/public_html/resources/views/admin/pages/add.blade.php on line 70
+[16-Sep-2022 05:11:21 America/New_York] PHP Notice:  Trying to get property 'languages_id' of non-object in /home/knoprotec/public_html/resources/views/admin/pages/add.blade.php on line 70
+[16-Sep-2022 05:11:21 America/New_York] PHP Notice:  Undefined variable: languages in /home/knoprotec/public_html/resources/views/admin/pages/add.blade.php on line 70
+[16-Sep-2022 05:11:21 America/New_York] PHP Notice:  Trying to get property 'languages_id' of non-object in /home/knoprotec/public_html/resources/views/admin/pages/add.blade.php on line 70
+[22-Sep-2022 15:55:30 America/New_York] PHP Notice:  Undefined variable: languages in /home/knoprotec/public_html/resources/views/admin/pages/add.blade.php on line 61
+[22-Sep-2022 15:55:30 America/New_York] PHP Notice:  Trying to get property 'languages_id' of non-object in /home/knoprotec/public_html/resources/views/admin/pages/add.blade.php on line 61
+[22-Sep-2022 15:55:30 America/New_York] PHP Notice:  Undefined variable: languages in /home/knoprotec/public_html/resources/views/admin/pages/add.blade.php on line 70
+[22-Sep-2022 15:55:30 America/New_York] PHP Notice:  Trying to get property 'languages_id' of non-object in /home/knoprotec/public_html/resources/views/admin/pages/add.blade.php on line 70
+[22-Sep-2022 15:55:30 America/New_York] PHP Notice:  Undefined variable: languages in /home/knoprotec/public_html/resources/views/admin/pages/add.blade.php on line 70
+[22-Sep-2022 15:55:30 America/New_York] PHP Notice:  Trying to get property 'languages_id' of non-object in /home/knoprotec/public_html/resources/views/admin/pages/add.blade.php on line 70
+[22-Sep-2022 15:55:49 America/New_York] PHP Notice:  Undefined variable: description_data in /home/knoprotec/public_html/resources/views/admin/pages/edit.blade.php on line 64
+[22-Sep-2022 15:55:49 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/pages/edit.blade.php on line 64
+[22-Sep-2022 15:55:49 America/New_York] PHP Notice:  Undefined variable: description_data in /home/knoprotec/public_html/resources/views/admin/pages/edit.blade.php on line 74
+[22-Sep-2022 15:55:49 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/pages/edit.blade.php on line 74
+[22-Sep-2022 15:55:49 America/New_York] PHP Notice:  Undefined variable: description_data in /home/knoprotec/public_html/resources/views/admin/pages/edit.blade.php on line 74
+[22-Sep-2022 15:55:49 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/pages/edit.blade.php on line 74
+[08-Oct-2022 11:46:40 America/New_York] PHP Notice:  Undefined variable: languages in /home/knoprotec/public_html/resources/views/admin/pages/add.blade.php on line 61
+[08-Oct-2022 11:46:40 America/New_York] PHP Notice:  Trying to get property 'languages_id' of non-object in /home/knoprotec/public_html/resources/views/admin/pages/add.blade.php on line 61
+[08-Oct-2022 11:46:40 America/New_York] PHP Notice:  Undefined variable: languages in /home/knoprotec/public_html/resources/views/admin/pages/add.blade.php on line 70
+[08-Oct-2022 11:46:40 America/New_York] PHP Notice:  Trying to get property 'languages_id' of non-object in /home/knoprotec/public_html/resources/views/admin/pages/add.blade.php on line 70
+[08-Oct-2022 11:46:40 America/New_York] PHP Notice:  Undefined variable: languages in /home/knoprotec/public_html/resources/views/admin/pages/add.blade.php on line 70
+[08-Oct-2022 11:46:40 America/New_York] PHP Notice:  Trying to get property 'languages_id' of non-object in /home/knoprotec/public_html/resources/views/admin/pages/add.blade.php on line 70
+[08-Oct-2022 11:46:54 America/New_York] PHP Notice:  Undefined variable: description_data in /home/knoprotec/public_html/resources/views/admin/pages/edit.blade.php on line 64
+[08-Oct-2022 11:46:54 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/pages/edit.blade.php on line 64
+[08-Oct-2022 11:46:54 America/New_York] PHP Notice:  Undefined variable: description_data in /home/knoprotec/public_html/resources/views/admin/pages/edit.blade.php on line 74
+[08-Oct-2022 11:46:54 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/pages/edit.blade.php on line 74
+[08-Oct-2022 11:46:54 America/New_York] PHP Notice:  Undefined variable: description_data in /home/knoprotec/public_html/resources/views/admin/pages/edit.blade.php on line 74
+[08-Oct-2022 11:46:54 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/pages/edit.blade.php on line 74
+[11-Oct-2022 23:37:32 America/New_York] PHP Notice:  Undefined variable: languages in /home/knoprotec/public_html/resources/views/admin/pages/add.blade.php on line 61
+[11-Oct-2022 23:37:32 America/New_York] PHP Notice:  Trying to get property 'languages_id' of non-object in /home/knoprotec/public_html/resources/views/admin/pages/add.blade.php on line 61
+[11-Oct-2022 23:37:32 America/New_York] PHP Notice:  Undefined variable: languages in /home/knoprotec/public_html/resources/views/admin/pages/add.blade.php on line 70
+[11-Oct-2022 23:37:32 America/New_York] PHP Notice:  Trying to get property 'languages_id' of non-object in /home/knoprotec/public_html/resources/views/admin/pages/add.blade.php on line 70
+[11-Oct-2022 23:37:32 America/New_York] PHP Notice:  Undefined variable: languages in /home/knoprotec/public_html/resources/views/admin/pages/add.blade.php on line 70
+[11-Oct-2022 23:37:32 America/New_York] PHP Notice:  Trying to get property 'languages_id' of non-object in /home/knoprotec/public_html/resources/views/admin/pages/add.blade.php on line 70
+[11-Oct-2022 23:43:03 America/New_York] PHP Notice:  Undefined variable: description_data in /home/knoprotec/public_html/resources/views/admin/pages/edit.blade.php on line 64
+[11-Oct-2022 23:43:03 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/pages/edit.blade.php on line 64
+[11-Oct-2022 23:43:03 America/New_York] PHP Notice:  Undefined variable: description_data in /home/knoprotec/public_html/resources/views/admin/pages/edit.blade.php on line 74
+[11-Oct-2022 23:43:03 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/pages/edit.blade.php on line 74
+[11-Oct-2022 23:43:03 America/New_York] PHP Notice:  Undefined variable: description_data in /home/knoprotec/public_html/resources/views/admin/pages/edit.blade.php on line 74
+[11-Oct-2022 23:43:03 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/pages/edit.blade.php on line 74
+[22-Oct-2022 10:47:32 America/New_York] PHP Notice:  Undefined variable: languages in /home/knoprotec/public_html/resources/views/admin/pages/add.blade.php on line 61
+[22-Oct-2022 10:47:32 America/New_York] PHP Notice:  Trying to get property 'languages_id' of non-object in /home/knoprotec/public_html/resources/views/admin/pages/add.blade.php on line 61
+[22-Oct-2022 10:47:32 America/New_York] PHP Notice:  Undefined variable: languages in /home/knoprotec/public_html/resources/views/admin/pages/add.blade.php on line 70
+[22-Oct-2022 10:47:32 America/New_York] PHP Notice:  Trying to get property 'languages_id' of non-object in /home/knoprotec/public_html/resources/views/admin/pages/add.blade.php on line 70
+[22-Oct-2022 10:47:32 America/New_York] PHP Notice:  Undefined variable: languages in /home/knoprotec/public_html/resources/views/admin/pages/add.blade.php on line 70
+[22-Oct-2022 10:47:32 America/New_York] PHP Notice:  Trying to get property 'languages_id' of non-object in /home/knoprotec/public_html/resources/views/admin/pages/add.blade.php on line 70
+[22-Oct-2022 10:47:39 America/New_York] PHP Notice:  Undefined variable: description_data in /home/knoprotec/public_html/resources/views/admin/pages/edit.blade.php on line 64
+[22-Oct-2022 10:47:39 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/pages/edit.blade.php on line 64
+[22-Oct-2022 10:47:39 America/New_York] PHP Notice:  Undefined variable: description_data in /home/knoprotec/public_html/resources/views/admin/pages/edit.blade.php on line 74
+[22-Oct-2022 10:47:39 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/pages/edit.blade.php on line 74
+[22-Oct-2022 10:47:39 America/New_York] PHP Notice:  Undefined variable: description_data in /home/knoprotec/public_html/resources/views/admin/pages/edit.blade.php on line 74
+[22-Oct-2022 10:47:39 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/pages/edit.blade.php on line 74
+[25-Oct-2022 13:22:56 America/New_York] PHP Notice:  Undefined variable: languages in /home/knoprotec/public_html/resources/views/admin/pages/add.blade.php on line 61
+[25-Oct-2022 13:22:56 America/New_York] PHP Notice:  Trying to get property 'languages_id' of non-object in /home/knoprotec/public_html/resources/views/admin/pages/add.blade.php on line 61
+[25-Oct-2022 13:22:56 America/New_York] PHP Notice:  Undefined variable: languages in /home/knoprotec/public_html/resources/views/admin/pages/add.blade.php on line 70
+[25-Oct-2022 13:22:56 America/New_York] PHP Notice:  Trying to get property 'languages_id' of non-object in /home/knoprotec/public_html/resources/views/admin/pages/add.blade.php on line 70
+[25-Oct-2022 13:22:56 America/New_York] PHP Notice:  Undefined variable: languages in /home/knoprotec/public_html/resources/views/admin/pages/add.blade.php on line 70
+[25-Oct-2022 13:22:56 America/New_York] PHP Notice:  Trying to get property 'languages_id' of non-object in /home/knoprotec/public_html/resources/views/admin/pages/add.blade.php on line 70
+[25-Oct-2022 13:25:55 America/New_York] PHP Notice:  Undefined variable: description_data in /home/knoprotec/public_html/resources/views/admin/pages/edit.blade.php on line 64
+[25-Oct-2022 13:25:55 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/pages/edit.blade.php on line 64
+[25-Oct-2022 13:25:55 America/New_York] PHP Notice:  Undefined variable: description_data in /home/knoprotec/public_html/resources/views/admin/pages/edit.blade.php on line 74
+[25-Oct-2022 13:25:55 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/pages/edit.blade.php on line 74
+[25-Oct-2022 13:25:55 America/New_York] PHP Notice:  Undefined variable: description_data in /home/knoprotec/public_html/resources/views/admin/pages/edit.blade.php on line 74
+[25-Oct-2022 13:25:55 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/pages/edit.blade.php on line 74
+[10-Jan-2023 08:38:05 America/New_York] PHP Notice:  Undefined variable: languages in /home/knoprotec/public_html/resources/views/admin/pages/add.blade.php on line 61
+[10-Jan-2023 08:38:05 America/New_York] PHP Notice:  Trying to get property 'languages_id' of non-object in /home/knoprotec/public_html/resources/views/admin/pages/add.blade.php on line 61
+[10-Jan-2023 08:38:05 America/New_York] PHP Notice:  Undefined variable: languages in /home/knoprotec/public_html/resources/views/admin/pages/add.blade.php on line 70
+[10-Jan-2023 08:38:05 America/New_York] PHP Notice:  Trying to get property 'languages_id' of non-object in /home/knoprotec/public_html/resources/views/admin/pages/add.blade.php on line 70
+[10-Jan-2023 08:38:05 America/New_York] PHP Notice:  Undefined variable: languages in /home/knoprotec/public_html/resources/views/admin/pages/add.blade.php on line 70
+[10-Jan-2023 08:38:05 America/New_York] PHP Notice:  Trying to get property 'languages_id' of non-object in /home/knoprotec/public_html/resources/views/admin/pages/add.blade.php on line 70
+[14-May-2023 15:23:03 America/New_York] PHP Notice:  Undefined variable: description_data in /home/knoprotec/public_html/resources/views/admin/pages/edit.blade.php on line 64
+[14-May-2023 15:23:03 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/pages/edit.blade.php on line 64
+[14-May-2023 15:23:03 America/New_York] PHP Notice:  Undefined variable: description_data in /home/knoprotec/public_html/resources/views/admin/pages/edit.blade.php on line 74
+[14-May-2023 15:23:03 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/pages/edit.blade.php on line 74
+[14-May-2023 15:23:03 America/New_York] PHP Notice:  Undefined variable: description_data in /home/knoprotec/public_html/resources/views/admin/pages/edit.blade.php on line 74
+[14-May-2023 15:23:03 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/admin/pages/edit.blade.php on line 74
+[14-May-2023 15:23:19 America/New_York] PHP Notice:  Undefined variable: languages in /home/knoprotec/public_html/resources/views/admin/pages/add.blade.php on line 61
+[14-May-2023 15:23:19 America/New_York] PHP Notice:  Trying to get property 'languages_id' of non-object in /home/knoprotec/public_html/resources/views/admin/pages/add.blade.php on line 61
+[14-May-2023 15:23:19 America/New_York] PHP Notice:  Undefined variable: languages in /home/knoprotec/public_html/resources/views/admin/pages/add.blade.php on line 70
+[14-May-2023 15:23:19 America/New_York] PHP Notice:  Trying to get property 'languages_id' of non-object in /home/knoprotec/public_html/resources/views/admin/pages/add.blade.php on line 70
+[14-May-2023 15:23:19 America/New_York] PHP Notice:  Undefined variable: languages in /home/knoprotec/public_html/resources/views/admin/pages/add.blade.php on line 70
+[14-May-2023 15:23:19 America/New_York] PHP Notice:  Trying to get property 'languages_id' of non-object in /home/knoprotec/public_html/resources/views/admin/pages/add.blade.php on line 70

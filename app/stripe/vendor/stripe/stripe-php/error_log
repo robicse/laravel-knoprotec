@@ -1,0 +1,18 @@
+[03-Sep-2022 16:03:34 America/New_York] PHP Notice:  Undefined variable: argv in /home/knoprotec/public_html/app/stripe/vendor/stripe/stripe-php/build.php on line 5
+[03-Sep-2022 16:03:34 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/app/stripe/vendor/stripe/stripe-php/build.php on line 5
+[05-Sep-2022 04:25:45 America/New_York] PHP Notice:  Undefined variable: argv in /home/knoprotec/public_html/app/stripe/vendor/stripe/stripe-php/build.php on line 5
+[05-Sep-2022 04:25:45 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/app/stripe/vendor/stripe/stripe-php/build.php on line 5
+[24-Sep-2022 15:46:40 America/New_York] PHP Notice:  Undefined variable: argv in /home/knoprotec/public_html/app/stripe/vendor/stripe/stripe-php/build.php on line 5
+[24-Sep-2022 15:46:40 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/app/stripe/vendor/stripe/stripe-php/build.php on line 5
+[28-Sep-2022 02:14:06 America/New_York] PHP Notice:  Undefined variable: argv in /home/knoprotec/public_html/app/stripe/vendor/stripe/stripe-php/build.php on line 5
+[28-Sep-2022 02:14:06 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/app/stripe/vendor/stripe/stripe-php/build.php on line 5
+[01-Oct-2022 21:09:32 America/New_York] PHP Notice:  Undefined variable: argv in /home/knoprotec/public_html/app/stripe/vendor/stripe/stripe-php/build.php on line 5
+[01-Oct-2022 21:09:32 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/app/stripe/vendor/stripe/stripe-php/build.php on line 5
+[12-Oct-2022 12:26:41 America/New_York] PHP Notice:  Undefined variable: argv in /home/knoprotec/public_html/app/stripe/vendor/stripe/stripe-php/build.php on line 5
+[12-Oct-2022 12:26:41 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/app/stripe/vendor/stripe/stripe-php/build.php on line 5
+[20-Oct-2022 13:55:56 America/New_York] PHP Notice:  Undefined variable: argv in /home/knoprotec/public_html/app/stripe/vendor/stripe/stripe-php/build.php on line 5
+[20-Oct-2022 13:55:56 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/app/stripe/vendor/stripe/stripe-php/build.php on line 5
+[27-Oct-2022 15:56:14 America/New_York] PHP Notice:  Undefined variable: argv in /home/knoprotec/public_html/app/stripe/vendor/stripe/stripe-php/build.php on line 5
+[27-Oct-2022 15:56:14 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/app/stripe/vendor/stripe/stripe-php/build.php on line 5
+[30-Oct-2022 03:57:19 America/New_York] PHP Notice:  Undefined variable: argv in /home/knoprotec/public_html/app/stripe/vendor/stripe/stripe-php/build.php on line 5
+[30-Oct-2022 03:57:19 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/app/stripe/vendor/stripe/stripe-php/build.php on line 5

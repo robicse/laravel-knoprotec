@@ -1,0 +1,234 @@
+[04-Sep-2022 17:46:05 America/New_York] PHP Notice:  Undefined variable: result in /home/knoprotec/public_html/resources/views/web/footers/footer1.blade.php on line 11
+[04-Sep-2022 17:46:05 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/web/footers/footer1.blade.php on line 11
+[04-Sep-2022 17:46:05 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/web/footers/footer1.blade.php on line 11
+[04-Sep-2022 17:46:05 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/web/footers/footer1.blade.php on line 11
+[04-Sep-2022 17:46:05 America/New_York] PHP Notice:  Undefined variable: result in /home/knoprotec/public_html/resources/views/web/footers/footer1.blade.php on line 15
+[04-Sep-2022 17:46:05 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/web/footers/footer1.blade.php on line 15
+[04-Sep-2022 17:46:05 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/web/footers/footer1.blade.php on line 15
+[04-Sep-2022 17:46:05 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/web/footers/footer1.blade.php on line 15
+[04-Sep-2022 17:46:09 America/New_York] PHP Notice:  Undefined variable: result in /home/knoprotec/public_html/resources/views/web/footers/footer3.blade.php on line 8
+[04-Sep-2022 17:46:09 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/web/footers/footer3.blade.php on line 8
+[04-Sep-2022 17:46:09 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/web/footers/footer3.blade.php on line 8
+[04-Sep-2022 17:46:09 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/web/footers/footer3.blade.php on line 8
+[04-Sep-2022 17:46:09 America/New_York] PHP Notice:  Trying to get property 'value' of non-object in /home/knoprotec/public_html/resources/views/web/footers/footer3.blade.php on line 8
+[04-Sep-2022 17:46:09 America/New_York] PHP Notice:  Undefined variable: result in /home/knoprotec/public_html/resources/views/web/footers/footer3.blade.php on line 12
+[04-Sep-2022 17:46:09 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/web/footers/footer3.blade.php on line 12
+[04-Sep-2022 17:46:09 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/web/footers/footer3.blade.php on line 12
+[04-Sep-2022 17:46:09 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/web/footers/footer3.blade.php on line 12
+[04-Sep-2022 17:46:09 America/New_York] PHP Notice:  Trying to get property 'value' of non-object in /home/knoprotec/public_html/resources/views/web/footers/footer3.blade.php on line 12
+[04-Sep-2022 17:46:11 America/New_York] PHP Notice:  Undefined variable: result in /home/knoprotec/public_html/resources/views/web/footers/footer4.blade.php on line 8
+[04-Sep-2022 17:46:11 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/web/footers/footer4.blade.php on line 8
+[04-Sep-2022 17:46:11 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/web/footers/footer4.blade.php on line 8
+[04-Sep-2022 17:46:11 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/web/footers/footer4.blade.php on line 8
+[04-Sep-2022 17:46:11 America/New_York] PHP Notice:  Undefined variable: result in /home/knoprotec/public_html/resources/views/web/footers/footer4.blade.php on line 12
+[04-Sep-2022 17:46:11 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/web/footers/footer4.blade.php on line 12
+[04-Sep-2022 17:46:11 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/web/footers/footer4.blade.php on line 12
+[04-Sep-2022 17:46:11 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/web/footers/footer4.blade.php on line 12
+[06-Sep-2022 22:41:12 America/New_York] PHP Notice:  Undefined variable: result in /home/knoprotec/public_html/resources/views/web/footers/footer1.blade.php on line 11
+[06-Sep-2022 22:41:12 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/web/footers/footer1.blade.php on line 11
+[06-Sep-2022 22:41:12 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/web/footers/footer1.blade.php on line 11
+[06-Sep-2022 22:41:12 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/web/footers/footer1.blade.php on line 11
+[06-Sep-2022 22:41:12 America/New_York] PHP Notice:  Undefined variable: result in /home/knoprotec/public_html/resources/views/web/footers/footer1.blade.php on line 15
+[06-Sep-2022 22:41:12 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/web/footers/footer1.blade.php on line 15
+[06-Sep-2022 22:41:12 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/web/footers/footer1.blade.php on line 15
+[06-Sep-2022 22:41:12 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/web/footers/footer1.blade.php on line 15
+[07-Sep-2022 01:53:07 America/New_York] PHP Notice:  Undefined variable: result in /home/knoprotec/public_html/resources/views/web/footers/footer3.blade.php on line 8
+[07-Sep-2022 01:53:07 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/web/footers/footer3.blade.php on line 8
+[07-Sep-2022 01:53:07 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/web/footers/footer3.blade.php on line 8
+[07-Sep-2022 01:53:07 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/web/footers/footer3.blade.php on line 8
+[07-Sep-2022 01:53:07 America/New_York] PHP Notice:  Trying to get property 'value' of non-object in /home/knoprotec/public_html/resources/views/web/footers/footer3.blade.php on line 8
+[07-Sep-2022 01:53:07 America/New_York] PHP Notice:  Undefined variable: result in /home/knoprotec/public_html/resources/views/web/footers/footer3.blade.php on line 12
+[07-Sep-2022 01:53:07 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/web/footers/footer3.blade.php on line 12
+[07-Sep-2022 01:53:07 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/web/footers/footer3.blade.php on line 12
+[07-Sep-2022 01:53:07 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/web/footers/footer3.blade.php on line 12
+[07-Sep-2022 01:53:07 America/New_York] PHP Notice:  Trying to get property 'value' of non-object in /home/knoprotec/public_html/resources/views/web/footers/footer3.blade.php on line 12
+[07-Sep-2022 04:08:51 America/New_York] PHP Notice:  Undefined variable: result in /home/knoprotec/public_html/resources/views/web/footers/footer4.blade.php on line 8
+[07-Sep-2022 04:08:51 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/web/footers/footer4.blade.php on line 8
+[07-Sep-2022 04:08:51 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/web/footers/footer4.blade.php on line 8
+[07-Sep-2022 04:08:51 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/web/footers/footer4.blade.php on line 8
+[07-Sep-2022 04:08:51 America/New_York] PHP Notice:  Undefined variable: result in /home/knoprotec/public_html/resources/views/web/footers/footer4.blade.php on line 12
+[07-Sep-2022 04:08:51 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/web/footers/footer4.blade.php on line 12
+[07-Sep-2022 04:08:51 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/web/footers/footer4.blade.php on line 12
+[07-Sep-2022 04:08:51 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/web/footers/footer4.blade.php on line 12
+[13-Sep-2022 04:42:43 America/New_York] PHP Notice:  Undefined variable: result in /home/knoprotec/public_html/resources/views/web/footers/footer4.blade.php on line 8
+[13-Sep-2022 04:42:43 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/web/footers/footer4.blade.php on line 8
+[13-Sep-2022 04:42:43 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/web/footers/footer4.blade.php on line 8
+[13-Sep-2022 04:42:43 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/web/footers/footer4.blade.php on line 8
+[13-Sep-2022 04:42:43 America/New_York] PHP Notice:  Undefined variable: result in /home/knoprotec/public_html/resources/views/web/footers/footer4.blade.php on line 12
+[13-Sep-2022 04:42:43 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/web/footers/footer4.blade.php on line 12
+[13-Sep-2022 04:42:43 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/web/footers/footer4.blade.php on line 12
+[13-Sep-2022 04:42:43 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/web/footers/footer4.blade.php on line 12
+[13-Sep-2022 22:19:58 America/New_York] PHP Notice:  Undefined variable: result in /home/knoprotec/public_html/resources/views/web/footers/footer1.blade.php on line 11
+[13-Sep-2022 22:19:58 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/web/footers/footer1.blade.php on line 11
+[13-Sep-2022 22:19:58 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/web/footers/footer1.blade.php on line 11
+[13-Sep-2022 22:19:58 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/web/footers/footer1.blade.php on line 11
+[13-Sep-2022 22:19:58 America/New_York] PHP Notice:  Undefined variable: result in /home/knoprotec/public_html/resources/views/web/footers/footer1.blade.php on line 15
+[13-Sep-2022 22:19:58 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/web/footers/footer1.blade.php on line 15
+[13-Sep-2022 22:19:58 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/web/footers/footer1.blade.php on line 15
+[13-Sep-2022 22:19:58 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/web/footers/footer1.blade.php on line 15
+[13-Sep-2022 22:25:07 America/New_York] PHP Notice:  Undefined variable: result in /home/knoprotec/public_html/resources/views/web/footers/footer4.blade.php on line 8
+[13-Sep-2022 22:25:07 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/web/footers/footer4.blade.php on line 8
+[13-Sep-2022 22:25:07 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/web/footers/footer4.blade.php on line 8
+[13-Sep-2022 22:25:07 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/web/footers/footer4.blade.php on line 8
+[13-Sep-2022 22:25:07 America/New_York] PHP Notice:  Undefined variable: result in /home/knoprotec/public_html/resources/views/web/footers/footer4.blade.php on line 12
+[13-Sep-2022 22:25:07 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/web/footers/footer4.blade.php on line 12
+[13-Sep-2022 22:25:07 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/web/footers/footer4.blade.php on line 12
+[13-Sep-2022 22:25:07 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/web/footers/footer4.blade.php on line 12
+[13-Sep-2022 22:27:16 America/New_York] PHP Notice:  Undefined variable: result in /home/knoprotec/public_html/resources/views/web/footers/footer3.blade.php on line 8
+[13-Sep-2022 22:27:16 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/web/footers/footer3.blade.php on line 8
+[13-Sep-2022 22:27:16 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/web/footers/footer3.blade.php on line 8
+[13-Sep-2022 22:27:16 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/web/footers/footer3.blade.php on line 8
+[13-Sep-2022 22:27:16 America/New_York] PHP Notice:  Trying to get property 'value' of non-object in /home/knoprotec/public_html/resources/views/web/footers/footer3.blade.php on line 8
+[13-Sep-2022 22:27:16 America/New_York] PHP Notice:  Undefined variable: result in /home/knoprotec/public_html/resources/views/web/footers/footer3.blade.php on line 12
+[13-Sep-2022 22:27:16 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/web/footers/footer3.blade.php on line 12
+[13-Sep-2022 22:27:16 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/web/footers/footer3.blade.php on line 12
+[13-Sep-2022 22:27:16 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/web/footers/footer3.blade.php on line 12
+[13-Sep-2022 22:27:16 America/New_York] PHP Notice:  Trying to get property 'value' of non-object in /home/knoprotec/public_html/resources/views/web/footers/footer3.blade.php on line 12
+[14-Sep-2022 06:28:45 America/New_York] PHP Notice:  Undefined variable: result in /home/knoprotec/public_html/resources/views/web/footers/footer3.blade.php on line 8
+[14-Sep-2022 06:28:45 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/web/footers/footer3.blade.php on line 8
+[14-Sep-2022 06:28:45 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/web/footers/footer3.blade.php on line 8
+[14-Sep-2022 06:28:45 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/web/footers/footer3.blade.php on line 8
+[14-Sep-2022 06:28:45 America/New_York] PHP Notice:  Trying to get property 'value' of non-object in /home/knoprotec/public_html/resources/views/web/footers/footer3.blade.php on line 8
+[14-Sep-2022 06:28:45 America/New_York] PHP Notice:  Undefined variable: result in /home/knoprotec/public_html/resources/views/web/footers/footer3.blade.php on line 12
+[14-Sep-2022 06:28:45 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/web/footers/footer3.blade.php on line 12
+[14-Sep-2022 06:28:45 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/web/footers/footer3.blade.php on line 12
+[14-Sep-2022 06:28:45 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/web/footers/footer3.blade.php on line 12
+[14-Sep-2022 06:28:45 America/New_York] PHP Notice:  Trying to get property 'value' of non-object in /home/knoprotec/public_html/resources/views/web/footers/footer3.blade.php on line 12
+[15-Sep-2022 07:55:17 America/New_York] PHP Notice:  Undefined variable: result in /home/knoprotec/public_html/resources/views/web/footers/footer1.blade.php on line 11
+[15-Sep-2022 07:55:17 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/web/footers/footer1.blade.php on line 11
+[15-Sep-2022 07:55:17 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/web/footers/footer1.blade.php on line 11
+[15-Sep-2022 07:55:17 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/web/footers/footer1.blade.php on line 11
+[15-Sep-2022 07:55:17 America/New_York] PHP Notice:  Undefined variable: result in /home/knoprotec/public_html/resources/views/web/footers/footer1.blade.php on line 15
+[15-Sep-2022 07:55:17 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/web/footers/footer1.blade.php on line 15
+[15-Sep-2022 07:55:17 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/web/footers/footer1.blade.php on line 15
+[15-Sep-2022 07:55:17 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/web/footers/footer1.blade.php on line 15
+[22-Sep-2022 17:53:15 America/New_York] PHP Notice:  Undefined variable: result in /home/knoprotec/public_html/resources/views/web/footers/footer1.blade.php on line 11
+[22-Sep-2022 17:53:15 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/web/footers/footer1.blade.php on line 11
+[22-Sep-2022 17:53:15 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/web/footers/footer1.blade.php on line 11
+[22-Sep-2022 17:53:15 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/web/footers/footer1.blade.php on line 11
+[22-Sep-2022 17:53:15 America/New_York] PHP Notice:  Undefined variable: result in /home/knoprotec/public_html/resources/views/web/footers/footer1.blade.php on line 15
+[22-Sep-2022 17:53:15 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/web/footers/footer1.blade.php on line 15
+[22-Sep-2022 17:53:15 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/web/footers/footer1.blade.php on line 15
+[22-Sep-2022 17:53:15 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/web/footers/footer1.blade.php on line 15
+[22-Sep-2022 19:52:47 America/New_York] PHP Notice:  Undefined variable: result in /home/knoprotec/public_html/resources/views/web/footers/footer3.blade.php on line 8
+[22-Sep-2022 19:52:47 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/web/footers/footer3.blade.php on line 8
+[22-Sep-2022 19:52:47 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/web/footers/footer3.blade.php on line 8
+[22-Sep-2022 19:52:47 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/web/footers/footer3.blade.php on line 8
+[22-Sep-2022 19:52:47 America/New_York] PHP Notice:  Trying to get property 'value' of non-object in /home/knoprotec/public_html/resources/views/web/footers/footer3.blade.php on line 8
+[22-Sep-2022 19:52:47 America/New_York] PHP Notice:  Undefined variable: result in /home/knoprotec/public_html/resources/views/web/footers/footer3.blade.php on line 12
+[22-Sep-2022 19:52:47 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/web/footers/footer3.blade.php on line 12
+[22-Sep-2022 19:52:47 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/web/footers/footer3.blade.php on line 12
+[22-Sep-2022 19:52:47 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/web/footers/footer3.blade.php on line 12
+[22-Sep-2022 19:52:47 America/New_York] PHP Notice:  Trying to get property 'value' of non-object in /home/knoprotec/public_html/resources/views/web/footers/footer3.blade.php on line 12
+[22-Sep-2022 21:46:39 America/New_York] PHP Notice:  Undefined variable: result in /home/knoprotec/public_html/resources/views/web/footers/footer4.blade.php on line 8
+[22-Sep-2022 21:46:39 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/web/footers/footer4.blade.php on line 8
+[22-Sep-2022 21:46:39 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/web/footers/footer4.blade.php on line 8
+[22-Sep-2022 21:46:39 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/web/footers/footer4.blade.php on line 8
+[22-Sep-2022 21:46:39 America/New_York] PHP Notice:  Undefined variable: result in /home/knoprotec/public_html/resources/views/web/footers/footer4.blade.php on line 12
+[22-Sep-2022 21:46:39 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/web/footers/footer4.blade.php on line 12
+[22-Sep-2022 21:46:39 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/web/footers/footer4.blade.php on line 12
+[22-Sep-2022 21:46:39 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/web/footers/footer4.blade.php on line 12
+[08-Oct-2022 18:22:33 America/New_York] PHP Notice:  Undefined variable: result in /home/knoprotec/public_html/resources/views/web/footers/footer1.blade.php on line 11
+[08-Oct-2022 18:22:33 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/web/footers/footer1.blade.php on line 11
+[08-Oct-2022 18:22:33 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/web/footers/footer1.blade.php on line 11
+[08-Oct-2022 18:22:33 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/web/footers/footer1.blade.php on line 11
+[08-Oct-2022 18:22:33 America/New_York] PHP Notice:  Undefined variable: result in /home/knoprotec/public_html/resources/views/web/footers/footer1.blade.php on line 15
+[08-Oct-2022 18:22:33 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/web/footers/footer1.blade.php on line 15
+[08-Oct-2022 18:22:33 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/web/footers/footer1.blade.php on line 15
+[08-Oct-2022 18:22:33 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/web/footers/footer1.blade.php on line 15
+[08-Oct-2022 18:22:56 America/New_York] PHP Notice:  Undefined variable: result in /home/knoprotec/public_html/resources/views/web/footers/footer3.blade.php on line 8
+[08-Oct-2022 18:22:56 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/web/footers/footer3.blade.php on line 8
+[08-Oct-2022 18:22:56 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/web/footers/footer3.blade.php on line 8
+[08-Oct-2022 18:22:56 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/web/footers/footer3.blade.php on line 8
+[08-Oct-2022 18:22:56 America/New_York] PHP Notice:  Trying to get property 'value' of non-object in /home/knoprotec/public_html/resources/views/web/footers/footer3.blade.php on line 8
+[08-Oct-2022 18:22:56 America/New_York] PHP Notice:  Undefined variable: result in /home/knoprotec/public_html/resources/views/web/footers/footer3.blade.php on line 12
+[08-Oct-2022 18:22:56 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/web/footers/footer3.blade.php on line 12
+[08-Oct-2022 18:22:56 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/web/footers/footer3.blade.php on line 12
+[08-Oct-2022 18:22:56 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/web/footers/footer3.blade.php on line 12
+[08-Oct-2022 18:22:56 America/New_York] PHP Notice:  Trying to get property 'value' of non-object in /home/knoprotec/public_html/resources/views/web/footers/footer3.blade.php on line 12
+[08-Oct-2022 20:04:29 America/New_York] PHP Notice:  Undefined variable: result in /home/knoprotec/public_html/resources/views/web/footers/footer4.blade.php on line 8
+[08-Oct-2022 20:04:29 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/web/footers/footer4.blade.php on line 8
+[08-Oct-2022 20:04:29 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/web/footers/footer4.blade.php on line 8
+[08-Oct-2022 20:04:29 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/web/footers/footer4.blade.php on line 8
+[08-Oct-2022 20:04:29 America/New_York] PHP Notice:  Undefined variable: result in /home/knoprotec/public_html/resources/views/web/footers/footer4.blade.php on line 12
+[08-Oct-2022 20:04:29 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/web/footers/footer4.blade.php on line 12
+[08-Oct-2022 20:04:29 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/web/footers/footer4.blade.php on line 12
+[08-Oct-2022 20:04:29 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/web/footers/footer4.blade.php on line 12
+[12-Oct-2022 00:33:12 America/New_York] PHP Notice:  Undefined variable: result in /home/knoprotec/public_html/resources/views/web/footers/footer1.blade.php on line 11
+[12-Oct-2022 00:33:12 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/web/footers/footer1.blade.php on line 11
+[12-Oct-2022 00:33:12 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/web/footers/footer1.blade.php on line 11
+[12-Oct-2022 00:33:12 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/web/footers/footer1.blade.php on line 11
+[12-Oct-2022 00:33:12 America/New_York] PHP Notice:  Undefined variable: result in /home/knoprotec/public_html/resources/views/web/footers/footer1.blade.php on line 15
+[12-Oct-2022 00:33:12 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/web/footers/footer1.blade.php on line 15
+[12-Oct-2022 00:33:12 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/web/footers/footer1.blade.php on line 15
+[12-Oct-2022 00:33:12 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/web/footers/footer1.blade.php on line 15
+[12-Oct-2022 00:33:49 America/New_York] PHP Notice:  Undefined variable: result in /home/knoprotec/public_html/resources/views/web/footers/footer4.blade.php on line 8
+[12-Oct-2022 00:33:49 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/web/footers/footer4.blade.php on line 8
+[12-Oct-2022 00:33:49 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/web/footers/footer4.blade.php on line 8
+[12-Oct-2022 00:33:49 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/web/footers/footer4.blade.php on line 8
+[12-Oct-2022 00:33:49 America/New_York] PHP Notice:  Undefined variable: result in /home/knoprotec/public_html/resources/views/web/footers/footer4.blade.php on line 12
+[12-Oct-2022 00:33:49 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/web/footers/footer4.blade.php on line 12
+[12-Oct-2022 00:33:49 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/web/footers/footer4.blade.php on line 12
+[12-Oct-2022 00:33:49 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/web/footers/footer4.blade.php on line 12
+[12-Oct-2022 00:35:47 America/New_York] PHP Notice:  Undefined variable: result in /home/knoprotec/public_html/resources/views/web/footers/footer3.blade.php on line 8
+[12-Oct-2022 00:35:47 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/web/footers/footer3.blade.php on line 8
+[12-Oct-2022 00:35:47 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/web/footers/footer3.blade.php on line 8
+[12-Oct-2022 00:35:47 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/web/footers/footer3.blade.php on line 8
+[12-Oct-2022 00:35:47 America/New_York] PHP Notice:  Trying to get property 'value' of non-object in /home/knoprotec/public_html/resources/views/web/footers/footer3.blade.php on line 8
+[12-Oct-2022 00:35:47 America/New_York] PHP Notice:  Undefined variable: result in /home/knoprotec/public_html/resources/views/web/footers/footer3.blade.php on line 12
+[12-Oct-2022 00:35:47 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/web/footers/footer3.blade.php on line 12
+[12-Oct-2022 00:35:47 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/web/footers/footer3.blade.php on line 12
+[12-Oct-2022 00:35:47 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/web/footers/footer3.blade.php on line 12
+[12-Oct-2022 00:35:47 America/New_York] PHP Notice:  Trying to get property 'value' of non-object in /home/knoprotec/public_html/resources/views/web/footers/footer3.blade.php on line 12
+[24-Oct-2022 14:57:48 America/New_York] PHP Notice:  Undefined variable: result in /home/knoprotec/public_html/resources/views/web/footers/footer3.blade.php on line 8
+[24-Oct-2022 14:57:48 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/web/footers/footer3.blade.php on line 8
+[24-Oct-2022 14:57:48 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/web/footers/footer3.blade.php on line 8
+[24-Oct-2022 14:57:48 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/web/footers/footer3.blade.php on line 8
+[24-Oct-2022 14:57:48 America/New_York] PHP Notice:  Trying to get property 'value' of non-object in /home/knoprotec/public_html/resources/views/web/footers/footer3.blade.php on line 8
+[24-Oct-2022 14:57:48 America/New_York] PHP Notice:  Undefined variable: result in /home/knoprotec/public_html/resources/views/web/footers/footer3.blade.php on line 12
+[24-Oct-2022 14:57:48 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/web/footers/footer3.blade.php on line 12
+[24-Oct-2022 14:57:48 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/web/footers/footer3.blade.php on line 12
+[24-Oct-2022 14:57:48 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/web/footers/footer3.blade.php on line 12
+[24-Oct-2022 14:57:48 America/New_York] PHP Notice:  Trying to get property 'value' of non-object in /home/knoprotec/public_html/resources/views/web/footers/footer3.blade.php on line 12
+[24-Oct-2022 15:01:06 America/New_York] PHP Notice:  Undefined variable: result in /home/knoprotec/public_html/resources/views/web/footers/footer1.blade.php on line 11
+[24-Oct-2022 15:01:06 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/web/footers/footer1.blade.php on line 11
+[24-Oct-2022 15:01:06 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/web/footers/footer1.blade.php on line 11
+[24-Oct-2022 15:01:06 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/web/footers/footer1.blade.php on line 11
+[24-Oct-2022 15:01:06 America/New_York] PHP Notice:  Undefined variable: result in /home/knoprotec/public_html/resources/views/web/footers/footer1.blade.php on line 15
+[24-Oct-2022 15:01:06 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/web/footers/footer1.blade.php on line 15
+[24-Oct-2022 15:01:06 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/web/footers/footer1.blade.php on line 15
+[24-Oct-2022 15:01:06 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/web/footers/footer1.blade.php on line 15
+[24-Oct-2022 23:25:32 America/New_York] PHP Notice:  Undefined variable: result in /home/knoprotec/public_html/resources/views/web/footers/footer4.blade.php on line 8
+[24-Oct-2022 23:25:32 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/web/footers/footer4.blade.php on line 8
+[24-Oct-2022 23:25:32 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/web/footers/footer4.blade.php on line 8
+[24-Oct-2022 23:25:32 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/web/footers/footer4.blade.php on line 8
+[24-Oct-2022 23:25:32 America/New_York] PHP Notice:  Undefined variable: result in /home/knoprotec/public_html/resources/views/web/footers/footer4.blade.php on line 12
+[24-Oct-2022 23:25:32 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/web/footers/footer4.blade.php on line 12
+[24-Oct-2022 23:25:32 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/web/footers/footer4.blade.php on line 12
+[24-Oct-2022 23:25:32 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/web/footers/footer4.blade.php on line 12
+[25-Oct-2022 13:22:28 America/New_York] PHP Notice:  Undefined variable: result in /home/knoprotec/public_html/resources/views/web/footers/footer3.blade.php on line 8
+[25-Oct-2022 13:22:28 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/web/footers/footer3.blade.php on line 8
+[25-Oct-2022 13:22:28 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/web/footers/footer3.blade.php on line 8
+[25-Oct-2022 13:22:28 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/web/footers/footer3.blade.php on line 8
+[25-Oct-2022 13:22:28 America/New_York] PHP Notice:  Trying to get property 'value' of non-object in /home/knoprotec/public_html/resources/views/web/footers/footer3.blade.php on line 8
+[25-Oct-2022 13:22:28 America/New_York] PHP Notice:  Undefined variable: result in /home/knoprotec/public_html/resources/views/web/footers/footer3.blade.php on line 12
+[25-Oct-2022 13:22:28 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/web/footers/footer3.blade.php on line 12
+[25-Oct-2022 13:22:28 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/web/footers/footer3.blade.php on line 12
+[25-Oct-2022 13:22:28 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/web/footers/footer3.blade.php on line 12
+[25-Oct-2022 13:22:28 America/New_York] PHP Notice:  Trying to get property 'value' of non-object in /home/knoprotec/public_html/resources/views/web/footers/footer3.blade.php on line 12
+[25-Oct-2022 13:22:52 America/New_York] PHP Notice:  Undefined variable: result in /home/knoprotec/public_html/resources/views/web/footers/footer1.blade.php on line 11
+[25-Oct-2022 13:22:52 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/web/footers/footer1.blade.php on line 11
+[25-Oct-2022 13:22:52 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/web/footers/footer1.blade.php on line 11
+[25-Oct-2022 13:22:52 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/web/footers/footer1.blade.php on line 11
+[25-Oct-2022 13:22:52 America/New_York] PHP Notice:  Undefined variable: result in /home/knoprotec/public_html/resources/views/web/footers/footer1.blade.php on line 15
+[25-Oct-2022 13:22:52 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/web/footers/footer1.blade.php on line 15
+[25-Oct-2022 13:22:52 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/web/footers/footer1.blade.php on line 15
+[25-Oct-2022 13:22:52 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/web/footers/footer1.blade.php on line 15
+[25-Oct-2022 13:31:38 America/New_York] PHP Notice:  Undefined variable: result in /home/knoprotec/public_html/resources/views/web/footers/footer4.blade.php on line 8
+[25-Oct-2022 13:31:38 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/web/footers/footer4.blade.php on line 8
+[25-Oct-2022 13:31:38 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/web/footers/footer4.blade.php on line 8
+[25-Oct-2022 13:31:38 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/web/footers/footer4.blade.php on line 8
+[25-Oct-2022 13:31:38 America/New_York] PHP Notice:  Undefined variable: result in /home/knoprotec/public_html/resources/views/web/footers/footer4.blade.php on line 12
+[25-Oct-2022 13:31:38 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/web/footers/footer4.blade.php on line 12
+[25-Oct-2022 13:31:38 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/web/footers/footer4.blade.php on line 12
+[25-Oct-2022 13:31:38 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/knoprotec/public_html/resources/views/web/footers/footer4.blade.php on line 12
