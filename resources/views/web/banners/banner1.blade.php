@@ -1,5 +1,5 @@
-<!-- //banner one -->
-<div class="banner-one">
+<!-- //banner one1 -->
+{{-- <div class="banner-one">
     <div class="container">
       <div class="group-banners">
           <div class="row">
@@ -17,6 +17,6 @@
           </div>
         </div>
     </div>
-</div>
+</div> --}}
 
 
